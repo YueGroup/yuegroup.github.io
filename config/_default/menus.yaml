@@ -4,18 +4,34 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: home
-    weight: 10
-  - name: Research
+
+  - name: research.
     url: research
-    weight: 20
-  - name: People
+    weight: 10
+
+  - name: people.
     url: people
+    weight: 20
+
+      - name: PI
+        url: authors/pi
+        parent: People 
+        weight: 21
+
+      - name: group members
+        url: authors/group_members
+        parent: People 
+        weight: 22
+
+      - name: alumni
+        url: authors/alumni
+        parent: People 
+        weight: 23
+
+  - name: news.
+    url: news
     weight: 30
-  - name: News
-    url: post
-    weight: 40
-  - name: Publications
+
+  - name: papers.
     url: publication
-    weight: 50
+    weight: 40
