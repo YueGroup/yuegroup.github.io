@@ -5,33 +5,18 @@
 
 main:
 
-  - name: research.
+  - name: research
     url: research
     weight: 10
 
-  - name: people.
+  - name: people
     url: people
     weight: 20
 
-      - name: PI
-        url: authors/pi
-        parent: People 
-        weight: 21
-
-      - name: group members
-        url: authors/group_members
-        parent: People 
-        weight: 22
-
-      - name: alumni
-        url: authors/alumni
-        parent: People 
-        weight: 23
-
-  - name: news.
+  - name: news
     url: news
     weight: 30
 
-  - name: papers.
-    url: publication
+  - name: papers
+    url: papers
     weight: 40
