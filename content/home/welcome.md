@@ -7,12 +7,11 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Yue Group @ Cornell CBE  
-  Research Group
+  Simulation and Machine-learning for Molecular Sciences
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   # Add custom styles
   css_style:
   css_class:
@@ -20,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+We are the **Yue Research Group** at the Robert F. Smith School of Chemical and Biomolecular Engineering at Cornell University, working at the interface of molecular simulation, machine-learning, statistical mechanics, and quantum mechanics towards the design of novel electrolytes and materials for energy and sustainability technologies.
