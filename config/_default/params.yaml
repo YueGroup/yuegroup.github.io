@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Apogee
-  theme_night: Apogee
+  theme_day: Coffee
+  theme_night: Coffee
   font: cyberpunk
   font_size: L
 
