@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: cyberpunk
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Research group at Cornell CBE focused on AI/ML for molecular sciences'
-    twitter: 'yuegroup'
+    twitter: 'shuwenyue'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,12 +43,12 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Yue Research Group. This work is licensed under {license}'
+    notice: '© Yue Research Group, {year}.' # This work is licensed under {license}'
     license:
       enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+        #allow_derivatives: false
+        #share_alike: true
+        #allow_commercial: false
 
 # Localization
 
