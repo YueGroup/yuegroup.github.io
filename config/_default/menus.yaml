@@ -5,18 +5,18 @@
 
 main:
 
-  - name: research
+  - name: research.
     url: research
     weight: 10
 
-  - name: people
+  - name: people.
     url: people
     weight: 20
 
-  - name: news
+  - name: news.
     url: news
     weight: 30
 
-  - name: papers
+  - name: papers.
     url: papers
     weight: 40
