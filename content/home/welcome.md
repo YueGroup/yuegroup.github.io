@@ -19,4 +19,4 @@ design:
 
 <br>
 
-We are the **Yue Research Group** at the Robert F. Smith School of Chemical and Biomolecular Engineering at Cornell University, working at the interface of molecular simulation, machine-learning, statistical mechanics, and quantum mechanics towards the design of novel electrolytes and materials for energy and sustainability technologies.
+We are the **Yue Research Group** at Cornell University in the Robert F. Smith School of Chemical and Biomolecular Engineering. We work at the interface of molecular simulation, machine-learning, statistical mechanics, and quantum mechanics towards the design of novel electrolytes and materials for energy and sustainability technologies.
