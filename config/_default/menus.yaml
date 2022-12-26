@@ -10,13 +10,30 @@ main:
     weight: 10
 
   - name: people.
+    identifier: people
     url: people
     weight: 20
 
-  - name: news.
-    url: news
-    weight: 30
+  - name: pi
+    parent: people
+    url: people/pi/
+    weight: 21
+
+  - name: group members
+    parent: people
+    url: people/group_members
+    weight: 22
+
+  - name: alumni
+    parent: people
+    url: people/alumni
+    weight: 23
 
   - name: papers.
     url: papers
+    weight: 30
+
+  - name: news.
+    url: news
     weight: 40
+
