@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: Mr Robot
-  theme_night: Mr Robot
+  theme_day: Ocean
+  theme_night: Ocean
   font: cyberpunk
-  font_size: L
+  font_size: M
 
 # SEO
 
