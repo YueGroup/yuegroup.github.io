@@ -1,4 +1,4 @@
 # Yue Group website
-(Based on [Hugo Research Group Theme] https://github.com/wowchemy/starter-hugo-research-group)
+(Based on Hugo Research Group Theme https://github.com/wowchemy/starter-hugo-research-group)
 
 
