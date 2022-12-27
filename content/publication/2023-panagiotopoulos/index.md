@@ -1,20 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Transferability of data-driven, many-body models for CO2 simulations in the
-  vapor and liquid phases
+title: Dynamics of aqueous electrolyte solutions - Challenges for simulations
 subtitle: ''
 summary: ''
 authors:
-- Shuwen Yue
-- Marc Riera
-- Raja Ghosh
 - Athanassios Z Panagiotopoulos
-- Francesco Paesani
+- Shuwen Yue
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-12-26T21:56:36-06:00
+date: '2023-01-01'
+lastmod: 2022-12-26T22:30:09-06:00
 featured: false
 draft: false
 
@@ -32,13 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-27T03:56:36.352259Z'
+publishDate: '2022-12-27T04:30:09.525183Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*The Journal of Chemical Physics*'
-doi: 10.1063/5.0080061
-links:
-- name: data
-  url: https://doi.org/10.34770/1yv3-0a21
+publication: '*The Journal of Physical Chemistry B*'
+doi: ''
 ---

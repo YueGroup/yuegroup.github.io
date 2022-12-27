@@ -27,7 +27,7 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2023
     - course: Ph.D. in Chemical and Biological Engineering
-      institution: Massachusetts Institute of Technology
+      institution: Princeton University
       year: 2021
     - course: B.S. in Chemical Engineering and Chemistry 
       institution: The University of Alabama

@@ -37,4 +37,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*The Journal of Chemical Physics*'
+doi: 10.1063/5.0012065
 ---

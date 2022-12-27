@@ -42,4 +42,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Polymer Science Part A: Polymer Chemistry*'
+doi: 10.1002/pola.29211
 ---

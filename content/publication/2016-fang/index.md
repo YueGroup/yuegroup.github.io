@@ -40,4 +40,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of chemical theory and computation*'
+doi: 10.1021/acs.jctc.6b00464
 ---

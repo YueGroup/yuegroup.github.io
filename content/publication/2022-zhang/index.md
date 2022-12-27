@@ -36,4 +36,8 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Nature communications*'
+doi: 10.1038/s41467-022-28538-8
+links:
+- name: data
+  url: https://doi.org/10.6084/m9.figshare.17193023.v1 
 ---

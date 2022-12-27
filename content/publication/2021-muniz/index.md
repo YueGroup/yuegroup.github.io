@@ -38,4 +38,8 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*The Journal of Chemical Physics*'
+doi: 10.1063/5.0050068
+links:
+- name: data
+  url: https://doi.org/10.34770/nfcx-rb66
 ---
