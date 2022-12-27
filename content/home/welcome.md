@@ -12,8 +12,8 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   background:
-    image: welcome.jpg
-    image_darken: 0.5
+    image: front_page_background.jpg
+    #image_darken: 0.5
     image_parallax: true
     image_position: center
     image_size: cover
