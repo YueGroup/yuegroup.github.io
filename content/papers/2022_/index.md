@@ -9,7 +9,8 @@ authors:
   - Athanassios Z. Panagiotopoulos
 author_notes:
   - 'Equal contribution'
-date: '2021-01-21T00:00:00Z'
+  - 'Equal contribution'
+date: '2021-01-21'
 doi: 'https://doi.org/10.1063/5.0031215'
 
 # Schedule page publish date (NOT publication's date).
