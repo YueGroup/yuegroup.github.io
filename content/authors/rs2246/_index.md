@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. student
+role: M.S. student
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:nm558@cornell.edu'
+  link: 'mailto:rs2246@cornell.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/shuwenyue
@@ -63,4 +63,4 @@ highlight_name: false
 user_groups:
 - Graduate Students
 ---
-Nupur joined the group as a Ph.D. student in October 2022. 
+Rahul joined the group as an M.S. student in October 2022. 
