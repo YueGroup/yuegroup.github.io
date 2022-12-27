@@ -41,6 +41,5 @@ doi: 10.1063/5.0031215
 links:
 - name: video
   url: https://www.youtube.com/watch?v=EMFWuNMs0pk
-
 ---
 ---

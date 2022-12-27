@@ -37,4 +37,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Chemical & Engineering Data*'
+doi: 10.1080/00268976.2019.1645901
 ---
