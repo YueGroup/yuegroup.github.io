@@ -1,3 +1,4 @@
+---
 # Display name
 title: Rahul Sheshanarayana
 
@@ -9,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.S. student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -19,14 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: 
 
-interests:
-- Computational Chemistry
-
 education:
   courses:
   - course: B.Tech. in Chemical Engineering
-    institution: Indian Institute of Technology (IIT), Roorkee
-    year: 2022
+    institution: Indian Institute of Technology (IIT), Kanpur
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,7 +33,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:rs2246@cornell.edu'
+  link: 'mailto:nm558@cornell.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/shuwenyue
@@ -55,7 +53,7 @@ social:
 #  link: files/CV_Shuweny.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "rs2246@cornell.edu"
+#email: "nm558@cornell.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -65,4 +63,4 @@ highlight_name: false
 user_groups:
 - Graduate Students
 ---
-Rahul joined the group as an M.S. student in October 2022. 
+Nupur joined the group as a Ph.D. student in October 2022. 
