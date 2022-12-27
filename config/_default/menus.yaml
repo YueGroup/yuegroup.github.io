@@ -5,6 +5,10 @@
 
 main:
 
+  - name: home
+    url: /
+    weight: 1
+
   - name: research.
     url: research
     weight: 10
@@ -16,17 +20,17 @@ main:
 
   - name: pi
     parent: people
-    url: people/pi/
+    url: author/sy593
     weight: 21
 
   - name: group members
     parent: people
-    url: people/group_members
+    url: people
     weight: 22
 
   - name: alumni
     parent: people
-    url: people/alumni
+    url: people
     weight: 23
 
   - name: papers.
