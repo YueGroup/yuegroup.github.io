@@ -9,11 +9,11 @@ authors:
   - Athanassios Z. Panagiotopoulos
 author_notes:
   - 'Equal contribution'
-date: ''
-doi: ''
+date: '2021-01-21T00:00:00Z'
+doi: 'https://doi.org/10.1063/5.0031215'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-01-21T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1063/5.0031215
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -66,10 +66,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides:
----
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
