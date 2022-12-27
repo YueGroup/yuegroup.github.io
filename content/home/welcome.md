@@ -14,7 +14,7 @@ design:
   columns: '1'
     background:
     image: welcome.jpg
-    #image_darken: 0.5
+    image_darken: 0.5
     image_parallax: true
     image_position: center
     image_size: cover

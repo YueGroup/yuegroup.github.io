@@ -69,6 +69,6 @@ highlight_name: True
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- grad students
+- grad_students
 ---
 Spencer joined the group as a Ph.D. student in October 2022. 
