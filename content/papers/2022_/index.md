@@ -1,7 +1,7 @@
 ---
 title: 'When do short-range atomistic machine-learning models fall short?'
 authors:
-  - Shuwen Yue
+  - shuwenyue
   - Maria Carolina Muniz
   - Marcos F. Calegari Andrade
   - Linfeng Zhang
@@ -11,7 +11,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 date: '2021-01-21'
-doi: 'https://doi.org/10.1063/5.0031215'
+doi: '10.1063/5.0031215'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
