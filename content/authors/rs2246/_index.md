@@ -22,9 +22,9 @@ organizations:
 
 education:
   courses:
-  - course: B.Tech. in Chemical Engineering
-    institution: Indian Institute of Technology (IIT), Kanpur
-    year: 2021
+  - course: B.Tech. in Polymer Science and Engineering
+    institution: Indian Institute of Technology (IIT), Roorkee
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
