@@ -20,11 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: 
 
-interests:
-- aqueous electrolytes
-- interfacial phenomena
-- molecular dynamics
-
 education:
   courses:
   - course: M.S. in Chemical Engineering
@@ -69,6 +64,6 @@ highlight_name: True
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- grad_students
+- Graduate Students
 ---
 Spencer joined the group as a Ph.D. student in October 2022. 

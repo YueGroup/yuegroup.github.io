@@ -2,6 +2,10 @@
 # Display name
 title: Shuwen Yue
 
+# Username (this should match the folder name)
+authors:
+  - sy593
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -15,11 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
-interests:
-  - Machine learning
-  - Molecular design
-  - Molecular simulation
 
 education:
   courses:
@@ -52,9 +51,9 @@ social:
     link: https://github.com/shuwenyue
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: static/files/sy593_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -65,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - pi
+  - Principal Investigator
 ---
 
 Shuwen Yue is an Assistant Professor in the Robert F. Smith School of Chemical and Biomolecular Engineering at Cornell University.

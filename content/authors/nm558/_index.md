@@ -20,11 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: 
 
-interests:
-- battery electrolytes
-- machine learning
-- materials design
-
 education:
   courses:
   - course: B.Tech. in Chemical Engineering
@@ -66,6 +61,6 @@ highlight_name: True
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- grad_students
+- Graduate Students
 ---
 Nupur joined the group as a Ph.D. student in October 2022. 

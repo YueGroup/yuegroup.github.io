@@ -19,11 +19,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: 
 
-interests:
-- machine learning
-- graphene interfaces
-- materials design
-
 education:
   courses:
   - course: B.Tech. in Chemical Engineering
@@ -65,6 +60,6 @@ highlight_name: True
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- grad_students
+- Graduate Students
 ---
 Rahul joined the group as an M.S. student in October 2022. 
