@@ -12,7 +12,7 @@ content:
   filters:
     author: ''
     category: ''
-    exclude_featured: false
+    exclude_featured: true
     publication_type: ''
     tag: ''
   offset: 0
@@ -21,11 +21,11 @@ content:
 design:
   view: 3
   columns: '1'
-#  background:
-#    image: test.jpg
-#    image_darken: 0
-#    image_parallax: true
-#    image_position: center
-#    image_size: cover
-#    text_color_light: true
+  background:
+    image: test.jpg
+    image_darken: 0
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: true
 ---
