@@ -33,5 +33,4 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*The Journal of Physical Chemistry B*'
-doi: ''
 ---
