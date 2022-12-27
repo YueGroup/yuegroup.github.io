@@ -15,5 +15,5 @@ filters:
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: welcome.jpg
+  image: test.jpg
 ---
