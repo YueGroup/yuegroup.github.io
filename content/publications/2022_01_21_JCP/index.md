@@ -2,13 +2,7 @@
 title: 'When do short-range atomistic machine-learning models fall short?'
 authors:
   - shuwenyue
-  - Maria Carolina Muniz
-  - Marcos F. Calegari Andrade
-  - Linfeng Zhang
-  - Roberto Car
-  - Athanassios Z. Panagiotopoulos
 author_notes:
-  - 'Equal contribution'
 date: ''
 doi: ''
 
@@ -26,7 +20,6 @@ publication: '*The Journal of Chemical Physics*, 154, 034111'
 publication_short: ''
 
 abstract: 
-
 # Summary. An optional shortened abstract.
 summary: 
 
