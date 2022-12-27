@@ -9,7 +9,6 @@ authors:
   - Athanassios Z. Panagiotopoulos
 author_notes:
   - 'Equal contribution'
-  - 'Equal contribution'
 date: ''
 doi: ''
 
