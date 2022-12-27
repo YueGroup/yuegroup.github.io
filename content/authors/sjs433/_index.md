@@ -20,6 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: 
 
+interests:
+- Computational Chemistry
+
 education:
   courses:
   - course: M.S. in Chemical Engineering
@@ -59,7 +62,7 @@ social:
 #email: "nm558@cornell.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: True
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
