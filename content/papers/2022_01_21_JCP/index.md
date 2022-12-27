@@ -10,8 +10,8 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2017-01-01T00:00:00Z'
-doi: '10.1063/5.0031215'
+date: ''
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
