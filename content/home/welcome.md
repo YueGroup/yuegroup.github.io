@@ -12,13 +12,13 @@ title: |
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  #  background:
-  #  image: welcome.jpg
-  #  image_darken: 0.5
-  #  image_parallax: true
-  #  image_position: center
-  #  image_size: cover
-  #  text_color_light: true
+    background:
+    image: welcome.jpg
+    image_darken: 0.5
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: true
   #spacing:
   #  Customize the section spacing. Order is top, right, bottom, left.
   #  padding: ["20px", "0", "20px", "0"]

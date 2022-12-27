@@ -23,10 +23,10 @@ organizations:
 education:
   courses:
   - course: M.S. in Chemical Engineering
-    institution: Miami University (OH)
+    institution: Miami University
     year: 2022
   - course: B.S. in Chemical Engineering
-    institution: Miami University (OH)
+    institution: Miami University
     year: 2022
 
 # Social/Academic Networking
