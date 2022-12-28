@@ -42,9 +42,9 @@
       <h3>{{ i18n "user_profile_posts" | default "Publications" }}</h3>
       <ul>
         {{ range $query }}
-        <li>
+        <ol>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </li>
+        </ol>
         {{ end }}
       </ul>
     </div>
