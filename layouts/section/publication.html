@@ -66,9 +66,9 @@
             {{ $.Scratch.Set "pubtype" 0 }}
           {{ end }}     
           <div id="papers" class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "pubtype" }} year-{{ .Date.Format "2006" }}">
-            <!-- <li> -->
+            <li>
               {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
-            <!-- </li> -->
+            </li>
           </div>
         {{ end }}
         </ol>
