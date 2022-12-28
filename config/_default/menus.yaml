@@ -18,21 +18,6 @@ main:
     url: people
     weight: 20
 
-  - name: pi
-    parent: people
-    url: author/shuwen-yue
-    weight: 21
-
-  - name: group members
-    parent: people
-    url: people
-    weight: 22
-
-  - name: alumni
-    parent: people
-    url: people
-    weight: 23
-
   - name: papers.
     url: papers
     weight: 30
