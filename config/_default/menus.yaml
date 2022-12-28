@@ -34,7 +34,7 @@ main:
     weight: 23
 
   - name: papers.
-    url: publication
+    url: papers
     weight: 30
 
   - name: news.
