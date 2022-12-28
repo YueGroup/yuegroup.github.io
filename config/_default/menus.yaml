@@ -18,10 +18,10 @@ main:
     url: people
     weight: 20
 
-      #  - name: pi
-      #parent: people
-      #url: authors/sy593
-      #weight: 21
+  - name: pi
+    parent: people
+    url: authors/sy593
+    weight: 21
 
   - name: group members
     parent: people
