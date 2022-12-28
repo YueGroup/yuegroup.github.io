@@ -3,3 +3,13 @@ Notes:
 - content/authors have all group member profiles. I named by LastnameFirstname to be in alphabetical order. 'weight' is added as a argument to maintain order of member listings, otherwise the order is determined by most recent post which linked a member.
 - content/home/welcome page is work in progress. currently background image does not work.
 - content/publication (name needs to remain publication, not publications for everything to work smoothly). For new publication entries, copy over a paper directory and change title, authors, publishDate, date, abstract, citation, and various URLs. For author list, if author is a group member, use assigned 'author' username LastnameFirstname
+
+
+layouts
+- authors/list.html controls how the publications on each author profile page is displayed - namely in reverse number order
+- partials/views/custom.html controls how publications are listed in publications page - namely in reverse number order and with formatted citation, adapted from cittion.html
+- section/publication.html controls the formatting of the publications page, if there are sorting/search bars up top (which I removed), and numbering etc of the page
+
+Design
+- I removed shadows from top menu bar
+- manual color scheme is in data/themes/custom.toml
