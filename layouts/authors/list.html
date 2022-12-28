@@ -26,9 +26,9 @@
       <h3>{{ i18n "user_profile_publications" | default "papers" }}</h3>
       <ol reversed>
         {{ range $query }}
-        <ol>
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "2006" }})</li>
-        </ol>
+        <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "2006" }})
+        </li>
         {{ end }}
       </ol>
     </div>
@@ -40,13 +40,13 @@
     {{ if $count }}
     <div class="article-widget content-widget-hr">
       <h3>{{ i18n "user_profile_posts" | default "Publications" }}</h3>
-      <ul>
+      <ol reversed>
         {{ range $query }}
-        <ol>
+        <li>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </ol>
+        </li>
         {{ end }}
-      </ul>
+      </ol>
     </div>
     {{ end }}
   </div>
