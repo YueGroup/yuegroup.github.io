@@ -6,7 +6,7 @@ aliases:
 view: 4
 
 # Listing view
-#view: citation
+view: citation
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
