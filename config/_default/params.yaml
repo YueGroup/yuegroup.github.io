@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: 
+  theme_day: minimal
   theme_night: minimal
-  font: cyberpunk
+  font: minimal
   font_size: M
 
 # SEO
