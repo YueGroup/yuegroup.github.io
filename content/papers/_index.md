@@ -4,7 +4,7 @@ aliases:
   - Publications
 
 # Listing view
-view: custom
+view: modified
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
