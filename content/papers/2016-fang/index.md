@@ -39,6 +39,9 @@ publishDate: '2022-12-27T03:56:35.543415Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of chemical theory and computation*'
+publication: '*Journal of chemical theory and computation*, **12**, 8, 3689-3710. (2016)'
 doi: 10.1021/acs.jctc.6b00464
+links:
+- name: URL
+  url: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00464
 ---

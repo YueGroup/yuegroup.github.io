@@ -23,5 +23,5 @@ design:
   show_interests: false
   show_role: true
   show_social: true
-#Check out where our alumni are [here]({{< relref "../alumni/-group-alumni" >}})!
+#Check out where our alumni are [here]({{< relref "../alumni/index.md" >}})!
 ---
