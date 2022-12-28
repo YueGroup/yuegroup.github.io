@@ -2,6 +2,7 @@
 title: Papers
 aliases:
   - Publications
+view: 4
 
 # Listing view
 view: community/citation
