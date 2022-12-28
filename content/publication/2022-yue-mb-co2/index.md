@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Transferability of data-driven, many-body models for CO\2082 simulations in the vapor and liquid phases
+title: Transferability of data-driven, many-body models for CO2 simulations in the vapor and liquid phases
 subtitle: ''
 summary: ''
 authors:
 - sy593
 - Marc Riera
 - Raja Ghosh
-- Athanassios Z Panagiotopoulos
+- Athanassios Z. Panagiotopoulos
 - Francesco Paesani
 tags: []
 categories: []
@@ -37,6 +37,6 @@ publication: '*The Journal of Chemical Physics*, **156**, 104503. (2022)'
 links:
 - name: URL
   url: https://aip.scitation.org/doi/10.1063/5.0080061
-- name: data
+- name: Data
   url: https://doi.org/10.34770/1yv3-0a21
 ---

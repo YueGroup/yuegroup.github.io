@@ -1,13 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Dynamic properties of aqueous electrolyte solutions from non-polarisable, polarisable,
-  and scaled-charge models
+title: Dynamic properties of aqueous electrolyte solutions from non-polarisable, polarisable, and scaled-charge models
 subtitle: ''
 summary: ''
 authors:
 - sy593
-- Athanassios Z Panagiotopoulos
+- Athanassios Z. Panagiotopoulos
 tags: []
 categories: []
 date: '2019-01-01'

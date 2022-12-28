@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Vapor--liquid equilibrium of water with the MB-pol many-body potential
+title: Vapor-liquid equilibrium of water with the MB-pol many-body potential
 subtitle: ''
 summary: ''
 authors:
 - Maria Carolina Muniz
-- Thomas E Gartner III
+- Thomas E. Gartner III
 - Marc Riera
 - Christopher Knight
 - sy593
 - Francesco Paesani
-- Athanassios Z Panagiotopoulos
+- Athanassios Z. Panagiotopoulos
 tags: []
 categories: []
 date: '2021-01-01'

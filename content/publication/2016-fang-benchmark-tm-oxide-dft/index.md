@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Benchmark calculations of Energetic properties of Groups 4 and 6 transition
-  metal oxide nanoclusters Including comparison to density functional theory
+title: Benchmark calculations of Energetic properties of Groups 4 and 6 transition metal oxide nanoclusters Including comparison to density functional theory
 subtitle: ''
 summary: ''
 authors:
@@ -12,8 +11,8 @@ authors:
 - sy593
 - Edoardo Apra
 - Murat Keceli
-- Albert F Wagner
-- David A Dixon
+- Albert F. Wagner
+- David A. Dixon
 tags: []
 categories: []
 date: '2016-01-01'

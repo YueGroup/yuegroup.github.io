@@ -1,15 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Modeling Chemical Reactions in Alkali Carbonate--Hydroxide Electrolytes with
-  Deep Learning Potentials
+title: Modeling chemical reactions in alkali carbonate-hydroxide electrolytes with deep learning potentials
 subtitle: ''
 summary: ''
 authors:
 - Anirban Mondal
 - Dina Kussainova
 - sy593
-- Athanassios Z Panagiotopoulos
+- Athanassios Z. Panagiotopoulos
 tags: []
 categories: []
 date: '2022-01-01'

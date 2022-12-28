@@ -1,21 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Systematic Investigation of the Photopolymerization of Imidazolium-Based Ionic
-  Liquid Styrene and Vinyl Monomers
+title: Systematic investigation of the photopolymerization of imidazolium-based ionic liquid styrene and vinyl monomers
 subtitle: ''
 summary: ''
 authors:
-- John W Whitley
-- William Jeffrey Horne
-- Matthew S Shannon
-- Mary A Andrews
-- Kelsey L Terrell
-- Spenser S Hayward
+- John W. Whitley
+- William J. Horne
+- Matthew S. Shannon
+- Mary A. Andrews
+- Kelsey L. Terrell
+- Spenser S. Hayward
 - sy593
-- Max S Mittenthal
-- Kathryn E O'Harra
-- Jason E Bara
+- Max S. Mittenthal
+- Kathryn E. O'Harra
+- Jason E. Bara
 tags: []
 categories: []
 date: '2018-01-01'

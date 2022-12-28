@@ -5,7 +5,7 @@ title: Dynamics of aqueous electrolyte solutions - Challenges for simulations
 subtitle: ''
 summary: ''
 authors:
-- Athanassios Z Panagiotopoulos
+- Athanassios Z. Panagiotopoulos
 - sy593
 tags: []
 categories: []

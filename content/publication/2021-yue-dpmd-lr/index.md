@@ -7,10 +7,10 @@ summary: ''
 authors:
 - sy593
 - Maria Carolina Muniz
-- Marcos F Calegari Andrade
+- Marcos F. Calegari Andrade
 - Linfeng Zhang
 - Roberto Car
-- Athanassios Z Panagiotopoulos
+- Athanassios Z. Panagiotopoulos
 tags: []
 categories: []
 date: '2021-01-01'

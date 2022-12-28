@@ -1,16 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Molecular simulation of liquid--vapor coexistence for NaCl: Full-charge vs
-  scaled-charge interaction models'
+title: 'Molecular simulation of liquid-vapor coexistence for NaCl: Full-charge vs scaled-charge interaction models'
 subtitle: ''
 summary: ''
 authors:
 - Dina Kussainova
 - Anirban Mondal
-- Jeffrey M Young
+- Jeffrey M. Young
 - sy593
-- Athanassios Z Panagiotopoulos
+- Athanassios Z. Panagiotopoulos
 tags: []
 categories: []
 date: '2020-01-01'

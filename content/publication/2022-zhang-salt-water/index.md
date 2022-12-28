@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Chunyi Zhang
 - sy593
-- Athanassios Z Panagiotopoulos
-- Michael L Klein
+- Athanassios Z. Panagiotopoulos
+- Michael L. Klein
 - Xifan Wu
 tags: []
 categories: []
@@ -36,6 +36,6 @@ publication: '*Nature communications*, **13**, 822. (2022)'
 links:
 - name: URL
   url: https://www.nature.com/articles/s41467-022-28538-8
-- name: data
+- name: Data
   url: https://doi.org/10.6084/m9.figshare.17193023.v1 
 ---
