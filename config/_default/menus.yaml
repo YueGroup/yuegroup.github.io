@@ -20,7 +20,7 @@ main:
 
   - name: pi
     parent: people
-    url: authors/sy593
+    url: author/shuwen-yue
     weight: 21
 
   - name: group members
