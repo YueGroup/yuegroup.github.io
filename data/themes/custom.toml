@@ -2,26 +2,33 @@
 name = "custom"
 
 [light]
-  # Primary
+  # top bar color
   primary = "#EF476F"
 
-  # Menu
-  menu_primary = "#F7F7F7"
+  # Menu bar color
+  menu_primary = "#F7F7F7" # white
+
+  # Menu text color (not title on left)
   menu_text = "#FCA311"
+
+  # Menu text color when selected
   menu_text_active = "#0EAD69"
+
+  # Menu text color of title on left   
   menu_title = "#118AB2"
 
-  # Backgrounds
+  # Main page background color
   background = "#F7F7F7"
-  home_section_odd = "#F7F7F7"
-  home_section_even = "#F7F7F7"
 
+  home_section_odd = "#233D4D"
+  home_section_even = "#A1C181"
+
+  # link color when not hovering over
   link = "#D90429"
+
+  # link color when hovering over
   link_hover = "#118AB2"
 
-  # Home sections
-  #home_section_odd = "rgb(255, 255, 255)"
-  #home_section_even = "rgb(247, 247, 247)"
 
 #[dark]
 #  # Primary
@@ -29,3 +36,4 @@ name = "custom"
 #
 #  link = "#bbdefb"
 #  link_hover = "#bbdefb"
+#
