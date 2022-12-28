@@ -9,7 +9,7 @@ authors:
 - Zongtang Fang
 - Johan Both
 - Shenggang Li
-- Shuwen Yue
+- shuwen-yue
 - Edoardo Apra
 - Murat Keceli
 - Albert F Wagner
