@@ -2,10 +2,9 @@
 title: Papers
 aliases:
   - Publications
-view: 4
 
 # Listing view
-view: community/citation
+view: community/custom
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
