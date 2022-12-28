@@ -18,7 +18,7 @@ main:
     url: people
     weight: 30
 
-  - name: PAPERS
+  - name: PUBLICATIONS
     url: publication
     weight: 40
 

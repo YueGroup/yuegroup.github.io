@@ -1,7 +1,5 @@
 ---
-title: Papers
-aliases:
-  - Publications
+title: Publications
 
 # Listing view
 view: custom
