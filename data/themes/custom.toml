@@ -6,7 +6,7 @@ name = "custom"
   primary = "#AE2012" # red
 
   # Menu bar color
-  menu_primary = "#F7F7F7" # white
+  menu_primary = "#FFFFFF" # white
 
   # Menu text color (not title on left)
   menu_text = "#000000" # black
@@ -18,7 +18,7 @@ name = "custom"
   menu_title = "#000000" # black
 
   # Main page background color
-  background = "#F7F7F7" # white
+  background = "#FFFFFF" # white
 
   # link color when not hovering over
   link = "#AE2012" # red
