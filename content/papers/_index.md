@@ -2,7 +2,6 @@
 title: Papers
 aliases:
   - Publications
-  - Research
 view: 4
 
 # Listing view

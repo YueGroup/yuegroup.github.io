@@ -13,11 +13,21 @@ design:
   columns: '1'
   background:
     image: test.jpg
-    image_darken: 0.5
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: false
+    # Apply image filters?
+      filters:
+        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+        brightness: 0.6
+    #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+    size: cover
+    position: center
+    #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+      size: cover
+      # Image focal point. Options include `left`, `center` (default), or `right`.
+      position: center
+      # Use a fun parallax-like fixed background effect on desktop? true/false
+      parallax: true
+      # Text color (true=light, false=dark, or remove for the dynamic theme color).
+      text_color_light: false
   spacing:
     #Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "20px", "0"]
@@ -26,3 +36,4 @@ design:
   css_class:
 ---
 We are the **Yue Research Group** at Cornell University in the Robert F. Smith School of Chemical and Biomolecular Engineering. We work at the interface of molecular simulation, machine-learning, statistical mechanics, and quantum mechanics towards the design of novel electrolytes and materials for energy and sustainability technologies.
+
