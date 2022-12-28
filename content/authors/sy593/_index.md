@@ -6,6 +6,9 @@ title: Shuwen Yue
 authors:
   - sy593
 
+aliases:
+  - /author/shuwen-yue
+
 # Is this the primary user of the site?
 superuser: true
 
