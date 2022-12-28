@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Transferability of data-driven, many-body models for CO$\mathrm{_2}$ simulations in the vapor and liquid phases
+title: Transferability of data-driven, many-body models for CO$\mathregular{_2}$ simulations in the vapor and liquid phases
 subtitle: ''
 summary: ''
 authors:
