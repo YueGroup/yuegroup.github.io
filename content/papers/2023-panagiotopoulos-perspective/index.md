@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Athanassios Z Panagiotopoulos
-- Shuwen Yue
+- sy593
 tags: []
 categories: []
 date: '2023-01-01'
@@ -31,6 +31,9 @@ projects: []
 publishDate: '2022-12-27T04:30:09.525183Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: This perspective article focuses on recent simulation work on dynamics of aqueous electrolytes. It is well-established that full-charge, non-polarizable models for water and ions generally predict solution dynamics that are too slow when compared to experiments. Models with reduced (scaled) charges do better for solution diffusivities and viscosities but encounter issues describing other dynamic phenomena such as nucleation rates of crystals from solution. Polarizable models show promise, especially when appropriately parameterized, but may still miss important physical effects such as charge transfer. First-principles calculations are starting to emerge for these properties that are in principle able to capture polarization, charge transfer, and chemical transformations in solution. While direct ab initio simulations are still too slow for simulations of large systems over long time scales, machine-learning models trained on appropriate first-principles data show significant promise for accurate and transferable modeling of electrolyte solution dynamics.
 publication: '*The Journal of Physical Chemistry B*'
+#links:
+#- name: URL
+#  url: 
 ---

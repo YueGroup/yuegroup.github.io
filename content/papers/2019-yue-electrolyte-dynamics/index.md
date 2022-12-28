@@ -6,7 +6,7 @@ title: Dynamic properties of aqueous electrolyte solutions from non-polarisable,
 subtitle: ''
 summary: ''
 authors:
-- Shuwen Yue
+- sy593
 - Athanassios Z Panagiotopoulos
 tags: []
 categories: []
@@ -32,7 +32,9 @@ projects: []
 publishDate: '2022-12-27T03:56:35.696695Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Molecular Physics*'
-doi: 10.1080/00268976.2019.1645901
+abstract: We investigated the dynamic properties of alkali halide solutions (NaCl, NaF, NaBr, NaI, LiCl, and KCl) using molecular dynamics simulations and several non-polarisable, polarisable, and scaled-charge models. The concentration dependence of shear viscosity was obtained with low statistical uncertainties to allow for calculation of the viscosity Jones-Dole B-coefficients. No prior values are available for the B-coefficients from molecular simulations of fully atomistic models for electrolyte solutions. In addition, we obtained diffusion coefficients with rigorous finite-size corrections to access ion mobilities; these provide insights on single ion hydration behaviour. We find that all models studied, even polarisable and scaled-charge models, quantitatively over-predict water structuring but qualitatively follow the experimentally determined Hofmeister series. All ion models considered are kosmotropes based on their calculated B-coefficient and diffusion coefficients, even for ions experimentally found to be chaotropes. These observations indicate that the water-ion interactions in these models are not adequately represented; additional interactions such as charge transfer must be incorporated in future models in order to better represent electrolyte solution properties.
+publication: '*Molecular Physics*, **117**, 23-24, 3538-3549. (2019)'
+links:
+- name: URL
+  url: https://www.tandfonline.com/doi/full/10.1080/00268976.2019.1645901
 ---

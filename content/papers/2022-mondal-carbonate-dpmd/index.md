@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Anirban Mondal
 - Dina Kussainova
-- Shuwen Yue
+- sy593
 - Athanassios Z Panagiotopoulos
 tags: []
 categories: []
@@ -34,7 +34,9 @@ projects: []
 publishDate: '2022-12-27T03:56:36.582175Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: We developed a deep potential machine learning model for simulations of chemical reactions in molten alkali carbonate-hydroxide electrolyte containing dissolved CO2, using an active learning procedure. We tested the deep neural network (DNN) potential and training procedure against reaction kinetics, chemical composition, and diffusion coefficients obtained from density functional theory (DFT) molecular dynamics calculations. The DNN potential was found to match DFT results for the structural, transport, and short-time chemical reactions in the melt. Using the DNN potential, we extended the time scales of observation to 2 ns in systems containing thousands of atoms, while preserving quantum chemical accuracy. This allowed us to reach chemical equilibrium with respect to several chemical species in the melt. The approach can be generalized for a broad spectrum of chemically reactive systems.
 publication: '*Journal of Chemical Theory and Computation*'
-doi: 10.1021/acs.jctc.2c00816
+links:
+- name: URL
+  url: https://pubs.acs.org/doi/10.1021/acs.jctc.2c00816
 ---

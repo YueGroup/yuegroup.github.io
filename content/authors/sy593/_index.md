@@ -69,5 +69,4 @@ highlight_name: false
 user_groups:
   - Principal Investigator
 ---
-
 Shuwen Yue is an Assistant Professor in the Robert F. Smith School of Chemical and Biomolecular Engineering at Cornell University.

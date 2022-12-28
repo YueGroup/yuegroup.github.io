@@ -9,7 +9,7 @@ authors:
 - Dina Kussainova
 - Anirban Mondal
 - Jeffrey M Young
-- Shuwen Yue
+- sy593
 - Athanassios Z Panagiotopoulos
 tags: []
 categories: []
@@ -35,7 +35,9 @@ projects: []
 publishDate: '2022-12-27T03:56:36.214264Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*The Journal of Chemical Physics*'
-doi: 10.1063/5.0012065
+abstract: Scaled-charge models have been recently introduced for molecular simulations of electrolyte solutions and molten salts to attempt to implicitly represent polarizability. Although these models have been found to accurately predict electrolyte solution dynamic properties, they have not been tested for coexistence properties, such as the vapor pressure of the melt. In this work, we evaluate the vapor pressure of a scaled-charge sodium chloride (NaCl) force field and compare the results against experiments and a non-polarizable full-charge force field. The scaled-charge force field predicts a higher vapor pressure than found in experiments, due to its overprediction of the liquid-phase chemical potential. Reanalyzing the trajectories generated from the scaled-charge model with full charges improves the estimation of the liquid-phase chemical potential but not the vapor pressure.
+publication: '*The Journal of Chemical Physics*, **153**, 024501.'
+links:
+- name: URL
+  url: https://aip.scitation.org/doi/full/10.1063/5.0012065
 ---
