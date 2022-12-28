@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nupur Mehra
+title: Rahul Sheshanarayana
 
 # Username (this should match the folder name)
 authors:
-  - nm558
+  - SheshanarayanaRahul
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. student
+role: M.S. student
 
 # Organizations/Affiliations
 organizations:
@@ -22,9 +22,9 @@ organizations:
 
 education:
   courses:
-  - course: B.Tech. in Chemical Engineering
-    institution: Indian Institute of Technology (IIT), Kanpur
-    year: 2021
+  - course: B.Tech. in Polymer Science and Engineering
+    institution: Indian Institute of Technology (IIT), Roorkee
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,7 +33,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:nm558@cornell.edu'
+  link: 'mailto:rs2246@cornell.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/shuwenyue
@@ -63,4 +63,4 @@ highlight_name: false
 user_groups:
 - Graduate Students
 ---
-Nupur joined the group as a Ph.D. student in October 2022. 
+Rahul joined the group as an M.S. student in October 2022. 

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Rahul Sheshanarayana
+title: Spencer Sabatino
 
 # Username (this should match the folder name)
 authors:
-  - rs2246
+  - SabatinoSpencer
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: M.S. student
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,11 @@ organizations:
 
 education:
   courses:
-  - course: B.Tech. in Polymer Science and Engineering
-    institution: Indian Institute of Technology (IIT), Roorkee
+  - course: M.S. in Chemical Engineering
+    institution: Miami University
+    year: 2022
+  - course: B.S. in Chemical Engineering
+    institution: Miami University
     year: 2022
 
 # Social/Academic Networking
@@ -33,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:rs2246@cornell.edu'
+  link: 'mailto:sjs433@cornell.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/shuwenyue
@@ -63,4 +66,4 @@ highlight_name: false
 user_groups:
 - Graduate Students
 ---
-Rahul joined the group as an M.S. student in October 2022. 
+Spencer joined the group as a Ph.D. student in October 2022. 

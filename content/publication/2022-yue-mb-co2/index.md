@@ -5,7 +5,7 @@ title: Transferability of data-driven, many-body models for CO2 simulations in t
 subtitle: ''
 summary: ''
 authors:
-- sy593
+- YueShuwen
 - Marc Riera
 - Raja Ghosh
 - Athanassios Z. Panagiotopoulos

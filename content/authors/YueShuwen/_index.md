@@ -4,7 +4,7 @@ title: Shuwen Yue
 
 # Username (this should match the folder name)
 authors:
-  - sy593
+  - YueShuwen
 
 aliases:
   - /author/shuwen-yue

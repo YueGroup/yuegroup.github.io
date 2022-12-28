@@ -5,7 +5,7 @@ title: Dynamic properties of aqueous electrolyte solutions from non-polarisable,
 subtitle: ''
 summary: ''
 authors:
-- sy593
+- YueShuwen
 - Athanassios Z. Panagiotopoulos
 tags: []
 categories: []

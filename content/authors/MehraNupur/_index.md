@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Spencer Sabatino
+title: Nupur Mehra
 
 # Username (this should match the folder name)
 authors:
-  - sjs433
+  - MehraNupur
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,12 +22,9 @@ organizations:
 
 education:
   courses:
-  - course: M.S. in Chemical Engineering
-    institution: Miami University
-    year: 2022
-  - course: B.S. in Chemical Engineering
-    institution: Miami University
-    year: 2022
+  - course: B.Tech. in Chemical Engineering
+    institution: Indian Institute of Technology (IIT), Kanpur
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,7 +33,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sjs433@cornell.edu'
+  link: 'mailto:nm558@cornell.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/shuwenyue
@@ -66,4 +63,4 @@ highlight_name: false
 user_groups:
 - Graduate Students
 ---
-Spencer joined the group as a Ph.D. student in October 2022. 
+Nupur joined the group as a Ph.D. student in October 2022. 

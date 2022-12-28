@@ -8,7 +8,7 @@ authors:
 - Zongtang Fang
 - Johan Both
 - Shenggang Li
-- sy593
+- YueShuwen
 - Edoardo Apra
 - Murat Keceli
 - Albert F. Wagner

@@ -5,7 +5,7 @@ title: When do short-range atomistic machine-learning models fall short?
 subtitle: ''
 summary: ''
 authors:
-- sy593
+- YueShuwen
 - Maria Carolina Muniz
 - Marcos F. Calegari Andrade
 - Linfeng Zhang
