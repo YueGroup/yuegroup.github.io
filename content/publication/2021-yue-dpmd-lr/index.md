@@ -33,8 +33,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-12-27T03:56:35.400532Z'
-publication_types:
-- '2'
 abstract: We explore the role of long-range interactions in atomistic machine-learning models by analyzing the effects on fitting accuracy, isolated cluster properties, and bulk thermodynamic properties. Such models have become increasingly popular in molecular simulations given their ability to learn highly complex and multi-dimensional interactions within a local environment; however, many of them fundamentally lack a description of explicit long-range interactions. In order to provide a well-defined benchmark system with precisely known pairwise interactions, we chose as the reference model a flexible version of the Extended Simple Point Charge (SPC/E) water model. Our analysis shows that while local representations are sufficient for predictions of the condensed liquid phase, the short-range nature of machine-learning models falls short in representing cluster and vapor phase properties. These findings provide an improved understanding of the role of long-range interactions in machine learning models and the regimes where they are necessary.
 publication: '*The Journal of Chemical Physics*, **154**, 034111. (2021)'
 links:

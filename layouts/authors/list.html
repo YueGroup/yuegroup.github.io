@@ -40,7 +40,7 @@
     {{ if $count }}
     <div class="article-widget content-widget-hr">
       <h3>{{ i18n "user_profile_posts" | default "Publications" }}</h3>
-      <ol>
+      <ol reversed>
         {{ range $query }}
         <li>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>

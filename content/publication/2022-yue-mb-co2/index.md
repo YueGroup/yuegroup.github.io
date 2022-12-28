@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Transferability of data-driven, many-body models for CO2 simulations in the
+title: Transferability of data-driven, many-body models for CO<sub>2</sub> simulations in the
   vapor and liquid phases
 subtitle: ''
 summary: ''
@@ -33,8 +33,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-12-27T03:56:36.352259Z'
-publication_types:
-- '2'
 abstract: Extending on the previous work by Riera et al. [J. Chem. Theory Comput. 16, 2246–2257 (2020)], we introduce a second generation family of data-driven many-body MB-nrg models for CO2 and systematically assess how the strength and anisotropy of the CO2–CO2 interactions affect the models’ ability to predict vapor, liquid, and vapor–liquid equilibrium properties. Building upon the many-body expansion formalism, we construct a series of MB-nrg models by fitting one-body and two-body reference energies calculated at the coupled cluster level of theory for large monomer and dimer training sets. Advancing from the first generation models, we employ the charge model 5 scheme to determine the atomic charges and systematically scale the two-body energies to obtain more accurate descriptions of vapor, liquid, and vapor–liquid equilibrium properties. Challenges in model construction arise due to the anisotropic nature and small magnitude of the interaction energies in CO2, calling for the necessity of highly accurate descriptions of the multidimensional energy landscape of liquid CO2. These findings emphasize the key role played by the training set quality in the development of transferable, data-driven models, which, accurately representing high-dimensional many-body effects, can enable predictive computer simulations of molecular fluids across the entire phase diagram.
 publication: '*The Journal of Chemical Physics*, **156**, 104503. (2022)'
 links:

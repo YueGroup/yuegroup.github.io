@@ -13,7 +13,6 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-12-26T21:56:36-06:00
 featured: false
 draft: false
 
@@ -31,9 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-27T03:56:35.961506Z'
-publication_types:
-- '2'
+publishDate: '2022-02-27T03:56:35.961506Z'
 abstract: Salt water is ubiquitous, playing crucial roles in geological and physiological processes. Despite centuries of investigations, whether or not water’s structure is drastically changed by dissolved ions is still debated. Based on density functional theory, we employ machine learning based molecular dynamics to model sodium chloride, potassium chloride, and sodium bromide solutions at different concentrations. The resulting reciprocal-space structure factors agree quantitatively with neutron diffraction data. Here we provide clear evidence that the ions in salt water do not distort the structure of water in the same way as neat water responds to elevated pressure. Rather, the computed structural changes are restricted to the ionic first solvation shells intruding into the hydrogen bond network, beyond which the oxygen radial-distribution function does not undergo major change relative to neat water. Our findings suggest that the widely cited pressure-like effect on the solvent in Hofmeister series ionic solutions should be carefully revisited.
 publication: '*Nature communications*, **13**, 822. (2022)'
 links:
