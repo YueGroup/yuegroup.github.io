@@ -6,7 +6,7 @@ title: Nupur Mehra
 authors:
   - MehraNupur
 
-weight_alphanumeric: MehraNupur
+weight: 1
 
 # Is this the primary user of the site?
 superuser: false

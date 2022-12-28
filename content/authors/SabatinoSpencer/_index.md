@@ -6,7 +6,7 @@ title: Spencer Sabatino
 authors:
   - SabatinoSpencer
 
-weight_alphanumeric: SabatinoSpencer
+weight: 2
 
 # Is this the primary user of the site?
 superuser: false

@@ -6,7 +6,7 @@ title: Rahul Sheshanarayana
 authors:
   - SheshanarayanaRahul
 
-weight_alphanumeric: SheshanarayanaRahul
+weight: 3
 
 # Is this the primary user of the site?
 superuser: false
