@@ -3,7 +3,7 @@ title: Papers
 aliases:
   - Publications
   - Research
-view: 2
+view: 4
 
 # Listing view
 #view: citation
