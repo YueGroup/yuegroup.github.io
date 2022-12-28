@@ -6,13 +6,13 @@ name = "custom"
   primary = "#AE2012" # red
 
   # Menu bar color
-  menu_primary = "#EAE2B7" # tan
+  menu_primary = "#F7F7F7" # white
 
   # Menu text color (not title on left)
   menu_text = "#000000" # black
 
   # Menu text color when selected
-  menu_text_active = "#2A9D8F" # lighter blue
+  menu_text_active = "#AE2012" # red
 
   # Menu text color of title on left   
   menu_title = "#000000" # black
@@ -21,10 +21,10 @@ name = "custom"
   background = "#F7F7F7" # white
 
   # link color when not hovering over
-  link = "#AE2012" # orange
+  link = "#AE2012" # red
 
   # link color when hovering over
-  link_hover = "#EE9B00" # lighter orange
+  link_hover = "#C1121F" # brighter red
 
 
 #[dark]
