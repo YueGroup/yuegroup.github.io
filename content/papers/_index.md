@@ -1,9 +1,9 @@
 ---
-title: publication
+title: Papers
 aliases:
   - Publications
   - Research
-view: 4
+view: 3
 
 # Listing view
 #view: citation
