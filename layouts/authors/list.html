@@ -24,7 +24,7 @@
     {{ if $count }}
     <div class="article-widget content-widget-hr">
       <h3>{{ i18n "user_profile_publications" | default "papers" }}</h3>
-      <ol reversed>
+      <ol>
         {{ range $query }}
         <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "2006" }})
@@ -40,7 +40,7 @@
     {{ if $count }}
     <div class="article-widget content-widget-hr">
       <h3>{{ i18n "user_profile_posts" | default "Publications" }}</h3>
-      <ol reversed>
+      <ol>
         {{ range $query }}
         <li>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>

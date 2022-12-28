@@ -2,8 +2,9 @@
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
 <div class="pub-list-item view-custom" style="margin-bottom: 1rem; margin-left: 2em">
+  <ol>
   <li>
-      <!-- <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> -->
+  <!-- <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> -->
 
   {{/* APA Style */}}
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
@@ -29,9 +30,8 @@
   {{ if $item.Params.publication_short }}
     {{- $item.Params.publication_short | markdownify -}},
   {{ else if $item.Params.publication }}
-    {{- $item.Params.publication | markdownify -}},
+    {{- $item.Params.publication | markdownify -}}.
   {{ end }}
-  {{- $item.Date.Format "2006" -}}.
 
   {{ if $has_attachments }}
   <div class="btn-links">
@@ -41,4 +41,5 @@
 
   {{ end }}
   </li>
+  </ol>
 </div>
