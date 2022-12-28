@@ -1,0 +1,5 @@
+Notes:
+
+- content/authors have all group member profiles. I named by LastnameFirstname to be in alphabetical order. 'weight' is added as a argument to maintain order of member listings, otherwise the order is determined by most recent post which linked a member.
+- content/home/welcome page is work in progress. currently background image does not work.
+- content/publication (name needs to remain publication, not publications for everything to work smoothly). For new publication entries, copy over a paper directory and change title, authors, publishDate, date, abstract, citation, and various URLs. For author list, if author is a group member, use assigned 'author' username LastnameFirstname
