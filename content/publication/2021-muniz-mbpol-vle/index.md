@@ -14,8 +14,6 @@ authors:
 - Athanassios Z. Panagiotopoulos
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2022-12-26T21:56:35-06:00
 featured: false
 draft: false
 
@@ -33,7 +31,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-27T03:56:35.845162Z'
+publishDate: '2021-06-02'
+date: '2021-06-02'
 abstract: 'Among the many existing molecular models of water, the MB-pol many-body potential has emerged as a remarkably accurate model, capable of reproducing thermodynamic, structural, and dynamic properties across water’s solid, liquid, and vapor phases. In this work, we assessed the performance of MB-pol with respect to an important set of properties related to vapor–liquid coexistence and interfacial behavior. Through direct coexistence classical molecular dynamics simulations at temperatures of 400 K < T < 600 K, we calculated properties such as equilibrium coexistence densities, vapor–liquid interfacial tension, vapor pressure, and enthalpy of vaporization and compared the MB-pol results to experimental data. We also compared rigid vs fully flexible variants of the MB-pol model and evaluated system size effects for the properties studied. We found that the MB-pol model predictions are in good agreement with experimental data, even for temperatures approaching the vapor–liquid critical point; this agreement was largely insensitive to system sizes or the rigid vs flexible treatment of the intramolecular degrees of freedom. These results attest to the chemical accuracy of MB-pol and its high degree of transferability, thus enabling MB-pol’s application across a large swath of water’s phase diagram.'
 publication: '*The Journal of Chemical Physics*, **154**, 211103. (2021)'
 links:

@@ -11,8 +11,6 @@ authors:
 - Athanassios Z. Panagiotopoulos
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-12-26T21:56:36-06:00
 featured: false
 draft: false
 
@@ -30,7 +28,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-27T03:56:36.582175Z'
+publishDate: '2022-10-14'
+date: '2022-10-14'
 abstract: We developed a deep potential machine learning model for simulations of chemical reactions in molten alkali carbonate-hydroxide electrolyte containing dissolved CO2, using an active learning procedure. We tested the deep neural network (DNN) potential and training procedure against reaction kinetics, chemical composition, and diffusion coefficients obtained from density functional theory (DFT) molecular dynamics calculations. The DNN potential was found to match DFT results for the structural, transport, and short-time chemical reactions in the melt. Using the DNN potential, we extended the time scales of observation to 2 ns in systems containing thousands of atoms, while preserving quantum chemical accuracy. This allowed us to reach chemical equilibrium with respect to several chemical species in the melt. The approach can be generalized for a broad spectrum of chemically reactive systems.
 publication: '*Journal of Chemical Theory and Computation*'
 links:
