@@ -19,7 +19,7 @@ main:
     weight: 30
 
   - name: PAPERS
-    url: papers
+    url: publication
     weight: 40
 
   - name: NEWS
