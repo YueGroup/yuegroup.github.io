@@ -17,7 +17,6 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2022-12-26T21:56:35-06:00
 featured: false
 draft: false
 

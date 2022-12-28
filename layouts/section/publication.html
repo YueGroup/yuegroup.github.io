@@ -5,12 +5,6 @@
 
 {{ partial "page_header.html" . }}
 
-<style>
-  #publication {
-    margin-left: 0em;
-  }
-</style>
-
 <div class="universal-wrapper">
   <div class="row">
     <div class="col-lg-12">
@@ -57,23 +51,21 @@
       </div>
 
       <div id="container-publications">
-        <ol reversed>
-          {{ range $index, $item := .Pages.ByDate.Reverse }}
+        {{ range $index, $item := .Pages.ByDate.Reverse }}
 
-          {{ if .Params.publication_types }}
-            {{ $.Scratch.Set "pubtype" (index .Params.publication_types 0) }}
-          {{ else }}
-            {{ $.Scratch.Set "pubtype" 0 }}
-          {{ end }}     
-          <div id="publication" class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "pubtype" }} year-{{ .Date.Format "2006" }}">
-            <!-- <li> -->
-              {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
-            <!-- </li> -->
-          </div>
+        {{ if .Params.publication_types }}
+          {{ $.Scratch.Set "pubtype" (index .Params.publication_types 0) }}
+        {{ else }}
+          {{ $.Scratch.Set "pubtype" 0 }}
         {{ end }}
-        </ol>
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "pubtype" }} year-{{ .Date.Format "2006" }}">
+          {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+        </div>
+
+        {{ end }}
       </div>
-   
+
     </div>
   </div>
 </div>
