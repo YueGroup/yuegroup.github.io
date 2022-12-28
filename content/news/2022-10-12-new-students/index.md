@@ -1,8 +1,9 @@
 ---
 title: Welcome new students!
+reading_time: false
 date: 2022-10-12
 ---
 
-Welcome to new students Nupur Mehra, Rahul Sheshanarayana, and Spencer Sabatino who joined the group!
+Welcome to new group members [Nupur Mehra](/author/nupur-mehra), [Spencer Sabatino](spencer-sabatino), and [Rahul Sheshanarayana](/author/rahul-sheshanarayana)!
 
 <!--more-->
