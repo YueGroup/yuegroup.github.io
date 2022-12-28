@@ -8,6 +8,7 @@ authors:
 
 aliases:
   - /author/shuwen-yue
+  - /author/Shuwen Yue
 
 # Is this the primary user of the site?
 superuser: true
