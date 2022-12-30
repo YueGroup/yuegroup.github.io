@@ -16,7 +16,7 @@ design:
     # Apply image filters?
     filters:
       # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-      brightness: 0.9
+      brightness: 0.5
     #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
     size: cover
     position: center
