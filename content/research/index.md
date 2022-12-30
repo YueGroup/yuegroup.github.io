@@ -17,4 +17,4 @@ banner:
   image: ''
 ---
 
-In construction...
+Page in construction.
