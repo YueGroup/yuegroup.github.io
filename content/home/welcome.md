@@ -12,7 +12,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   background:
-    image: test.jpg
+    image: front_page_background.jpg
     # Apply image filters?
     #filters:
       # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
