@@ -7,7 +7,7 @@ cms_exclude: true
 #   3 = Card
 
 # Listing view
-view: 2
+view: 1
 
 filters:
   sort_by: 'date'
