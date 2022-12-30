@@ -12,7 +12,10 @@ banner:
   caption: ''
   image: ''
 ---
-{{< figure src="test.jpg" >}}
+{{< figure src="research_overview.jpg" >}}
+{{< figure src="research_aim1.jpg" >}}
+{{< figure src="research_aim2.jpg" >}}
+{{< figure src="research_aim3.jpg" >}}
 
 
 Page in construction.
