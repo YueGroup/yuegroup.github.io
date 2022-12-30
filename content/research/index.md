@@ -12,7 +12,7 @@ banner:
   caption: ''
   image: ''
 ---
-
+{{< figure src="test.jpg" >}}
 
 
 Page in construction.
