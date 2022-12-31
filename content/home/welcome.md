@@ -11,19 +11,19 @@ title: Simulation and Machine-learning for Molecular Sciences
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  background:
-    image: front_page_background.jpg
+  #background:
+    #image: front_page_background.jpg
     # Apply image filters?
-    filters:
+    #filters:
       # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-      brightness: 0.5
+      #brightness: 0.5
     #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-    size: cover
-    position: center
+    #size: cover
+    #position: center
     # Use a fun parallax-like fixed background effect on desktop? true/false
-    parallax: true
+    #parallax: true
     #Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: light
+    #text_color_light: light
   #spacing:
     #Customize the section spacing. Order is top, right, bottom, left.
     #padding: ["20px", "0", "20px", "0"]
