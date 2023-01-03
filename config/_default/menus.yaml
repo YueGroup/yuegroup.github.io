@@ -26,3 +26,6 @@ main:
     url: news
     weight: 50
 
+  - name: LANDING
+    url: landing
+    weight: 60
