@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Home
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
