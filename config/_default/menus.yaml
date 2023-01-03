@@ -6,7 +6,7 @@
 main:
 
   - name: HOME
-    url: /
+    url: landing
     weight: 10
 
   - name: RESEARCH
