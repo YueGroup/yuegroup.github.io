@@ -1,13 +1,13 @@
-{{ partial "page_edit" . }}
-{{ partial "tags" . }}
-{{ partial "components/page_sharer" . }}
-{{ partial "page_author" . }}
-{{ partial "comments" . }}
+<footer class="site-footer">
 
-{{ if .Params.pager }}
-<div class="article-widget">
-  {{ partial "components/pager" . }}
-</div>
-{{ end }}
+  {{ partial "functions/get_hook" (dict "hook" "footer-start" "context" .) }}
 
-{{ partial "page_related" . }}
+  {{/* Load footer block */}}
+  {{ $footer_section_name := site.Params.footer.block | default "minimal" }}
+  {{ $footer_section_path := printf "components/footers/%s.html" $footer_section_name }}
+  {{ if not (templates.Exists (printf "partials/%s" $footer_section_path)) }}
+    {{ errorf "Check your `params.yaml`. Cannot find footer block at `layouts/partials/%s`" $footer_section_path }}
+  {{ end }}
+  {{ partial $footer_section_path . }}
+
+</footer>
