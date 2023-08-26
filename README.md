@@ -7,5 +7,4 @@ The website is based on the academic-website-template by [sbryngelson](https://g
 
 
 ## License
-
 Copyright 2021, MIT license.
