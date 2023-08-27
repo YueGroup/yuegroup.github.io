@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
         value: "#ffffff"
       },
       shape: {
-        type: "square"
+        type: "circle"
       }
     }
   });
