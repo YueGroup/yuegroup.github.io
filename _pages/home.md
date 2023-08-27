@@ -24,11 +24,17 @@ permalink: /
 </div>
 <br/>
 
+<div class="container">
+<div class="row">
 <div id="particles-js"></div>
+<center>
 <script src="particles.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/p5@1.4.0/lib/p5.js"></script> <!-- load p5.js from CDN-->
 <script src = "particles.js"></script> <!-- this will pick our script  -->
 <div id="particles-holder"> <!-- this sets the position of the script -->
+</center>
+</div>
+</div>
 </div>
 
 We are the Yue Research Group at Cornell University in the Robert F. Smith School of Chemical and Biomolecular Engineering. We work at the interface of molecular simulation, machine-learning, statistical mechanics, and quantum mechanics towards the design of novel electrolytes and materials for energy and sustainability technologies.
