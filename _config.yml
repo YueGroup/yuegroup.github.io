@@ -12,17 +12,22 @@ url: "https://yuegroup.github.io"
 
 # Footer info
 affiliation: >
+<<<<<<< HEAD
     Shuwen Yue<br/>
     Assistant Professor<br/>
+=======
+    Yue Research Group<br/>
+    Robert F. Smith School of Chemical and Biomolecular Engineering<br/>
+>>>>>>> 2286bf007052d5aca923c815fbfd44e85669f3a6
     Cornell University
 
 location: >
   Cornell University<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  120 Olin Hall<br/>
+  Ithaca, NY 14853
 
 contact: >
-    <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
+  #<a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
     <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
