@@ -84,6 +84,11 @@ scholar:
   bibliography_list_attributes:
     reversed: "reversed"
 
+sass:
+  styles:
+    - assets/css/style.scss
+    - _sass/_particles.scss
+
 exclude:
   - Gemfile
   - Gemfile.lock
