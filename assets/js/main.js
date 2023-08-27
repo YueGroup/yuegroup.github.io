@@ -1,9 +1,15 @@
-document.addEventListener(
-  "DOMContentLoaded",
-  (event) => {
-    particlesJS.load("particles-js", "/assets/json/particles.json", function () {
-      console.log("particles.js loaded - callback");
-    });
-  },
-  false
-);
+document.addEventListener("DOMContentLoaded", () => {
+  particlesJS("particles-js", {
+    particles: {
+      number: {
+        value: 80
+      },
+      color: {
+        value: "#ffffff"
+      },
+      shape: {
+        type: "circle"
+      }
+    }
+  });
+});
