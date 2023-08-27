@@ -86,7 +86,6 @@ scholar:
 
 sass:
   styles:
-    - assets/css/style.scss
     - _sass/_particles.scss
 
 exclude:
