@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
+title: Yue Research Group
 email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+description: Yue Research Group
 baseurl: ""
 url: ""
 
@@ -17,7 +17,7 @@ affiliation: >
     California Institute of Technology
 
 location: >
-  California Institute of Technology<br/>
+  Cornell University<br/>
   1200 E California Blvd<br/>
   Pasadena, CA 91125
 
