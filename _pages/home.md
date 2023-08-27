@@ -26,7 +26,7 @@ permalink: /
 
 <div class="container">
   <div class="row">
-    <div id="particles-js"></div>
+    <div id="particles.js"></div>
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
     <script src="particles.js"></script> <!-- Your particle configuration script -->
