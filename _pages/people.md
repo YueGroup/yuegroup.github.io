@@ -38,7 +38,7 @@ permalink: /people/
         <a href="mailto:shuwen.yue@cornell.edu" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a>
         <a href="../_data/cv/ShuwenYue_CV_2023_08_27.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a>
         <a href="https://scholar.google.com/citations?user=felc0JkAAAAJ" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-        <a href="https://github.com/shuwenyue" target="_blank"><i class="fab fa-github-square fa-2x"></i></a>
+        <a href="https://github.com/shuwenyue" target="_blank"><i class="fab fa-github-square fa-2x"></i></a> </p>
       <ul style="overflow: hidden">
         <li> Postdoctoral Associate, Massachusetts Institute of Technology </li>
         <li> Ph.D. in Chemical and Biological Engineering, Princeton University </li>
