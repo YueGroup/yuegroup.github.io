@@ -16,9 +16,10 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 36px; /* Adjust the font size as needed */
+    font-size: 40px; /* Adjust the font size as needed */
     font-weight: bold;
     color: white; /* Set the color to white */
+    text-align: center; /* Center-align the title */
     z-index: 1; /* Make sure the title is above the particles */
   }
 
