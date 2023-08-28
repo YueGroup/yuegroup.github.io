@@ -16,7 +16,7 @@ permalink: /
 
 </style>
 
-<div id="homeid" class="col-sm-12 col-xs-12">
+<div id="homeid" class="container-fluid col-sm-12 col-xs-12">
 
 {% include particles-home.html %}
 
