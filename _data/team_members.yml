@@ -1,9 +1,5 @@
-- name: Example student name
+- name: Nupur Mehra
   photo: rock.jpg
-  info: Postdoc, started Oct 2040
-  email: exampleemail@gmail.com
-  website: https://website.com
+  info: Ph.D. student
+  email: nm558@cornell.edu
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="www">openings</a> for more info
