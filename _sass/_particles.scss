@@ -11,6 +11,17 @@
     height: 100%;
   }
 
+    .particles-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 36px; /* Adjust the font size as needed */
+    font-weight: bold;
+    color: white; /* Set the color to white */
+    z-index: 1; /* Make sure the title is above the particles */
+  }
+
   .jumbotron {
     position: absolute;
     top: 0;
