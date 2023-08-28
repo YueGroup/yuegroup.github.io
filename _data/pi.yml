@@ -5,7 +5,7 @@
   github: https://github.com/shuwenyue
   scholar: https://scholar.google.com/citations?user=felc0JkAAAAJ&hl=en
   twitter: https://twitter.com/shuwenyue?lang=en
-  cv: cv/ShuwenYue_CV_2023_08_27.cv
+  cv: ../_data/cv/ShuwenYue_CV_2023_08_27.cv
   # Change the number below to the number of "educations" you have (up to 6)
   number_educ: 3
   education3: "(2023) Postdoctoral Associate, Chemical Engineering, Massachusetts Institute of Technology"

@@ -7,8 +7,6 @@ permalink: /people/
 
 ## People
 
- **We are  looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
 ## PI
 
 {% for member in site.data.pi %}
