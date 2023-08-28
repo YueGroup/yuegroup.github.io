@@ -72,9 +72,6 @@ permalink: /people/
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %}
   {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %}
-  <ul style="overflow: hidden">
-  <li> {{ member.education1 }} </li>
-  </ul>
 </div>
 <!-- </div> -->
 
