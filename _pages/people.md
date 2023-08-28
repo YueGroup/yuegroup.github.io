@@ -52,7 +52,7 @@ permalink: /people/
 {% endfor %}
 
 
-<h3 id="current-students">Current Students and Postdocs</h3>
+<h3 id="current-students">Students</h3>
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
