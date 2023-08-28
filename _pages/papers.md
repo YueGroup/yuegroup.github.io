@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Papers"
 layout: gridlay
 sitemap: false
 permalink: /publications/
