@@ -5,6 +5,19 @@ sitemap: false
 permalink: /people/
 ---
 
+<style>
+  /* Add custom styles here */
+  .circle-photo img {
+    border-radius: 50%;
+  }
+
+  .circle-icon {
+    border-radius: 50%;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+</style>
+
 ## PI
 
 {% for member in site.data.pi %}
@@ -12,7 +25,9 @@ permalink: /people/
 <div class="jumbotron">
 <div class="row">
 <div class="col-sm-3">
+<div class="circle-photo">
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
+</div>
 </div>
 <div class="col-sm-9 col-xs-12">
 <h4>{{ member.name }}</h4>
@@ -44,7 +59,9 @@ permalink: /people/
 {% endif %}
 
 <div class="col-sm-2">
+<div class="circle-photo">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
+</div>
 </div>
 <div class="col-sm-4 col-xs-12">
   <h4>{{ member.name }}</h4>
