@@ -21,7 +21,7 @@ permalink: /research/
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/research_page.svg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/research_page.pdf" width="100%"/><br/>
 </center>
 </div>
 </div>
