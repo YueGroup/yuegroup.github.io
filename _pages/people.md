@@ -7,7 +7,7 @@ permalink: /people/
 
 ## PI
 
-<h3 id="pi">PI</h3>
+<h3 id="pi">testing</h3>
 
 <div class="jumbotron">
   <div class="row">
