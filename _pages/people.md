@@ -40,9 +40,6 @@ permalink: /people/
     <div class="row">
       <div class="col-md-4">
         <div class="text-center">
-          <div class="circle-photo">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width: 250px;" />
-          </div>
           <h4>{{ member.name }}</h4>
           <p>{{ member.position }}</p>
           <ul class="education">
