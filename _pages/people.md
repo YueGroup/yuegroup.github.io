@@ -34,6 +34,31 @@ permalink: /people/
 {% endfor %}
 
 
+<div class="jumbotron">
+  <!-- Loop through PI members -->
+  {% for member in site.data.pi %}
+    <div class="member-block text-center">
+      <div class="circle-photo">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width: 250px;" />
+      </div>
+      <h4>{{ member.name }}</h4>
+      <p>{{ member.position }}</p>
+      <div class="badges">
+        {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope circle-icon"></i></a> {% endif %}
+        {% if member.cv %}<a href="{{ member.cv }}" target="_blank"><i class="fa fa-file circle-icon"></i></a> {% endif %}
+        {% if member.github %}<a href="{{ member.github }}" target="_blank"><i class="fa fa-github circle-icon"></i></a> {% endif %}
+        {% if member.scholar %}<a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square circle-icon"></i></a> {% endif %}
+      </div>
+      <ul class="education">
+        <li>{{ member.education1 }}</li>
+        <li>{{ member.education2 }}</li>
+        <li>{{ member.education3 }}</li>
+      </ul>
+    </div>
+  {% endfor %}
+</div>
+
+
 ## Current Students and Postdocs
 
 <div class='jumbotron'>
@@ -113,7 +138,4 @@ permalink: /people/
 </div>
 
 
-## Administrative Support
-
-<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
 
