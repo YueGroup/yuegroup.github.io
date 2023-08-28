@@ -24,20 +24,14 @@ permalink: /people/
 
 
 <div class="jumbotron">
-<!-- Loop through PI members for the first block -->
-{% for member in site.data.pi %}
 <div class="row">
 <div class="col-sm-3">
   <div class="circle-photo">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
+  <img src="/images/YueShuwen.jpg" width="100%" style="max-width:250px"/>
   </div>
-</div>
 <div class="col-sm-9 col-xs-12">
-<h4>{{ member.name }}</h4>
-<i>{{ member.info }}</i><br>
-
- <h5>Shuwen Yue</h5>
- <h6><i>Assistant Professor</i>, Robert F. Smith School of Chemical and Biomolecular Engineering, Cornell University <br /><b>Office:</b> Olin Hall 348A <br /><b>Office phone:</b> 607-255-0848 </h6>
+<h5>Shuwen Yue</h5>
+<h6><i>Assistant Professor</i>, Robert F. Smith School of Chemical and Biomolecular Engineering, Cornell University <br /><b>Office:</b> Olin Hall 348A <br /><b>Office phone:</b> 607-255-0848 </h6>
  <p><a href="https://www.cheme.cornell.edu/faculty-directory/shuwen-yue" target="_blank"><i class="ai ai-archive-square ai-2x"></i></a>
  <a href="mailto:shuwen.yue@cornell.edu" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> 
  <a href="/cv/shuwenyue_cv_2023_08_27_2023.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> 
@@ -50,7 +44,6 @@ permalink: /people/
 </ul>
 </div>
 </div>
-{% endfor %}
 </div>
 
 ## Current Students and Postdocs
