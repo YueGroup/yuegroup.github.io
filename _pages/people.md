@@ -5,15 +5,15 @@ sitemap: false
 permalink: /people/
 ---
 
-## Team
+## <span class="center-heading">People</span>
 
- **We are  looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-## PI
+## <span class="center-heading">Principal Investigator</span>
 
-{% for member in site.data.pi %}
 
 <div class="jumbotron">
+<!-- Loop through PI members for the first block -->
+{% for member in site.data.pi %}
 <div class="row">
 <div class="col-sm-2">
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
@@ -29,13 +29,13 @@ permalink: /people/
 </ul>
 </div>
 </div>
+{% endfor %}
 </div>
 
-{% endfor %}
 
 
 <div class="jumbotron">
-  <!-- Loop through PI members -->
+  <!-- Loop through PI members for the second block -->
   {% for member in site.data.pi %}
     <div class="row">
       <div class="col-md-4">
@@ -55,7 +55,6 @@ permalink: /people/
     </div>
   {% endfor %}
 </div>
-
 
 ## Current Students and Postdocs
 
