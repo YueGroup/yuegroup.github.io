@@ -3,7 +3,7 @@
 
 ## Acknowledgment
 
-This website was based off of the [academic-website-template from sbryngelson](https://github.com/sbryngelson/academic-website-template).
+This website is based off the [academic-website-template from sbryngelson](https://github.com/sbryngelson/academic-website-template).
 
 ## License
 
