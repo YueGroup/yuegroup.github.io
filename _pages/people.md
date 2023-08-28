@@ -34,11 +34,9 @@ permalink: /people/
 <i>{{ member.info }}</i><br>
 
 {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="ai ai-archive-square ai-2x"></i></a> {% endif %} {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %} {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %} {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %} {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %}
-<ul style="overflow: hidden">
-<li> {{ member.education1 }} </li>
-<li> {{ member.education2 }} </li>
-<li> {{ member.education3 }} </li>
-</ul>
+<p> {{ member.education1 }} </p>
+<p> {{ member.education2 }} </p>
+<p> {{ member.education3 }} </p>
 </div>
 </div>
 </div>
@@ -72,10 +70,8 @@ permalink: /people/
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %}
   {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %}
-  <ul style="overflow: hidden">
-  {% if member.education1 %} <li> {{ member.education1 }} </li> {% endif %}
-  {% if member.education2 %} <li> {{ member.education2 }} </li> {% endif %}
-  </ul>
+  {% if member.education1 %} <p> {{ member.education1 }} </p> {% endif %}
+  {% if member.education2 %} <p> {{ member.education2 }} </p> {% endif %}
 </div>
 <!-- </div> -->
 
