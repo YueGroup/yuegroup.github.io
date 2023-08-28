@@ -1,6 +1,11 @@
 /* custom.css */
 
 .footer-logo img {
-    max-width: 120px; /* Adjust the width as needed */
+    max-width: 100px; /* Adjust the width as needed */
     height: auto; /* Maintain aspect ratio */
+}
+
+/* Change the background color of the footer */
+#footer {
+    background-color: #D22918; /* Replace with your desired color */
 }
