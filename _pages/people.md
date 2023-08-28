@@ -1,6 +1,6 @@
 ---
 title: "People"
-layout: default
+layout: gridlay
 sitemap: false
 permalink: /people/
 ---
@@ -22,7 +22,7 @@ permalink: /people/
 
 ## PI
 
-<h3 id="PI">PI</h3>
+<h3 id="pi">PI</h3>
 
 <div class="jumbotron">
   <div class="row">
