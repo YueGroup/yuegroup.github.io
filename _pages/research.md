@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: homelay
+layout: default
 sitemap: false
 permalink: /research/
 ---

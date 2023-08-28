@@ -1,6 +1,6 @@
 ---
 title: "News"
-layout: homelay
+layout: default
 sitemap: false
 permalink: /news/
 ---
