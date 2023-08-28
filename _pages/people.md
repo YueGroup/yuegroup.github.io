@@ -24,7 +24,6 @@ permalink: /people/
 
 <h3 id="PI">PI</h3>
 
-
 <div class="jumbotron">
   <div class="row">
     <div class="col-sm-3">
@@ -41,9 +40,9 @@ permalink: /people/
         <a href="https://scholar.google.com/citations?user=felc0JkAAAAJ" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a>
         <a href="https://github.com/shuwenyue" target="_blank"><i class="fab fa-github-square fa-2x"></i></a>
       <ul style="overflow: hidden">
-        <li> {{ member.education3 }} </li>
-        <li> {{ member.education2 }} </li>
-        <li> {{ member.education1 }} </li>
+        <li> Postdoctoral Associate, Massachusetts Institute of Technology </li>
+        <li> Ph.D. in Chemical and Biological Engineering, Princeton University </li>
+        <li> B.S. in Chemical Engineering and Chemistry, University of Alabama </li>
       </ul>
     </div>
   </div>
