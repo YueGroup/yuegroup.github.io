@@ -20,8 +20,9 @@ permalink: /people/
 
 <h3 id="People">People</h3>
 
-<h3 id="PI">PI</h3>
+## PI
 
+<h3 id="PI">PI</h3>
 
 
 <div class="jumbotron">
@@ -39,7 +40,6 @@ permalink: /people/
         <a href="/cv/shuwenyue_cv_2023_08_27_2023.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a>
         <a href="https://scholar.google.com/citations?user=felc0JkAAAAJ" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a>
         <a href="https://github.com/shuwenyue" target="_blank"><i class="fab fa-github-square fa-2x"></i></a>
-      </p>
       <ul style="overflow: hidden">
         <li> {{ member.education3 }} </li>
         <li> {{ member.education2 }} </li>
@@ -48,6 +48,8 @@ permalink: /people/
     </div>
   </div>
 </div>
+
+
 ## Current Students and Postdocs
 
 
