@@ -1,6 +1,6 @@
 ---
 title: "People"
-layout: gridlay
+layout: default
 sitemap: false
 permalink: /people/
 ---
@@ -36,7 +36,7 @@ permalink: /people/
       <h6><i>Assistant Professor</i>, Robert F. Smith School of Chemical and Biomolecular Engineering, Cornell University <br /><b>Office:</b> Olin Hall 348A <br /><b>Office phone:</b> 607-255-0848 </h6>
       <p><a href="https://www.cheme.cornell.edu/faculty-directory/shuwen-yue" target="_blank"><i class="ai ai-archive-square ai-2x"></i></a>
         <a href="mailto:shuwen.yue@cornell.edu" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a>
-        <a href="/cv/shuwenyue_cv_2023_08_27_2023.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a>
+        <a href="../_data/cv/ShuwenYue_CV_2023_08_27.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a>
         <a href="https://scholar.google.com/citations?user=felc0JkAAAAJ" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a>
         <a href="https://github.com/shuwenyue" target="_blank"><i class="fab fa-github-square fa-2x"></i></a>
       <ul style="overflow: hidden">
