@@ -36,7 +36,7 @@ iframe {
 <div class="col-md-12 col-sm-12">
 <h4>Example Research</h4>
 
-    <img src="../image/research_page.svg" style="width: 100%;">
+    <img src="../images/research_page.svg" style="width: 100%;">
 
 </div>
 </div>
