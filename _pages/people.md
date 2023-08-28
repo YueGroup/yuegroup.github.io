@@ -34,22 +34,27 @@ permalink: /people/
 {% endfor %}
 
 
-{% for member in site.data.pi %}
 <div class="jumbotron">
-<div class="member-block text-center">
-    <div class="circle-photo">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width: 250px;" />
+  <!-- Loop through PI members -->
+  {% for member in site.data.pi %}
+    <div class="row">
+      <div class="col-md-4">
+        <div class="text-center">
+          <div class="circle-photo">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width: 250px;" />
+          </div>
+          <h4>{{ member.name }}</h4>
+          <p>{{ member.position }}</p>
+          <ul class="education">
+            <li>{{ member.education1 }}</li>
+            <li>{{ member.education2 }}</li>
+            <li>{{ member.education3 }}</li>
+          </ul>
+        </div>
+      </div>
     </div>
-    <h4>{{ member.name }}</h4>
-    <p>{{ member.position }}</p>
-    <ul class="education">
-        <li>{{ member.education1 }}</li>
-        <li>{{ member.education2 }}</li>
-        <li>{{ member.education3 }}</li>
-    </ul>
+  {% endfor %}
 </div>
-</div>
-{% endfor %}
 
 
 ## Current Students and Postdocs
