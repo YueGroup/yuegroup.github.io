@@ -26,7 +26,7 @@ permalink: /people/
   }
 </style>
 
-<h3 id="pi">PI</h3>
+<h3 id="pi">Principle Investigator</h3>
 
 {% for member in site.data.pi %}
 
@@ -52,7 +52,7 @@ permalink: /people/
 {% endfor %}
 
 
-<h3 id="current-students">Students</h3>
+<h3 id="current-students">Group Members</h3>
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
