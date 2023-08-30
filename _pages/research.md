@@ -12,7 +12,6 @@ permalink: /research/
     text-align: center;
     margin: 20px 0; /* Add some margin for spacing */
   }
-
 </style>
 
 <h3 id="research">Research</h3>
