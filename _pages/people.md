@@ -32,12 +32,12 @@ permalink: /people/
 
 <div class="jumbotron">
 <div class="row">
-<div class="col-sm-3">
+<div class="col-sm-4">
 <div class="circle-photo">
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
 </div>
 </div>
-<div class="col-sm-9 col-xs-12">
+<div class="col-sm-12 col-xs-12">
 <h4>{{ member.name }}</h4>
 <i>{{ member.info }}</i><br>
 <p> {{ member.location }} </p>
@@ -51,9 +51,6 @@ permalink: /people/
   {% if member.education1 %} <p> {{ member.education1 }} </p> {% endif %}
   {% if member.education2 %} <p> {{ member.education2 }} </p> {% endif %}
   {% if member.education3 %} <p> {{ member.education3 }} </p> {% endif %}
-<p> {{ member.education1 }} </p>
-<p> {{ member.education2 }} </p>
-<p> {{ member.education3 }} </p>
 </div>
 </div>
 </div>
@@ -67,12 +64,12 @@ permalink: /people/
 
 <div class="jumbotron">
 <div class="row">
-<div class="col-sm-3">
+<div class="col-sm-4">
 <div class="circle-photo">
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
 </div>
 </div>
-<div class="col-sm-9 col-xs-12">
+<div class="col-sm-12 col-xs-12">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br></i>
   <p> {{ member.location }} </p>
