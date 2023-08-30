@@ -19,7 +19,6 @@ years: [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
 
 <h3 id="papers">Papers</h3>
 
-### Refereed journal articles
 {% bibliography --query @article @*[selected!=True] %}
 
 </div>
