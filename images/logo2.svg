@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206.87 203.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+
+      .cls-3 {
+        fill: #7f7f7f;
+      }
+
+      .cls-4 {
+        stroke-width: 3px;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 8;
+      }
+
+      .cls-5 {
+        stroke-width: 6px;
+      }
+
+      .cls-6 {
+        stroke-width: 2.25px;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-1" cx="101.25" cy="101.75" rx="99.75" ry="100.25"/>
+  <ellipse class="cls-4" cx="101.25" cy="101.75" rx="99.75" ry="100.25"/>
+  <ellipse class="cls-2" cx="101.5" cy="75.75" rx="29.5" ry="29.75"/>
+  <ellipse class="cls-5" cx="101.5" cy="75.75" rx="29.5" ry="29.75"/>
+  <circle class="cls-1" cx="153" cy="129.5" r="20.5"/>
+  <circle class="cls-5" cx="153" cy="129.5" r="20.5"/>
+  <ellipse class="cls-1" cx="48.5" cy="129.25" rx="20" ry="20.25"/>
+  <ellipse class="cls-5" cx="48.5" cy="129.25" rx="20" ry="20.25"/>
+  <line class="cls-5" x1="80.38" y1="97" x2="62.5" y2="115.11"/>
+  <line class="cls-5" x1="138.78" y1="115.18" x2="122.5" y2="97"/>
+  <ellipse class="cls-3" cx="155.5" cy="44.25" rx="6.25" ry="6.5"/>
+  <ellipse class="cls-6" cx="155.5" cy="44.25" rx="6.25" ry="6.5"/>
+  <circle class="cls-3" cx="12" cy="63" r="8.25"/>
+  <circle class="cls-6" cx="12" cy="63" r="8.25"/>
+  <circle class="cls-3" cx="74.75" cy="14.25" r="12"/>
+  <circle class="cls-6" cx="74.75" cy="14.25" r="12"/>
+  <line class="cls-6" x1="167.75" y1="115.31" x2="188.39" y2="89.75"/>
+  <line class="cls-6" x1="155.54" y1="50.75" x2="153.25" y2="109.45"/>
+  <line class="cls-6" x1="86.75" y1="14.25" x2="151.01" y2="39.42"/>
+  <ellipse class="cls-3" cx="83.25" cy="176" rx="14.5" ry="14.75"/>
+  <ellipse class="cls-6" cx="83.25" cy="176" rx="14.5" ry="14.75"/>
+  <line class="cls-6" x1="138.87" y1="144.25" x2="93.75" y2="165.57"/>
+  <line class="cls-6" x1="62.75" y1="143.75" x2="72.9" y2="165.48"/>
+  <line class="cls-6" x1="11.75" y1="71.25" x2="34.54" y2="115.34"/>
+  <line class="cls-6" x1="74.75" y1="26.25" x2="80.77" y2="55.1"/>
+  <line class="cls-6" x1="153.25" y1="150.25" x2="163.7" y2="180.67"/>
+  <line class="cls-6" x1="83.32" y1="190.75" x2="82.75" y2="199.58"/>
+  <line class="cls-6" x1="34.67" y1="143.75" x2="25.25" y2="168.35"/>
+  <line class="cls-6" x1="20.25" y1="62.75" x2="72.43" y2="76.04"/>
+  <circle class="cls-3" cx="195.5" cy="82.5" r="10.25"/>
+  <circle class="cls-6" cx="195.5" cy="82.5" r="10.25"/>
+  <line class="cls-6" x1="122.75" y1="55.25" x2="149.23" y2="44.25"/>
+  <line class="cls-6" x1="160.25" y1="39.35" x2="172.02" y2="30.75"/>
+</svg>
