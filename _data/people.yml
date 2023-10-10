@@ -30,3 +30,32 @@
   cv: /cv/RahulSheshanarayana_CV.pdf
   education1: "B.Tech. in Polymer Science and Engineering, Indian Institute of Technology (IIT), Roorkee (2022)"
 
+- name: Anthony Dee
+  photo: DeeAnthony.jpg
+  info: Undergraduate Student
+  info: B.S. ChemE, Minor BME, \'25
+  email: ahd68@cornell.edu
+  linkedin: https://www.linkedin.com/in/anthony-dee
+
+- name: Anant Gupta
+  photo: GuptaAnant.jpg
+  info: Undergraduate Student
+  info: B.S. ChemE, \'25
+  email: akg73@cornell.edu
+  linkedin: https://www.linkedin.com/in/anant-gupta-78200719/
+
+- name: Zachary Kwon
+  photo: KwonZach.jpg
+  info: Undergraduate Student
+  info: B.S. ChemE, \'25
+  email: zk49@cornell.edu
+  linkedin: https://www.linkedin.com/in/zachary-kwon/
+
+
+- name: Nhi Nguyen
+  photo: charmander.jpg
+  info: Undergraduate Student
+  info: B.S. ChemE, Minor CS, \'25
+  email: npn25@cornell.edu
+    #linkedin: https://www.linkedin.com/in/nhi-nguyen-709728229
+
