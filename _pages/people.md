@@ -24,6 +24,10 @@ permalink: /people/
     text-align: center;
     margin: 20px 0; /* Add some margin for spacing */
   }
+
+  .member-group {
+  margin-bottom: 20px; /* Adjust this value to control the vertical spacing */
+}
 </style>
 
 <h3 id="pi">Principle Investigator</h3>
@@ -61,7 +65,7 @@ permalink: /people/
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row member-group"> <!-- Add the "member-group" class here -->
 {% endif %}
 
 <div class="col-sm-2">
