@@ -1,6 +1,6 @@
 - name: Nupur Mehra
   photo: MehraNupur.jpg
-  info: Ph.D. Student
+  info1: Ph.D. Student
   email: nm558@cornell.edu
   location: Olin Hall 158
   github: https://github.com/nupurm00
@@ -10,7 +10,7 @@
 
 - name: Spencer Sabatino
   photo: SabatinoSpencer.jpg
-  info: Ph.D. Student
+  info1: Ph.D. Student
   email: sjs433@cornell.edu
   location: Olin Hall 158
   scholar: https://scholar.google.com/citations?user=W-zHAC0AAAAJ&hl=en
@@ -21,7 +21,7 @@
 
 - name: Rahul Sheshanarayana
   photo: SheshanarayanaRahul.jpg
-  info: M.S. Student
+  info1: M.S. Student
   email: rs2246@cornell.edu
   location: Olin Hall 158
   github: https://github.com/RShesh00
@@ -32,30 +32,30 @@
 
 - name: Anthony Dee
   photo: DeeAnthony.jpg
-  info: Undergraduate Student
-  info: B.S. ChemE, Minor BME, \'25
+  info1: Undergraduate Student
+  info2: B.S. ChemE, Minor BME, \'25
   email: ahd68@cornell.edu
   linkedin: https://www.linkedin.com/in/anthony-dee
 
 - name: Anant Gupta
   photo: GuptaAnant.jpg
-  info: Undergraduate Student
-  info: B.S. ChemE, \'25
+  info1: Undergraduate Student
+  info2: B.S. ChemE, \'25
   email: akg73@cornell.edu
   linkedin: https://www.linkedin.com/in/anant-gupta-78200719/
 
 - name: Zachary Kwon
   photo: KwonZach.JPG
-  info: Undergraduate Student
-  info: B.S. ChemE, \'25
+  info1: Undergraduate Student
+  info2: B.S. ChemE, \'25
   email: zk49@cornell.edu
   linkedin: https://www.linkedin.com/in/zachary-kwon/
 
 
 - name: Nhi Nguyen
-  photo: charmander.png
-  info: Undergraduate Student
-  info: B.S. ChemE, Minor CS, \'25
+  photo: pikachu.png
+  info1: Undergraduate Student
+  info2: B.S. ChemE, Minor CS, \'25
   email: npn25@cornell.edu
     #linkedin: https://www.linkedin.com/in/nhi-nguyen-709728229
 
