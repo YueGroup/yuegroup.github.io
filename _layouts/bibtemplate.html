@@ -53,26 +53,22 @@ pre{
 <button class="btn btn-danger btm-sm"  onclick="toggleBibtex{{entry.key}}()">BIB</button>
 {% endif %}
 
+
 {% if entry.abstract %}
 <button class="btn btn-warning btm-sm"  onclick="toggleAbstract{{entry.key}}()">ABSTRACT</button>
 {% endif %}
 
-{% if entry.abstract %}
-<div id="a{{entry.key}}" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>{{ entry.bibtex | remove: "entry.abstract" }}</pre>
-</div>
-{% else %}
-<div id="a{{entry.key}}" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>{{ entry.bibtex }}</pre>
-</div>
-{% endif %}
 
-<div id="b{{entry.key}}" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<div id="a{{entry.key}}" style="display:none; background-color:white;border:thin solid;border-color: gray; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>{{ entry.bibtex}}</pre>
+</div>
+
+<div id="b{{entry.key}}" style="display:none; background-color:white;border:thin solid;border-color: gray; border-radius:5px; padding:10px; margin-bottom:20px;">
 <pre>{{entry.abstract}}</pre>
 </div>
 
 <script>
-function toggleBibtex{{entry.key}}(parameter) {
+function toggleBibtex{{entry.key}}() {
     var x= document.getElementById('a{{entry.key}}');
     if (x.style.display === 'none') {
         x.style.display = 'block';
@@ -80,7 +76,7 @@ function toggleBibtex{{entry.key}}(parameter) {
         x.style.display = 'none';
     }
 }
-function toggleAbstract{{entry.key}}(parameter) {
+function toggleAbstract{{entry.key}}() {
     var x= document.getElementById('b{{entry.key}}');
     if (x.style.display === 'none') {
         x.style.display = 'block';

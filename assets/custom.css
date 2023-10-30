@@ -11,6 +11,7 @@
   bottom: 0;
   left: 0;
   width: 100%;
+  max-width: none !important;
   background-color: #444; /* Your desired background color */
   color: #444; /* Text color for visibility */
   padding: 20px; /* Adjust padding as needed */

@@ -24,6 +24,17 @@ permalink: /
   font-weight: bold; /* Make the text bold */
 }
 
+@media (min-width: 768px) {
+    /* Adjust styles for larger screens here */
+    .top-text {
+        font-size: 40px; /* Example: Increase font size for wider screens */
+    }
+
+    .bottom-text {
+        font-size: 24px; /* Example: Increase font size for wider screens */
+    }
+}
+
 </style>
 
 <div id="homeid" class="container-fluid col-sm-12 col-xs-12">
