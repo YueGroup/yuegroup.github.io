@@ -35,27 +35,27 @@
   info1: Ph.D. Student
   email: as3639@cornell.edu
   location: Olin Hall 158
-  education1: "B.S. in Chemical Engineering, Minor in CS, University of Rochester (2022)"
+  education1: "B.S. in Chemical Engineering, University of Rochester (2022)"
 
 
 - name: Anthony Dee
   photo: DeeAnthony.jpg
   info1: Undergraduate Student
-  info2: B.S. ChemE \'25
+  info2: B.S. in Chemical engineering (2025)
   email: ahd68@cornell.edu
   linkedin: https://www.linkedin.com/in/anthony-dee
 
 - name: Anant Gupta
   photo: GuptaAnant.jpg
   info1: Undergraduate Student
-  info2: B.S. ChemE, \'25
+  info2: B.S. in Chemical engineering (2025)
   email: akg73@cornell.edu
   linkedin: https://www.linkedin.com/in/anant-gupta-78200719/
 
 - name: Zachary Kwon
   photo: KwonZach.JPG
   info1: Undergraduate Student
-  info2: B.S. ChemE, \'25
+  info2: B.S. in Chemical engineering (2025)
   email: zk49@cornell.edu
   linkedin: https://www.linkedin.com/in/zachary-kwon/
   cv: /cv/ZacharyKwon_CV.pdf
@@ -64,7 +64,7 @@
 - name: Nhi Nguyen
   photo: NguyenNhi.jpg
   info1: Undergraduate Student
-  info2: B.S. ChemE, Minor CS, \'25
+  info2: B.S. in Chemical engineering, Minor CS (2025)
   email: npn25@cornell.edu
   linkedin: https://www.linkedin.com/in/nhi-nguyen-709728229/
 
