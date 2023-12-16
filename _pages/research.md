@@ -25,5 +25,4 @@ permalink: /research/
 </div>
 <br/>
 
-**---This page is under construction---**
 
