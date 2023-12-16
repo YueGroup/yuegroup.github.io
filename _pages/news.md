@@ -11,6 +11,7 @@ permalink: /news/
     font-size: 24px; /* Adjust the font size as needed */
     text-align: center;
     margin: 20px 0; /* Add some margin for spacing */
+    font-weight: bold; /* Make the text bold */
   }
 
   .text {

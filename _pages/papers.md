@@ -14,6 +14,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
     font-size: 24px; /* Adjust the font size as needed */
     text-align: center;
     margin: 20px 0; /* Add some margin for spacing */
+    font-weight: bold; /* Make the text bold */
   }
 </style>
 
