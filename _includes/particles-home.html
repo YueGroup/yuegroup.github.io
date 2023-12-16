@@ -34,7 +34,7 @@ body, html {
   margin: 0;
   font-size: 36px; /* Adjust the default font size */
   font-weight: bold; /* Keep the title bolded */
-  white-space: normal; /* Allow text to wrap */
+  white-space: nowrap; /* Prevent wrapping until we specify */
 }
 
 @media (max-width: 767px) {
@@ -43,10 +43,13 @@ body, html {
     max-width: 80%; /* Limit the width of the title container on smaller screens */
     margin-left: auto;
     margin-right: auto;
+    text-align: justify; /* Align text justified for better wrapping */
   }
 
   .particles-title {
     font-size: 28px; /* Adjust the font size for smaller screens */
+    white-space: normal; /* Allow text to wrap on smaller screens */
+    word-break: break-word; /* Break words when necessary */
   }
 }
 </style>
