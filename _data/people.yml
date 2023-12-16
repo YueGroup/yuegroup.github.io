@@ -30,6 +30,14 @@
   cv: /cv/RahulSheshanarayana_CV.pdf
   education1: "B.Tech. in Polymer Science and Engineering, Indian Institute of Technology (IIT), Roorkee (2022)"
 
+- name: Aditi Seshadri
+  photo: bulbasaur.png
+  info1: Ph.D. Student
+  email: as3639@cornell.edu
+  location: Olin Hall 158
+  education1: "B.S. in Chemical Engineering, Minor in CS, University of Rochester (2022)"
+
+
 - name: Anthony Dee
   photo: DeeAnthony.jpg
   info1: Undergraduate Student
