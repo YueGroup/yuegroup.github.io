@@ -1,6 +1,6 @@
 ---
 title: "News"
-layout: default
+layout: gridlay
 sitemap: false
 permalink: /news/
 ---
@@ -24,13 +24,43 @@ permalink: /news/
 <center>
 <h3 id="header">News</h3>
 
-<div class="text">
-<center>
-December 14, 2023 - Celebrating the end of the Fall 2023 semester!
-<img src="{{ site.url }}{{ site.baseurl }}/images/group_photo_2023Fall.jpeg" width="75%"/><br/>
-</center>
-</div>
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
+<h5><b>December 2023:</b> Group dinner celebrating the end of the Fall 2023 semester!</h5>
 <br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/group_photo_2023Fall.jpeg" width="75%"/><br/>
+<br/>
+<br/>
+</div>
+</div>
 
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
+<h5><b>December 2023:</b> Welcome Aditi Seshadri, new Ph.D. student joining the group!</h5>
+<br/>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
+<h5><b>September 2023:</b> Welcome Anthony, Anant, Zach, and Nhi - undergraduate students joining the group!</h5>
+<br/>
+</div>
+</div>
+
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
+<h5><b>July 2023:</b> Shuwen officially joins Cornell CBE!</h5>
+<br/>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
+<h5><b>October 2022:</b> Welcome Nupur, Spencer, and Rahul - the first graduate students to join the group!</h5>
+<br/>
+</div>
+</div>
 
 

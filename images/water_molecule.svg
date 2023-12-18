@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136.42 108.88"><path d="m29.22,41.76c-.03-22.22,17.82-40.24,39.87-40.26,22.05-.02,39.94,17.98,39.97,40.19.03,22.22-17.82,40.24-39.87,40.26-22.05.02-39.94-17.98-39.97-40.19Z" style="fill:#ed2024; fill-rule:evenodd; stroke:#ed1c24; stroke-miterlimit:10;"/><ellipse cx="69.13" cy="41.74" rx="39.93" ry="40.24" transform="translate(-.04 .07) rotate(-.06)" style="fill:none; stroke:#ed1c24; stroke-miterlimit:8; stroke-width:3px;"/><path d="m1.5,81.98c-.01-13.7,10.99-24.81,24.58-24.82,13.59-.01,24.62,11.08,24.63,24.77.01,13.7-10.99,24.81-24.58,24.82-13.59.01-24.62-11.08-24.63-24.77Z" style="fill:#fff; fill-rule:evenodd; stroke:#a7a9ac; stroke-miterlimit:10;"/><ellipse cx="26.11" cy="82.58" rx="24.61" ry="24.8" style="fill:none; stroke:#fff; stroke-miterlimit:8; stroke-width:3px;"/><path d="m85.71,81.98c-.01-13.7,10.99-24.81,24.58-24.82,13.59-.01,24.62,11.08,24.63,24.77.01,13.69-10.99,24.81-24.58,24.82-13.59.01-24.62-11.08-24.63-24.77Z" style="fill:#fff; fill-rule:evenodd; stroke:#a7a9ac; stroke-miterlimit:10;"/><ellipse cx="110.31" cy="81.97" rx="24.61" ry="24.8" style="fill:none; stroke:#fff; stroke-miterlimit:8; stroke-width:3px;"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 145.49 105.81" style="enable-background:new 0 0 145.49 105.81;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#ED2024;stroke:#ED1C24;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#ED1C24;stroke-width:3;stroke-miterlimit:8;}
+	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:8;}
+	.st3{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:8;}
+</style>
+<g>
+	<path class="st0" d="M32.15,43.56C32.12,21.34,49.97,3.32,72.02,3.3c22.05-0.02,39.94,17.98,39.97,40.19
+		c0.03,22.22-17.82,40.24-39.87,40.26C50.07,83.77,32.18,65.78,32.15,43.56z"/>
+	
+		<ellipse transform="matrix(1 -1.075017e-03 1.075017e-03 1 -0.0468 0.0775)" class="st1" cx="72.06" cy="43.54" rx="39.93" ry="40.24"/>
+	<ellipse class="st2" cx="26.13" cy="77.31" rx="24.61" ry="24.8"/>
+	<ellipse class="st3" cx="117.82" cy="77.13" rx="24.61" ry="24.8"/>
+</g>
+</svg>

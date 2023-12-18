@@ -43,7 +43,7 @@ permalink: /people/
 </div>
 <div class="col-sm-9 col-xs-12">
 <h4>{{ member.name }}</h4>
-<i>{{ member.info }}</i><br>
+<i>{{ member.info }}</i>
 <p> {{ member.location }} </p>
 {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="ai ai-archive-square ai-2x"></i></a> {% endif %} {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %} {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %} {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %} {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %} {% if member.twitter %}<a href="{{ member.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> {% endif %}
 <p> {{ member.education1 }} </p>
@@ -75,8 +75,8 @@ permalink: /people/
 </div>
 <div class="col-sm-4 col-xs-12">
   <h4>{{ member.name }}</h4>
-  {% if member.info1 %} <p> {{ member.info1 }} </p> {% endif %}
-  {% if member.info2 %} <p> {{ member.info2 }} </p> {% endif %}
+  {% if member.info1 %} <i> {{ member.info1 }} </i> {% endif %}
+  {% if member.info2 %} <i> {{ member.info2 }} </i> {% endif %}
   <p> {{ member.location }} </p>
   {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %} {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %} {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %} {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %} {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %} {% if member.linkedin %} <a href="{{ member.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a> {% endif %} {% if member.twitter %}<a href="{{ member.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> {% endif %}
   {% if member.education1 %} <p> {{ member.education1 }} </p> {% endif %}

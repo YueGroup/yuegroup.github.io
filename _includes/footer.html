@@ -1,7 +1,46 @@
+<style>
+
+  body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  /* Style for the main content area */
+  .content {
+    padding: 20px; /* Adjust the padding as needed */
+    flex: 1; /* Grow and take up remaining space */
+  }
+
+  /* Style for the footer and everything below it */
+  .footer-background {
+    background-color: #333; /* Set the background color here */
+    color: #fff; /* Set text color for better visibility */
+    padding: 15px; /* Adjust the padding as needed */
+    min-height: 30vh; /* Minimum height to fill the screen */
+    box-sizing: border-box; /* Include padding in height calculation */
+  }
+
+
+  /* Additional CSS to handle the single-column layout on small screens */
+  @media (max-width: 767px) {
+    .container-footer .panel-footer p {
+      text-align: left !important; /* Override Bootstrap text alignment */
+    }
+
+    .container-footer .footer-logo {
+      margin: 10px auto; /* Center the logo */
+    }
+  }
+</style>
+
+<div class="footer-background">
 <br/>
 <section id="footer">
-<div class="container-footer" style="padding: 30px 0;">
-  <div class="panel-footer">
+<div class="container-footer" style="padding: 30px 30px;">
+  <div class="panel-footer footer-background">
 	  <div class="row">
 		<div class="col-sm-4">
             <p>{{ site.affiliation }}</p>
@@ -25,6 +64,10 @@
 	</div>
   </div>
 </div>
+</section>
 
 <script src="{{ "/assets/javascript/bootstrap/jquery.min.js" | relative_url }}"></script>
 <script src="{{ "/assets/javascript/bootstrap/bootstrap.bundle.min.js" | relative_url }}"></script>
+
+
+</div>
