@@ -26,12 +26,19 @@
 
   /* Additional CSS to handle the single-column layout on small screens */
   @media (max-width: 767px) {
+    .container-footer .panel-footer {
+      text-align: center !important; /* Override Bootstrap text alignment */
+    }
+
     .container-footer .panel-footer p {
-      text-align: left !important; /* Override Bootstrap text alignment */
+      text-align: center; /* Center-align the paragraph text */
     }
 
     .container-footer .footer-logo {
       margin: 10px auto; /* Center the logo */
+    }
+    .col-sm-4 {
+      text-align: center; /* Center-align the content in each column */
     }
   }
 </style>
