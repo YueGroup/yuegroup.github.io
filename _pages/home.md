@@ -55,6 +55,7 @@ permalink: /
 {% include particles-home.html %}
 </div>
 
+<br/>
 <div class="bottom-text" style="color: #ded4cc;">
 Our group works at the interface of molecular simulation, machine-learning, statistical mechanics, and quantum mechanics towards the design of novel electrolytes and materials for energy and sustainability.
 </div>
