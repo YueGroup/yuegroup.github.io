@@ -43,10 +43,33 @@
 
   .centered-image {
     top: 20%; /* Adjust the percentage for smaller screens */
-    width: 40%; /* Limit the width of the title container on smaller screens */
+    width: 50%; /* Limit the width of the title container on smaller screens */
     margin-left: auto;
     margin-right: auto;
   }
 }
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* Styles for screens between 768px and 991px wide (adjust values as needed) */
+  .particles-title {
+    font-size: 24px; /* Adjust font size for middle-sized screens */
+  }
+
+  .centered-image {
+    top: 15%; /* Adjust top position for middle-sized screens */
+    width: 60%; /* Adjust width for middle-sized screens */
+  }
+}
+
+@media (min-width: 992px) {
+  /* Styles for screens 992px wide and above (adjust values as needed) */
+  .particles-title {
+    font-size: 32px; /* Adjust font size for larger screens */
+  }
+
+  .centered-image {
+    top: 10%; /* Adjust top position for larger screens */
+    width: 80%; /* Adjust width for larger screens */
+  }
 </style>
 
