@@ -128,7 +128,7 @@ permalink: /research/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
 <br/>
-<h3 id="researchtext"> We are a computational research group tackling key challenges in <strong>chemical engineering</strong> and <strong>materials design</strong> using multi-scale modeling, machine learning, and statistical mechanics. We aim to build fundamental understanding of molecular scale driving forces in order design materials with tailored properties for applications in <strong>energy storage, catalysis, and desalination</strong>. </h3>
+<h5 id="researchtext"> We are a computational research group tackling key challenges in <strong>chemical engineering</strong> and <strong>materials design</strong>. We aim to build fundamental understanding of molecular scale driving forces in order design materials with tailored properties for applications in <strong>energy storage, catalysis, and desalination</strong>. </h5>
 <br/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/research_page.svg" width="100%"/>
 </div>
@@ -142,7 +142,7 @@ permalink: /research/
       <img src="{{ site.url }}{{ site.baseurl }}/images/research1.png" alt="Research 1" style="max-width: 450px;" />
       <div class="research-content">
         <h4><strong>ML potential development</strong></h4>
-        <p>Molecular simulation is a powerful tool for predicting properties of materials and fluids, but the <em>reliability</em> of these predictions heavily depends on the models used. The challenge in developing these models is a trade-off between the <strong>degree of chemical detail</strong> (level of theory used) and their <strong>computational cost</strong> (how fast they can be evaluated on supercomputers). Our group is tackling this challenge by leveraging machine-learning frameworks trained on quantum mechanical datasets to build models that can predict large-scale <strong style="font-weight: bold;">thermodynamic properties at first-principles levels of accuracy</strong>.</p>
+        <p style="font-size: 17px;">Molecular simulation is a powerful tool for predicting properties of materials and fluids, but the <em>reliability</em> of these predictions heavily depends on the models used. The challenge in developing these models is a trade-off between the <strong>degree of chemical detail</strong> (level of theory used) and their <strong>computational cost</strong> (how fast they can be evaluated on supercomputers). Our group is tackling this challenge by leveraging machine-learning frameworks trained on quantum mechanical datasets to build models that can predict large-scale <strong style="font-weight: bold;">thermodynamic properties at first-principles levels of accuracy</strong>.</p>
       </div>
     </div>
   </div>
@@ -154,7 +154,7 @@ permalink: /research/
     <div class="research-section">
       <div class="research-content">
       <h4><strong>Fluids at interfaces and in confinement</strong></h4>
-<p style="text-align: justify;"> How molecules behave at an interface or in confinement is <em>vastly different</em> from how they behave in bulk. These types of environments are where analytical theories tend to break down, where chemical reactions are more likely to happen, where timescale trends diverge. Our group seeks to <strong>unravel the intricate relationship between surface features, geometries, and the subsequent influence on fluid behavior.</strong> Ultimately, we are interested in uniquely designing surfaces toward target fluid properties for separations processes and catalysis.</p>
+<p style="text-align: justify; font-size: 17px;"> How molecules behave at an interface or in confinement is <em>vastly different</em> from how they behave in bulk. These types of environments are where analytical theories tend to break down, where chemical reactions are more likely to happen, where timescale trends diverge. Our group seeks to <strong>unravel the intricate relationship between surface features, geometries, and the subsequent influence on fluid behavior.</strong> Ultimately, we are interested in uniquely designing surfaces toward target fluid properties for separations processes and catalysis.</p>
       </div>
       <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 2" style="max-width: 400px;" />
     </div>
@@ -168,7 +168,7 @@ permalink: /research/
       <img src="{{ site.url }}{{ site.baseurl }}/images/research3.png" alt="Research 3" style="max-width: 450px;" />
       <div class="research-content">
       <h4><strong>Generative design for ion transport</strong></h4>
-<p style="text-align: justify;">A key goal in designing energy storage solutions is to identify solvents which enhance charge transport. Rather than relying on a trial-and-error approach to pinpoint optimal solvent molecular structures, we use <strong>generative machine-learning models to directly perform optimization in low-dimentional spaces.</strong> This approach allows us to inversely design materials and electrolyte structures to target improved charge transport. </p>
+<p style="text-align: justify; font-size: 17px;">A key goal in designing energy storage solutions is to identify solvents which enhance charge transport. Rather than relying on a trial-and-error approach to pinpoint optimal solvent molecular structures, we use <strong>generative machine-learning models to directly perform optimization in low-dimentional spaces.</strong> This approach allows us to inversely design materials and electrolyte structures to target improved charge transport. </p>
       </div>
     </div>
   </div>
