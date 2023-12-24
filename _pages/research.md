@@ -168,7 +168,7 @@ permalink: /research/
       <img src="{{ site.url }}{{ site.baseurl }}/images/research3.png" alt="Research 3" style="max-width: 450px;" />
       <div class="research-content">
       <h4><strong>Generative design for ion transport</strong></h4>
-<p style="text-align: justify; font-size: 17px;">A key goal in designing energy storage solutions is to identify solvents which enhance charge transport. Rather than relying on a trial-and-error approach to pinpoint optimal solvent molecular structures, we leverage <strong>machine-learning tools to perform optimization in low-dimentional spaces.</strong> This approach allows us to inversely design materials and electrolyte structures to target improved charge transport. </p>
+<p style="text-align: justify; font-size: 17px;">A key goal in designing energy storage solutions is to identify solvents which enhance charge transport and stability. Our group leverages machine-learning tools to map molecular structures to transport properties and optimize for desired properties in lower dimensional spaces.</strong> This approach allows us to greatly accelerate the exploration and discovery of electrolytes for energy storage applications. </p>
       </div>
     </div>
   </div>
