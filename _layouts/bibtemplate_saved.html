@@ -30,7 +30,7 @@
 }
 
 .special-recognition {
-    color: #A1CF8D;
+    color: yellow;
     margin-left: 20px;
     margin-top: 10px; /* Adjust the margin-top for spacing */
     margin-bottom: 10px; /* Add spacing below the special recognition text */
@@ -71,12 +71,6 @@
                 </a>
             {% endif %}
         {% endif %}
-
-        {% if entry.data %}
-            <a href="{{ entry.data }}" target="_blank">
-                <button class="btn btn-info btm-sm">DATA</button>
-            </a>
-        {% endif %}
         
         {% if entry.type == 'unpublished' or entry.type == 'article' or entry.type == 'thesis' or entry.type == 'inproceedings' or entry.type == 'report' %}
             <button class="btn btn-danger btm-sm" onclick="toggleBibtex('{{ entry.key }}')">BIB</button>
@@ -90,9 +84,9 @@
     {% capture recognition_key %}{{ entry.key }}{% endcapture %}
     {% assign recognition_data = site.data.special_recognition[recognition_key] %}
 
-   {% if recognition_data %}
+    {% if recognition_data %}
         <div class="special-recognition" style="margin-top: 0px;">
-            {{ recognition_data.recognition_text | newline_to_br }}
+            {{ recognition_data.recognition_text }}
         </div>
     {% endif %}
 
