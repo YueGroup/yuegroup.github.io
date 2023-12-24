@@ -9,12 +9,14 @@ permalink: /people/
   /* Add custom styles here */
   .circle-photo img {
     border-radius: 50%;
+
   }
 
   .circle-icon {
     border-radius: 50%;
     background-color: #f2f2f2;
     padding: 10px;
+    text-align: center;
   }
 
   /* Customize the heading styles */
@@ -69,7 +71,7 @@ permalink: /people/
 <div class="row member-group"> <!-- Add the "member-group" class here -->
 {% endif %}
 
-<div class="col-sm-2">
+<div class="col-sm-2 text-center">
 <div class="circle-photo">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
 </div>
@@ -106,7 +108,7 @@ permalink: /people/
 <strong>Postdocs:</strong> We are actively recruiting candidates to apply for the <a href='https://science.ai.cornell.edu/schmidt-postdoc-fellows/' style='color: #A1CF8D;'>Schmidt AI in Science Postdoctoral Fellowship</a>, <a href='https://postdocs.cornell.edu/prospective-postdocs/cornell-postdoctoral-fellowship-programs/' style='color: #A1CF8D;'>Cornell internal postdoc fellowships</a>, and <a href='https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/' style='color: #A1CF8D;'>external postdoc fellowships</a>. Candidates skilled in <em><strong>ML and data science</strong></em> in particular are strongly encouraged to apply.
 </p>
 <p style="font-size: 18px;">
-<strong>Grad students:</strong> All prospective students must apply for admission to the <a href='https://www.cheme.cornell.edu/cbe/academics/graduate-programs/phd/phd-admissions' style='color: #A1CF8D;'>Cornell CBE department</a> before joining a research group. We welcome interested students from chemical engineering, chemistry, materials science, computer science, and beyond!
+<strong>Grad students:</strong> We welcome interested students from chemical engineering, chemistry, materials science, computer science, and beyond! All prospective grad students must apply for admission through the <a href='https://www.cheme.cornell.edu/cbe/academics/graduate-programs' style='color: #A1CF8D;'>Cornell Graduate School</a> before joining a research group.
 </p>
 </div>
 </div>
