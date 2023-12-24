@@ -101,7 +101,7 @@ permalink: /people/
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
-<h5 style="font-size: 18px; margin-bottom: 10px; color: #f6d635"><b>Group Openings: We looking for highly motivated, creative, and independent researchers to join our team!</b> </h5>
+<h5 style="font-size: 18px; margin-bottom: 10px; color: #f6d635"><b>Group Openings: We are looking for highly motivated, creative, and independent researchers to join our team!</b> </h5>
 <p style="font-size: 18px;">
 <strong>Postdocs:</strong> We are actively recruiting candidates to apply for the <a href='https://science.ai.cornell.edu/schmidt-postdoc-fellows/' style='color: #A1CF8D;'>Schmidt AI in Science Postdoctoral Fellowship</a>, <a href='https://postdocs.cornell.edu/prospective-postdocs/cornell-postdoctoral-fellowship-programs/' style='color: #A1CF8D;'>Cornell internal postdoc fellowships</a>, and <a href='https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/' style='color: #A1CF8D;'>external postdoc fellowships</a>. Candidates skilled in <em><strong>ML and data science</strong></em> in particular are strongly encouraged to apply.
 </p>
