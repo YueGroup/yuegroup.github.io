@@ -128,7 +128,7 @@ permalink: /research/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
 <br/>
-<h5 id="researchtext"> We are a computational research group tackling key challenges in <strong>chemical engineering</strong> and <strong>materials design</strong>. We aim to build fundamental understanding of molecular scale driving forces in order design materials with tailored properties for applications in <strong>energy storage, catalysis, and desalination</strong>. </h5>
+<h5 id="researchtext"> We are a computational research group using machine-learning and molecular simulation to tackle key challenges in <strong>chemical engineering</strong> and <strong>materials design</strong> for applications in <strong>energy storage, catalysis, and desalination</strong>. </h5>
 <br/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/research_page.svg" width="100%"/>
 </div>
