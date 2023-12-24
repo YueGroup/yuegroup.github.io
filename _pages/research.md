@@ -99,6 +99,13 @@ permalink: /research/
     .research-section.reverse-order {
       flex-direction: column-reverse; /* Change the order in single column layout */
     }
+
+  /* Responsive layout for extremely narrow screens */
+  @media (max-width: 480px) {
+    .research-section .research-image img {
+    max-width: 70%; /* Image takes 70% of the width on extremely small screens */
+  }
+}
   }
 
 </style>
