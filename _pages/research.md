@@ -87,7 +87,7 @@ permalink: /research/
     }
 
     .research-image {
-      max-width: 100%; /* Image takes full width in single column layout */
+      max-width: 300px; /* Image takes full width in single column layout */
       height: auto; /* Maintain aspect ratio */
     }
 
