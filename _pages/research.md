@@ -85,7 +85,7 @@ permalink: /research/
       display: flex;
       flex-direction: column; /* Change to a single column layout */
       align-items: center;
-      padding: 20px;
+      padding: 0px;
       margin-bottom: 20px;
       align-items: stretch;
     }
@@ -107,6 +107,12 @@ permalink: /research/
 
   /* Responsive layout for extremely narrow screens */
   @media (max-width: 480px) {
+
+    .research-section {
+    padding: 0px; /* Adjust the padding for extremely narrow screens */
+    align-items: center;
+    }
+
     .research-section .research-image img {
       max-width: 70%; /* Image takes 70% of the width on extremely small screens */
       display: flex;
@@ -128,7 +134,7 @@ permalink: /research/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
 <br/>
-<h3 id="researchtext"> We are a computational research group tackling key challenges in <strong>chemical engineering</strong> and <strong>materials design</strong> using <em>multi-scale modeling, machine learning, and statistical mechanics</em>. We aim to build fundamental understanding of molecular scale driving forces in order design materials with tailored properties for applications in <strong>energy storage, catalysis, and desalination</strong>. </h3>
+<h3 id="researchtext"> We are a computational research group tackling key challenges in <strong>chemical engineering</strong> and <strong>materials design</strong> using multi-scale modeling, machine learning, and statistical mechanics. We aim to build fundamental understanding of molecular scale driving forces in order design materials with tailored properties for applications in <strong>energy storage, catalysis, and desalination</strong>. </h3>
 <br/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/research_page.svg" width="100%"/>
 </div>
