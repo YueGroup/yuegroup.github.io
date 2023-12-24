@@ -16,9 +16,9 @@
   <link rel="preconnect" href="https://f.vimeocdn.com">
 
 
-{% raw %}{% if jekyll.environment == 'production' and site.google_analytics %}
+{% if jekyll.environment == 'production' %}
 {% include analytics.html %}
-{% endif %}{% endraw %}
+{% endif %}
 
 <style>
 .print-only {
