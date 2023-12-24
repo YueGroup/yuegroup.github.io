@@ -82,13 +82,18 @@ permalink: /research/
   /* Responsive layout for narrow screens */
   @media (max-width: 768px) {
     .research-section {
+      display: flex;
       flex-direction: column; /* Change to a single column layout */
       align-items: center;
+      padding: 20px;
+      margin-bottom: 20px;
+      align-items: stretch;
     }
 
-    .research-image {
-      max-width: 300px; /* Image takes full width in single column layout */
+    .research-section .research-image img {
+      max-width: 100%; /* Image takes full width in single column layout */
       height: auto; /* Maintain aspect ratio */
+      align-items: stretch;
     }
 
     .research-content {
@@ -103,10 +108,16 @@ permalink: /research/
   /* Responsive layout for extremely narrow screens */
   @media (max-width: 480px) {
     .research-section .research-image img {
-    max-width: 70%; /* Image takes 70% of the width on extremely small screens */
+      max-width: 70%; /* Image takes 70% of the width on extremely small screens */
+      display: flex;
+      flex-direction: column; /* Change to a single column layout */
+      align-items: center;
+      padding: 20px;
+      margin-bottom: 20px;
+      align-items: stretch;
+    }
   }
 }
-  }
 
 </style>
 
