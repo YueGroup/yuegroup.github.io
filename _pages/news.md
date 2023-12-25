@@ -43,6 +43,13 @@ permalink: /news/
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
+<h5><b>November 2023:</b> We received a Cornell – NUS Global Strategic Collaboration Award!</h5>
+<br/>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
 <h5><b>September 2023:</b> Welcome Anthony, Anant, Zach, and Nhi - undergraduate students joining the group!</h5>
 <br/>
 </div>
