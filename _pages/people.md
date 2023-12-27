@@ -9,6 +9,8 @@ permalink: /people/
   /* Add custom styles here */
   .circle-photo img {
     border-radius: 50%;
+    border: 5px solid grey;
+    /* #ded4cc */
 
   }
 
@@ -17,6 +19,8 @@ permalink: /people/
     background-color: #f2f2f2;
     padding: 10px;
     text-align: center;
+    border: thick thin;
+    border-color: gray;
   }
 
   /* Customize the heading styles */
