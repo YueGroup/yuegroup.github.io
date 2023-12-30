@@ -12,9 +12,9 @@ url: "https://yuegroup.github.io"
 google_analytics_4: G-698PM9VWHK
 
 # Footer info
-affiliation: |
-    Yue Research Group
-    Robert F. Smith School of Chemical
+affiliation: >
+    Yue Research Group<br/>
+    Robert F. Smith School of Chemical<br/>
     and Biomolecular Engineering
 
 location: >
