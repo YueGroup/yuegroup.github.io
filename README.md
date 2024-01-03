@@ -7,4 +7,4 @@ This website is based off the [academic-website-template from sbryngelson](https
 
 ## License
 
-Copyright 2023, MIT license, Yue Research Group.
+Copyright 2024, MIT license, Yue Research Group.
