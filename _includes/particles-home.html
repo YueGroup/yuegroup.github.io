@@ -23,8 +23,11 @@
   pointer-events: none; /* Allow mouse events to pass through the image */
 
   /* Adjust the width and height as needed */
-  width: 450px; /* Set your desired width */
+  width: 100%; /* Ensures the image fills its container */
   height: auto; /* Maintain the aspect ratio */
+  max-width: 550px; /* Set a maximum width to avoid stretching on larger screens */
+  border-radius: 0;
+
 }
 
 .particles-title {
