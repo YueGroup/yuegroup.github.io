@@ -26,6 +26,13 @@ permalink: /news/
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
+<h5><b>April 2024:</b> Congrats to Aditi for receiving the NSF GRFP!</h5>
+<br/>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
 <h5><b>December 2023:</b> Group dinner celebrating the end of the Fall 2023 semester!</h5>
 <br/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/group_photo_2023Fall.jpeg" width="75%"/><br/>
