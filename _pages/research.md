@@ -141,8 +141,8 @@ permalink: /research/
     <div class="research-section reverse-order">
       <img src="{{ site.url }}{{ site.baseurl }}/images/research1.png" alt="Research 1" style="max-width: 450px;" />
       <div class="research-content">
-        <h4 style="color: #ded4cc;"><strong>ML potential development</strong></h4>
-        <p style="font-size: 17px;">Molecular simulation is a powerful tool for predicting properties of materials and fluids, but the <em>reliability</em> of these predictions heavily depends on the models used. The challenge in developing these models is a trade-off between the <strong>degree of chemical detail</strong> (level of theory used) and their <strong>computational cost</strong> (how fast they can be evaluated on supercomputers). We address this challenge by leveraging machine-learning frameworks trained on quantum mechanical datasets to build models that can predict large-scale thermodynamic properties at first-principles levels of accuracy.</p>
+        <h4 style="color: #ded4cc;"><strong>Physics-inspired ML potentials</strong></h4>
+        <p style="font-size: 17px;">Molecular simulation is a powerful tool for predicting properties of materials and fluids, but the <em>reliability</em> of these predictions heavily depends on the models used. The challenge in developing these models is a trade-off between the degree of chemical detail (level of theory used) and their computational cost (how fast they can be evaluated on supercomputers). We address this challenge by leveraging <em>physics-inspired</em> machine-learning frameworks to build models that can predict large-scale thermodynamic properties at first-principles levels of accuracy.</p>
       </div>
     </div>
   </div>
@@ -154,7 +154,7 @@ permalink: /research/
     <div class="research-section">
       <div class="research-content">
       <h4 style="color: #ded4cc;"><strong>Fluids at interfaces and in confinement</strong></h4>
-<p style="text-align: justify; font-size: 17px;"> How molecules behave at an interface or in confinement is <em>vastly different</em> from how they behave in bulk. These types of environments are where analytical theories tend to break down, where timescale trends diverge, and where chemical reactions are more likely to happen. Our group seeks to <strong>decipher the intricate relationship between surface features, geometries, and the subsequent influence on fluid behavior.</strong> We aim to uniquely design surfaces and electrolyte chemistry for optimal separations and catalysis processes.</p>
+<p style="text-align: justify; font-size: 17px;"> How molecules behave at an interface or in confinement is <em>vastly different</em> from how they behave in bulk. These types of environments are where analytical theories tend to break down, where timescale trends diverge, and where chemical reactions are more likely to happen. Our group seeks to decipher the intricate relationship between surface features, geometries, and the subsequent influence on fluid behavior. We aim to uniquely design surfaces and electrolyte chemistry for optimal separations and catalysis processes.</p>
       </div>
       <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 2" style="max-width: 400px;" />
     </div>
@@ -168,7 +168,7 @@ permalink: /research/
       <img src="{{ site.url }}{{ site.baseurl }}/images/research3.png" alt="Research 3" style="max-width: 450px;" />
       <div class="research-content">
       <h4 style="color: #ded4cc;"><strong>Generative design for ion transport</strong></h4>
-<p style="text-align: justify; font-size: 17px;">A key goal in designing energy storage solutions is to identify solvents which enhance charge transport and stability. We leverage machine-learning tools to <strong>map molecular structures to transport properties and optimize for desired properties in lower dimensional spaces.</strong> This approach allows us to greatly accelerate the exploration and discovery of <em>new</em> electrolytes that can unlock ion transport behavior surpassing conventional limitations. </p>
+<p style="text-align: justify; font-size: 17px;">A key goal in designing energy storage solutions is to identify solvents which enhance charge transport and stability. We leverage machine-learning tools to map molecular structures to transport properties and optimize for desired properties in lower dimensional spaces. This approach allows us to greatly accelerate the exploration and discovery of <em>new</em> electrolytes that can unlock ion transport behavior surpassing conventional limitations. </p>
       </div>
     </div>
   </div>
