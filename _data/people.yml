@@ -8,17 +8,6 @@
   cv: /cv/NupurMehra_CV.pdf
   education1: "B.Tech. in Chemical Engineering, Indian Institute of Technology (IIT), Kanpur (2021)"
 
-- name: Spencer Sabatino
-  photo: SabatinoSpencer.jpg
-  info1: Ph.D. Student
-  email: sjs433@cornell.edu
-  location: Olin Hall 158
-  scholar: https://scholar.google.com/citations?user=W-zHAC0AAAAJ&hl=en
-  linkedin: https://www.linkedin.com/in/spencer-sabatino-b03029174
-  cv: /cv/SpencerSabatino_CV_Sep2023.pdf
-  education1: "B.S. in Chemical Engineering, Miami University (2022)"
-  education2: "M.S. in Chemical Engineering, Miami University (2022)"
-
 - name: Aditi Seshadri
   photo: AditiSeshadri.png
   info1: Ph.D. Student
@@ -52,13 +41,17 @@
   email: akg73@cornell.edu
   linkedin: https://www.linkedin.com/in/anant-gupta-78200719/
 
+- name: Lyndon Hess
+  photo: bulbasaur.png
+  info1: Undergraduate Student, Chemistry + Math \'27
+  email: lth2673@cornell.edu
+
 - name: Zachary Kwon
   photo: KwonZach.JPG
   info1: Undergraduate Student, ChemE \'25
   email: zk49@cornell.edu
   linkedin: https://www.linkedin.com/in/zachary-kwon/
   cv: /cv/ZacharyKwon_CV.pdf
-
 
 - name: Nhi Nguyen
   photo: NguyenNhi.jpg

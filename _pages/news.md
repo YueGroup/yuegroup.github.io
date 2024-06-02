@@ -24,16 +24,46 @@ permalink: /news/
 <center>
 <h3 id="header">News</h3>
 
+
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
-<h5><b>April 2024:</b> Congrats to Aditi for receiving the NSF GRFP!</h5>
+<h5><b style="color: #ded4cc;">May 2024:</b><br> Welcome Lyndon Hess who joins the group as an undergraduate researcher!
+<br> The group receives an Affinito-Stewart Grant from Cornell PCCW!
+</h5>
 <br/>
 </div>
 </div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
-<h5><b>December 2023:</b> Group dinner celebrating the end of the Fall 2023 semester!</h5>
+<h5><b style="color: #ded4cc;">April 2024:</b><br> Congrats to Aditi for receiving the NSF GRFP!
+<br> Anant receives an Engineering Learning Initiatives (ELI) grant and presents at the ELI Symposium!
+</h5>
+<br/>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
+<h5><b style="color: #ded4cc;">March 2024:</b><br> Shuwen is named a <a href='https://rescorp.org/scialog/sustainable-minerals-metals-materials' style='color: #A1CF8D;'>Scialog Fellow in Sustainable Minerals, Metals, and Materials (SM3)</a>!
+<br> Shuwen is elected to the <a href='https://www.aaas.org/governance/section-m' style='color: #A1CF8D;'>AAAS Section M Engineering Steering Committee</a> as the Early Career Representative!
+</h5>
+<br/>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
+<h5><b style="color: #ded4cc;">January 2024:</b><br> Shuwen joins the inaugural <a href='https://pubs.acs.org/doi/10.1021/acs.jctc.3c01426' style='color: #A1CF8D;'>2024 Early Career Advisory Board for the Journal of Chemical Theory and Computation (JCTC)</a>!
+</h5>
+<br/>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
+<h5><b style="color: #ded4cc;">December 2023:</b> <br>Group dinner celebrating the end of the Fall 2023 semester!
+</h5>
 <br/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/group_photo_2023Fall.jpeg" width="75%"/><br/>
 <br/>
@@ -43,14 +73,16 @@ permalink: /news/
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
-<h5><b>December 2023:</b> Welcome Aditi Seshadri, new Ph.D. student joining the group!</h5>
+<h5><b style="color: #ded4cc;">December 2023:</b><br> Welcome Aditi Seshadri, new Ph.D. student joining the group!
+</h5>
 <br/>
 </div>
 </div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
-<h5><b>September 2023:</b> Welcome Anthony, Anant, Zach, and Nhi - undergraduate students joining the group!</h5>
+<h5><b style="color: #ded4cc;">November 2023:</b><br> The group receives a Cornell-NUS Global Strategic Collaboration Award with Iris Yu's group at NUS!
+</h5>
 <br/>
 </div>
 </div>
@@ -58,14 +90,25 @@ permalink: /news/
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
-<h5><b>July 2023:</b> Shuwen officially joins Cornell CBE!</h5>
+<h5><b style="color: #ded4cc;">September 2023:</b><br> Welcome Anthony, Anant, Zach, and Nhi - undergraduate students joining the group!
+</h5>
+<br/>
+</div>
+</div>
+
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
+<h5><b style="color: #ded4cc;">July 2023:</b><br> Shuwen officially joins Cornell CBE!
+</h5>
 <br/>
 </div>
 </div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
-<h5><b>October 2022:</b> Welcome Nupur, Spencer, and Rahul - the first graduate students to join the group!</h5>
+<h5><b style="color: #ded4cc;">October 2022:</b><br> Welcome Nupur, Spencer, and Rahul - the first graduate students to join the group!
+</h5>
 <br/>
 </div>
 </div>
