@@ -37,7 +37,7 @@ permalink: /news/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
 <h5><b style="color: #ded4cc;">April 2024:</b><br> Congrats to Aditi for receiving the NSF GRFP!
-<br> Anant receives an Engineering Learning Initiatives (ELI) grant and presents at the ELI Symposium!
+<br> Congrats to Anant for receiving an Engineering Learning Initiatives (ELI) grant and presenting at the ELI Symposium!
 </h5>
 <br/>
 </div>

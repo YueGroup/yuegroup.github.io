@@ -128,9 +128,9 @@ permalink: /research/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
 <br/>
-<h5 id="researchtext" style="color: #ded4cc;"> We are a computational research group using <strong>multi-scale modeling, machine learning, and chemical informatics</strong> for applications in energy storage, catalysis, and desalination. </h5>
+<h5 id="researchtext" style="color: #ded4cc;"> We are a computational molecular science research group using <strong>multi-scale modeling, machine learning, and chemical informatics</strong> for applications in energy storage, catalysis, and desalination. </h5>
 <br/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/research0.png" width="90%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/research0.svg" width="90%"/>
 </div>
 </div>
 
