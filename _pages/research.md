@@ -130,7 +130,7 @@ permalink: /research/
 <br/>
 <h4 id="researchtext" style="color: #ded4cc;"><strong> Our computational molecular science toolkit: </strong></h4>
 <br/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/research0.svg" style="width: 100%;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/research0.svg" style="width: 90%;"/>
 </div>
 </div>
 
