@@ -41,7 +41,7 @@ permalink: /news/
 <div class="col-md-12 col-sm-12 mx-auto">
 <h5><b style="color: #ded4cc;">April 2024:</b>
 <hr style="margin: -5px 0;">
-<br> Congrats to Aditi for receiving the NSF GRFP!
+<br> Congrats to Aditi for receiving the <a href='https://www.cheme.cornell.edu/news/cbe-student-wins-nsf-graduate-research-fellowship' style='color: #A1CF8D;'>NSF GRFP</a>!
 <hr style="margin: -5px 0;">
 <br> Congrats to Anant for receiving an Engineering Learning Initiatives (ELI) grant and presenting at the ELI Symposium!
 </h5>
@@ -65,7 +65,7 @@ permalink: /news/
 <div class="col-md-12 col-sm-12 mx-auto">
 <h5><b style="color: #ded4cc;">January 2024:</b>
 <hr style="margin: -5px 0;">
-<br> Shuwen joins the inaugural <a href='https://pubs.acs.org/doi/10.1021/acs.jctc.3c01426' style='color: #A1CF8D;'>2024 Early Career Advisory Board for the Journal of Chemical Theory and Computation (JCTC)</a>!
+<br> Shuwen joins the inaugural <a href='https://pubs.acs.org/doi/10.1021/acs.jctc.3c01426' style='color: #A1CF8D;'>Early Career Advisory Board for the Journal of Chemical Theory and Computation (JCTC)</a>!
 </h5>
 <br/>
 </div>
@@ -75,21 +75,13 @@ permalink: /news/
 <div class="col-md-12 col-sm-12 mx-auto">
 <h5><b style="color: #ded4cc;">December 2023:</b> 
 <hr style="margin: -5px 0;">
+<br>Welcome Aditi Seshadri, new Ph.D. student joining the group!
+<hr style="margin: -5px 0;">
 <br>Group dinner celebrating the end of the Fall 2023 semester!
 </h5>
 <br/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/group_photo_2023Fall.jpeg" width="75%"/><br/>
 <br/>
-<br/>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">December 2023:</b>
-<hr style="margin: -5px 0;">
-<br> Welcome Aditi Seshadri, new Ph.D. student joining the group!
-</h5>
 <br/>
 </div>
 </div>
