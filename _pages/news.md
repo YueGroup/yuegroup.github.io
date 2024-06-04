@@ -24,6 +24,15 @@ permalink: /news/
 <center>
 <h3 id="header">News</h3>
 
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
+<h5><b style="color: #ded4cc;">June 2024:</b>
+<hr style="margin: -5px 0;">
+<br> Congrats to Nupur for receiving a <a href='http://fomms.cache.org' style='color: #A1CF8D;'>Foundations of Molecular Modeling and Simulation (FOMMS)</a> registration waiver award! 
+</h5>
+<br/>
+</div>
+</div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
