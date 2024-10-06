@@ -26,13 +26,46 @@ permalink: /news/
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">June 2024:</b>
+<h5><b style="color: #ded4cc;">September 2024:</b>
 <hr style="margin: -5px 0;">
-<br> Congrats to Nupur for receiving a <a href='http://fomms.cache.org' style='color: #A1CF8D;'>Foundations of Molecular Modeling and Simulation (FOMMS)</a> registration waiver award! 
+<br> Congrats Nhi and Anant for receiving an ELI award!
+<hr style="margin: -5px 0;">
 </h5>
 <br/>
 </div>
 </div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
+<h5><b style="color: #ded4cc;">August 2024:</b>
+<hr style="margin: -5px 0;">
+<br> Congrats to Nupur for passing the A-Exam and Rahul for passing the M-Exam!
+<hr style="margin: -5px 0;">
+<br> Shuwen attends the Fall National ACS meeting in Denver - gave an invited talk at the Data Analytics & AI for Manufacturing & Healthcare session, a contributed talk in the ACS COMP Machine Learning in Chemistry session, and served as a judge for the ACS COMP NVIDIA GPU Award!
+</h5>
+<br/>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
+<h5><b style="color: #ded4cc;">July 2024:</b>
+<hr style="margin: -5px 0;">
+<br> Congrats to Nupur for receiving a <a href='http://fomms.cache.org' style='color: #A1CF8D;'>Foundations of Molecular Modeling and Simulation (FOMMS)</a> registration waiver award and being selected for a Lightning talk!  Shuwen serves as a session chair at the same conference.
+<hr style="margin: -5px 0;">
+<br> Shuwen teaches at the i-CoMSE Workshop on Machine Learning for Molecular Science hosted at the University of Minnesota! Special thanks to Aditi and Lyndon for preparing workshop materials!
+<hr style="margin: -5px 0;">
+<br> Shuwen attends the GRC on Water and Aqueous Solutions!
+<hr style="margin: -5px 0;">
+<br> Shuwen leads a session on ML for chemical sciences at the Cornell CATALYST and CURIE outreach workshops!
+<hr style="margin: -5px 0;">
+<br> Shuwen gives an invited talk at the Telluride workshop on Multi-Scale Quantum Mechanical Analysis of Condensed Phase Systems: Methods and Applications!
+</h5>
+<br/>
+</div>
+</div>
+
+
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">

@@ -45,7 +45,7 @@ permalink: /people/
 <div class="row">
 <div class="col-sm-3">
 <div class="circle-photo">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="80%" style="max-width:250px"/>
 </div>
 </div>
 <div class="col-sm-9 col-xs-12">
