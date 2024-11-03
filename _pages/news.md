@@ -65,7 +65,7 @@ permalink: /news/
 <div class="col-md-12 col-sm-12 mx-auto">
 <h5><b style="color: #ded4cc;">August 2024:</b>
 <hr style="margin: -5px 0;">
-<br> Congrats to Nupur for passing the A-Exam and Rahul for passing the M-Exam!
+<br> Congrats to Nupur for passing the A-Exam, Rahul for passing the M-Exam, and Aditi for completing the RPA!
 <hr style="margin: -5px 0;">
 <br> Shuwen attends the Fall National ACS meeting in Denver - gave an invited talk at the Data Analytics & AI for Manufacturing & Healthcare session, a contributed talk in the ACS COMP Machine Learning in Chemistry session, and served as a judge for the ACS COMP NVIDIA GPU Award!
 </h5>
