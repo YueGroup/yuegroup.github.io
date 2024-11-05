@@ -28,9 +28,12 @@ permalink: /news/
 <div class="col-md-12 col-sm-12 mx-auto">
 <h5><b style="color: #ded4cc;">November 2024:</b>
 <hr style="margin: -5px 0;">
-<br> Welcome to Osman who joins the group as a postdoc and Chenlu as a rotation student!
-<hr style="margin: -5px 0;">
+<br> Welcome new postdoc Osman and new rotation student Chenlu!
 </h5>
+<br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/group_photo_2024Fall.jpeg" width="75%"/><br/>
+<hr style="margin: -5px 0;">
+<br/>
 <br/>
 </div>
 </div>
