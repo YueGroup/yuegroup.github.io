@@ -64,7 +64,7 @@ jobs:
           name: github-pages
           path: _site
 
-      - name: Debug: List files in _site
+      - name: Debug List files in _site
         run: ls -R _site || echo "No files found in _site!"
 
       - name: Deploy to GitHub Pages
