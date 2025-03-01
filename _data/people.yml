@@ -2,42 +2,41 @@
   photo: MamunOsman.jpg
   info1: Postdoctoral Associate
   email: om235@cornell.edu
-  location: Olin Hall 158
+  location: Olin Hall 222
   github: https://github.com/mamunm
   scholar: https://scholar.google.com/citations?user=NJdTPhkAAAAJ&hl=en
   linkedin: https://www.linkedin.com/in/osman-mamun/
   education1: "Ph.D. in Chemical Engineering, University of South Carolina"
   education2: "Postdoc, Stanford University, PNNL"
 
-- name: Nupur Mehra
-  photo: MehraNupur.jpg
-  info1: Ph.D. Student
-  email: nm558@cornell.edu
-  location: Olin Hall 158
-  github: https://github.com/nupurm00
-  linkedin: https://www.linkedin.com/in/nupur-mehra/
-  cv: /cv/NupurMehra_CV.pdf
-  education1: "B.Tech. in Chemical Engineering, Indian Institute of Technology (IIT), Kanpur (2021)"
-
 - name: Aditi Seshadri
   photo: AditiSeshadri.png
-  info1: Ph.D. Student
+  info1: Ph.D. Student, CBE
   info2: NSF Graduate Research Fellow
   email: as3639@cornell.edu
-  location: Olin Hall 158
+  location: Olin Hall 222
   cv: /cv/AditiSeshadri_CV.pdf
-  education1: "B.S. in Chemical Engineering, University of Rochester (2022)"
+  education1: "B.S. in Chemical Engineering, University of Rochester"
 
+- name: Chenlu Yang
+  photo: ChenluYang.jpg
+  info1: Ph.D. Student, CCB
+  email: cy533@cornell.edu
+  location: Olin Hall 222
+  scholar: https://scholar.google.com/citations?user=hrJxKTMAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/chenlu-yang-24aab6246
+  education1: "BS. in Chemistry, Wuhan University"
+  education2: "MS. in Chemistry, University of Florida"
 
 - name: Anthony Dee
   photo: DeeAnthony.jpg
-  info1: Undergraduate Student, ChemE \'25
+  info1: Undergraduate Student, CBE \'25
   email: ahd68@cornell.edu
   linkedin: https://www.linkedin.com/in/anthony-dee
 
 - name: Anant Gupta
   photo: GuptaAnant.jpg
-  info1: Undergraduate Student, ChemE \'25
+  info1: Undergraduate Student, CBE \'25
   email: akg73@cornell.edu
   linkedin: https://www.linkedin.com/in/anant-gupta-78200719/
 
@@ -45,17 +44,18 @@
   photo: bulbasaur.png
   info1: Undergraduate Student, Chemistry + Math \'27
   email: lth2673@cornell.edu
+  linkedin: http://www.linkedin.com/in/lyndon-hess-267299326
 
 - name: Zachary Kwon
   photo: KwonZach.JPG
-  info1: Undergraduate Student, ChemE \'25
+  info1: Undergraduate Student, CBE \'25
   email: zk49@cornell.edu
   linkedin: https://www.linkedin.com/in/zachary-kwon/
   cv: /cv/ZacharyKwon_CV.pdf
 
 - name: Nhi Nguyen
   photo: NguyenNhi.jpg
-  info1: Undergraduate Student, ChemE + CS Minor \'25
+  info1: Undergraduate Student, CBE + CS Minor \'25
   email: npn25@cornell.edu
   linkedin: https://www.linkedin.com/in/nhi-nguyen-709728229/
 

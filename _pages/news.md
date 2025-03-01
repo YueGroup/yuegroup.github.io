@@ -24,16 +24,32 @@ permalink: /news/
 <center>
 <h3 id="header">News</h3>
 
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto">
+<h5><b style="color: #ded4cc;">December 2024:</b>
+<hr style="margin: -5px 0;">
+<br> Welcome new PhD student Chenlu!
+<hr style="margin: -5px 0;">
+<br> Shuwen gives at departmental seminar at the Cornell Department of Biological & Environmental Engineering (BEE)!
+<hr style="margin: -5px 0;">
+</h5>
+<br/>
+</div>
+</div>
+
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
 <h5><b style="color: #ded4cc;">November 2024:</b>
 <hr style="margin: -5px 0;">
-<br> Welcome new postdoc Osman and new rotation student Chenlu!
-</h5>
-<br/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/group_photo_2024Fall.jpeg" width="75%"/><br/>
+<br> Welcome new postdoc Osman!
 <hr style="margin: -5px 0;">
-<br/>
+<br> Shuwen gives at departmental seminar at the Cornell Department of Material Science & Engineering (MSE)!
+<hr style="margin: -5px 0;">
+<br> Mid-semester group dinner!
+<hr style="margin: 10px 0;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/group_photo_2024Fall.jpeg" width="75%"/><br/>
+</h5>
 <br/>
 </div>
 </div>
