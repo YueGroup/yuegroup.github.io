@@ -1,0 +1,19 @@
+current directory: /Users/shuwenyue/yuegroup.github.io/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.5/ext/stringio
+/opt/homebrew/opt/ruby@3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/shuwenyue/yuegroup.github.io/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.5/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250301-65991-q6s10e sitelibdir\=./.gem.20250301-65991-q6s10e clean
+
+current directory: /Users/shuwenyue/yuegroup.github.io/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.5/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250301-65991-q6s10e sitelibdir\=./.gem.20250301-65991-q6s10e
+compiling stringio.c
+linking shared-object stringio.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/shuwenyue/yuegroup.github.io/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.5/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250301-65991-q6s10e sitelibdir\=./.gem.20250301-65991-q6s10e install
+/usr/bin/install -c -m 0755 stringio.bundle ./.gem.20250301-65991-q6s10e
+
+current directory: /Users/shuwenyue/yuegroup.github.io/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.5/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250301-65991-q6s10e sitelibdir\=./.gem.20250301-65991-q6s10e clean

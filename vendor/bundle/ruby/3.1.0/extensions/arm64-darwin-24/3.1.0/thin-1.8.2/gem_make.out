@@ -1,0 +1,25 @@
+current directory: /Users/shuwenyue/yuegroup.github.io/vendor/bundle/ruby/3.1.0/gems/thin-1.8.2/ext/thin_parser
+/opt/homebrew/opt/ruby@3.1/bin/ruby extconf.rb
+checking for main() in -lc... yes
+creating Makefile
+
+current directory: /Users/shuwenyue/yuegroup.github.io/vendor/bundle/ruby/3.1.0/gems/thin-1.8.2/ext/thin_parser
+make DESTDIR\= sitearchdir\=./.gem.20250301-65991-surui9 sitelibdir\=./.gem.20250301-65991-surui9 clean
+
+current directory: /Users/shuwenyue/yuegroup.github.io/vendor/bundle/ruby/3.1.0/gems/thin-1.8.2/ext/thin_parser
+make DESTDIR\= sitearchdir\=./.gem.20250301-65991-surui9 sitelibdir\=./.gem.20250301-65991-surui9
+compiling parser.c
+parser.c:31:18: warning: unused variable 'http_parser_en_main' [-Wunused-const-variable]
+   31 | static const int http_parser_en_main = 1;
+      |                  ^~~~~~~~~~~~~~~~~~~
+1 warning generated.
+compiling thin.c
+linking shared-object thin_parser.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/shuwenyue/yuegroup.github.io/vendor/bundle/ruby/3.1.0/gems/thin-1.8.2/ext/thin_parser
+make DESTDIR\= sitearchdir\=./.gem.20250301-65991-surui9 sitelibdir\=./.gem.20250301-65991-surui9 install
+/usr/bin/install -c -m 0755 thin_parser.bundle ./.gem.20250301-65991-surui9
+
+current directory: /Users/shuwenyue/yuegroup.github.io/vendor/bundle/ruby/3.1.0/gems/thin-1.8.2/ext/thin_parser
+make DESTDIR\= sitearchdir\=./.gem.20250301-65991-surui9 sitelibdir\=./.gem.20250301-65991-surui9 clean
