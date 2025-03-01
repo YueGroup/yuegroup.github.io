@@ -44,32 +44,18 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Upload artifact  # Make sure this artifact is correctly uploaded
-        uses: actions/upload-artifact@v4
+      - name: Upload GitHub Pages Artifact  # ✅ Use the correct artifact uploader
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: github-pages
-          path: _site
-          retention-days: 1
-
-      - name: Debug Check Uploaded Artifacts
-        run: ls -la _site || echo "_site is empty before upload!"
+          path: _site  # ✅ No need for an artifact name, it's handled automatically
 
   deploy:
     runs-on: ubuntu-22.04
-    needs: build  # Ensure deploy step waits for the build job
+    needs: build
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Download artifact  # Download the artifact in deploy job
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages
-          path: _site
-
-      - name: Debug List files in _site
-        run: ls -R _site || echo "No files found in _site!"
-
-      - name: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages  # ✅ Deploy directly, no manual download needed
         id: deployment
         uses: actions/deploy-pages@v4
+
