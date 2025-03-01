@@ -52,7 +52,7 @@ jobs:
           retention-days: 1
 
       - name: Debug Check Uploaded Artifacts
-          run: ls -lah _site || echo "_site is empty before upload!"
+          run: ls -la _site || echo "_site is empty before upload!"
 
   deploy:
     runs-on: ubuntu-22.04
