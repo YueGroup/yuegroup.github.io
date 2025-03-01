@@ -16,10 +16,10 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04  # More stable than ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  # Updated for compatibility
+        uses: actions/checkout@v4
 
       - name: Install Dependencies
         run: sudo apt update && sudo apt install -y ruby-full build-essential zlib1g-dev
@@ -27,12 +27,12 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'  # Explicitly install Ruby 3.1
+          ruby-version: '3.1'
           bundler-cache: true
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v4  # Updated to latest version
 
       - name: Install Jekyll and Bundler
         run: |
@@ -44,19 +44,30 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Upload artifact  # REQUIRED by GitHub Pages new update
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-pages
+          path: _site  # Upload the correct directory
+          retention-days: 1
 
   deploy:
+    runs-on: ubuntu-22.04
+    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-22.04
-    needs: build
     steps:
+      - name: Download artifact  # REQUIRED by GitHub Pages new update
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: _site  # Ensure it is placed in the correct directory
+
+      - name: Debug: List downloaded files
+        run: ls -R _site || echo "No files found in _site!"
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-        with:
-          artifact_name: github-pages  # Explicitly set artifact name
 
