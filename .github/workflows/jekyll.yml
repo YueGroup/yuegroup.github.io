@@ -32,7 +32,7 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4  # Updated for 2025
+        uses: actions/configure-pages@v4
 
       - name: Install Jekyll and Bundler
         run: |
@@ -44,19 +44,32 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Upload artifact  # Use `upload-pages-artifact@v1` (GitHub Pages requires this)
-        uses: actions/upload-pages-artifact@v1
+      - name: Upload artifact  # Make sure this artifact is correctly uploaded
+        uses: actions/upload-artifact@v4
         with:
-          path: _site  # Upload Jekyll's built site
+          name: github-pages
+          path: _site
+          retention-days: 1
 
   deploy:
     runs-on: ubuntu-22.04
-    needs: build
+    needs: build  # Ensure deploy step waits for the build job
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Download artifact  # Download the artifact in deploy job
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: _site
+
+      - name: Debug: List files in _site
+        run: ls -R _site || echo "No files found in _site!"
+
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2  # GitHub Pages requires this specific action
+        uses: actions/deploy-pages@v2
+        with:
+          artifact_name: github-pages  # Reference the artifact by name
 
