@@ -64,8 +64,10 @@ jobs:
           name: github-pages
           path: _site  # Ensure it is placed in the correct directory
 
-      - name: Debug: List downloaded files
-        run: ls -R _site || echo "No files found in _site!"
+      - name: Debug List downloaded files
+        run: |
+          echo "Checking contents of _site directory:"
+          ls -R _site || echo "No files found in _site!"
 
       - name: Deploy to GitHub Pages
         id: deployment
