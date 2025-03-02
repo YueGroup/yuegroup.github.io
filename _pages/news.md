@@ -58,7 +58,7 @@ permalink: /news/
 <div class="col-md-12 col-sm-12 mx-auto">
 <h5><b style="color: #ded4cc;">October 2024:</b>
 <hr style="margin: -5px 0;">
-<br> The group receives a <a href='https://rescorp.org/news/2024/10/6-teams-funded-in-1st-year-of-scialog-sustainable-minerals-metals-and-materials' style='color: #A1CF8D;'>Scialog Award</a> funded by the Sloan Foundation! 
+<br> We received a <a href='https://rescorp.org/news/2024/10/6-teams-funded-in-1st-year-of-scialog-sustainable-minerals-metals-and-materials' style='color: #A1CF8D;'>Scialog Award</a> funded by the Sloan Foundation! 
 <hr style="margin: -5px 0;">
 <br> Shuwen attends AIChE! She gave an invited talk in the CoMSEF Spotlights in Thermodynamics and Computational Molecular Science session, co-chaired the Faculty Candidates in CoMSEF/Area 1A session, and was elected Liaison Director of AIChE CoMSEF!
 <hr style="margin: -5px 0;">
