@@ -31,7 +31,7 @@ permalink: /news/
 <hr style="margin: -5px 0;">
 <br> Welcome new PhD student Chenlu!
 <hr style="margin: -5px 0;">
-<br> Shuwen gives at departmental seminar at the Cornell Department of Biological & Environmental Engineering (BEE)!
+<br> Shuwen gives a departmental seminar at the Cornell Department of Biological & Environmental Engineering (BEE)!
 <hr style="margin: -5px 0;">
 </h5>
 <br/>
@@ -44,7 +44,7 @@ permalink: /news/
 <hr style="margin: -5px 0;">
 <br> Welcome new postdoc Osman!
 <hr style="margin: -5px 0;">
-<br> Shuwen gives at departmental seminar at the Cornell Department of Material Science & Engineering (MSE)!
+<br> Shuwen gives a departmental seminar at the Cornell Department of Material Science & Engineering (MSE)!
 <hr style="margin: -5px 0;">
 <br> Mid-semester group dinner!
 <hr style="margin: 10px 0;">
