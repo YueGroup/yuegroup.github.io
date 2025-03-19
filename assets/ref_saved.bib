@@ -298,3 +298,57 @@
   abstract={Metal–organic frameworks (MOFs) have been widely studied for their ability to capture and store greenhouse gases. However, most computational discovery efforts study hypothetical MOFs without consideration of their stability, limiting the practical application of novel materials. We overcome this limitation by screening hypothetical ultrastable MOFs that have predicted high thermal and activation stability, as judged by machine learning (ML) models trained on experimental measures of stability. We enhance this set by computing the bulk modulus as a measure of mechanical stability and filter 1102 mechanically robust hypothetical MOFs from a database of ultrastable MOFs (USMOF DB). Grand Canonical Monte Carlo simulations are then employed to predict the gas adsorption properties of these hypothetical MOFs, alongside a database of experimental MOFs. We identify privileged building blocks that lead MOFs in USMOF DB to show exceptional working capacities compared to the experimental MOFs. We interpret these differences by training ML models on CO2 and CH4 adsorption in these databases, showing how poor model transferability between data sets indicates that novel design rules can be derived from USMOF DB that would not have been gathered through assessment of structurally characterized MOFs. We identify geometric features and node chemistry that will enable the rational design of MOFs with enhanced gas adsorption properties in synthetically realizable MOFs.}
 }
 
+@article{2025-schwindt-membrane,
+  title={Molecular Details and Free Energy Barriers of Ion De--Coordination at Elevated Salinity and Pressure and Their Consequences for Membrane Separation},
+  author={Schwindt, Nathanael S and Epsztein, Razi and Straub, Anthony P and Yue, Shuwen and Shirts, Michael R},
+  journal={},
+  volume={},
+  number={},
+  pages={},
+  year={2025},
+  date={2025},
+  publisher={},
+  abstract={Ion dehydration has been hypothesized to strongly influence separation performance in membrane systems and ion transport in nanoscale channels. However, the molecular details of ion dehydration in membranes are not well understood, in particular under the high pressures and concentrations required for brine treatment. In this study, we define \textit{de-coordination} as the process by which an ion decreases its total coordination number, including both water molecules and counterions. We estimate the de-coordination free energies in bulk solution for a range of different ions at high pressure and salinity relevant to brine treatment using molecular simulation. We also propose alternatives to the coordination number as the size constraint for traversing nanoscale constrictions, such as the maximum cross-sectional area of the complexed ion. We show that high operating pressures do not significantly change cation hydration shell stability nor the shell size, while high ionic concentrations lower the free energy barrier to reduce the cation coordination number. We find that anion de-coordination free energies are largely unaffected by elevated salinity and pressure conditions. Finally, we discuss the implications on ion-ion selectivity in separations membranes (e.g. extracting lithium from salt-lake brines) due to the effects of elevated pressure and salinity on ion de-coordination.}
+}
+
+@article{2025-rahul-confinement,
+  title={Specific Ion Effects in Electrolyte Solutions in Confinement from Machine Learning Potentials},
+  author={Sheshanarayana, Rahul and Sabatino, Spencer and Yue, Shuwen},
+  journal={},
+  volume={},
+  number={},
+  pages={},
+  year={2025},
+  date={2025},
+  publisher={},
+  abstract={Aqueous electrolytes under ultraconfinement exhibit structural and dynamic properties that deviate significantly from bulk solutions, with important implications for desalination and energy storage. Although numerous works from molecular simulations utilizing classical force fields and ab initio methods have allowed for a qualitative understanding of the molecular origins behind these properties, the former lacks sufficient chemical detail for accurate representations of interfacial interactions, and the latter is too slow and computationally demanding to capture collective thermodynamic and dynamic properties. To address these challenges, we construct first--principles--derived machine learning potentials to investigate the structure and dynamics of aqueous NaCl and KCl salt solutions under varying degrees of confinement. Our findings indicate that K+ ions exhibit stronger adsorption onto graphene surfaces compared to Na+, primarily due to the greater susceptibility of K+ to solvation-shell perturbations. Additionally, we observe that water present in aqueous KCl solutions diffuses faster than that in aqueous NaCl solutions due to the higher stability of solvation shells around Na+ cations. These findings enhance our understanding of specific ion effects under confinement and demonstrate the critical need for accurate interatomic potentials to accurately capture the nuanced behavior of confined electrolyte systems.}
+}
+
+@article{2025-ball-mof-water,
+  title={Data-Driven Discovery of Water-Stable Metal-Organic Frameworks With High Water Uptake Capacity},
+  author={Ball, Akash K and Terrones, Gianmarco G and Yue, Shuwen and Kulik, Heather J},
+  journal={},
+  volume={},
+  number={},
+  pages={},
+  year={2025},
+  date={2025},
+  publisher={},
+  abstract={Metal-organic frameworks (MOFs) are promising candidate materials for applications that would benefit from precise chemical patterning, such as desalination and atmospheric water harvesting, but many MOFs suffer from poor stability in water. In addition to water stability, high water uptake capacity in ambient conditions is expected to be necessary for water-related practical applications of MOFs, motivating large-scale search that can only be achieved computationally. Here, we take a combined machine learning and high-throughput screening approach to identifying water-stable MOFs with high water uptake capacities. Starting from a subset of previously curated MOFs with experimentally known exceptionally high stability in water, we explore the effect of linker functionalization with twelve diverse hydrophilic functional groups expected to further tune water uptake. For these 736 MOFs, we use grand canonical Monte Carlo (GCMC) simulations to compute their water uptake capacity. We observe strong positive correlations between MOF pore features (e.g., the largest cavity diameter and volumetric pore volume) and water uptake capacity, although we notice breakdowns of such correlations in MOFs with extremely hydrophobic linkers that repel water molecules despite having large pores. Finally, we develop machine learning models to screen new MOFs simultaneously for water stability and water uptake capacity. From a pool of hypothetical and experimental MOFs, we identify 74 promising materials within the domain of applicability of the machine learning models that are predicted to be both water-stable and have high water uptake.}
+}
+
+
+@article{2025-mamun-dgkl,
+  title={Deep Graph Kernel Learning for Material & Atomic Level Uncertainty Quantification in Adsorption Energy Prediction},
+  author={Mamun, Osman and Yang, Chenlu and Yue, Shuwen},
+  journal={},
+  volume={},
+  number={},
+  pages={},
+  year={2025},
+  date={2025},
+  publisher={},
+  abstract = {Graph Neural Networks (GNNs) provide an efficient surrogate for computationally intensive density functional theory calculations in catalytic material discovery, yet they often struggle with out-of-domain generalization. This limitation necessitates reliable prediction uncertainty quantification for informed catalyst discovery. While Gaussian Processes (GPs) offer principled Bayesian uncertainty quantification, their cubic time complexity, high memory requirements, and inability to learn from graph structures limit their application in high-throughput discovery. We introduce Deep Graph Kernel Learning (DGKL), a scalable framework that combines a GNN backbone with a sparse variational Gaussian Process (SVGP) for uncertainty quantification in adsorption energy prediction. We benchmark DGKL against state-of-the-art methods, including ensemble/query-by-committee, evidential, and Monte-Carlo dropout approaches. DGKL consistently outperforms existing methods across ranking-based metrics (negative log-likelihood, expected normalized calibration error, miscalibration area) and error-based metrics (RMSE vs. RMV and error vs. standard deviation plots) while maintaining computational efficiency. Specifically, DGKL achieves the lowest expected normalized calibration error (0.06-0.10), lowest miscalibration area (0.04-0.07), and highest Spearman correlation coefficient (0.34-0.51) across diverse datasets and GNN backbone combinations. Qualitatively, DGKL’s RMSE vs. RMV plots demonstrate superior calibration compared to competing methods. Additionally, we propose a DGKL variation capable of predicting atomic-level uncertainty - a feature absent in existing methods — offering finegrained insights into out-of-domain data. DGKL can be incorporated into active learning frameworks to efficiently explore catalytic material space, accelerating the discovery of novel catalysts.}
+}
+
+
