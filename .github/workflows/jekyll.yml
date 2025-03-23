@@ -21,7 +21,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Dependencies
+      - name: Install system dependencies
         run: sudo apt update && sudo apt install -y ruby-full build-essential zlib1g-dev
 
       - name: Setup Ruby
@@ -30,17 +30,19 @@ jobs:
           ruby-version: '3.1'
           bundler-cache: true
 
-      - name: Setup Pages
+      - name: Setup GitHub Pages
         id: pages
         uses: actions/configure-pages@v4
 
-      - name: Ensure Bundler installs all dependencies
+      - name: Clean bundle cache (if needed)
+        run: rm -rf vendor/bundle
+
+      - name: Configure bundler to install locally
         run: bundle config set --local path 'vendor/bundle'
 
-      - name: Install Jekyll and Bundler
+      - name: Install dependencies
         run: |
           gem install bundler
-          bundle config set --local path 'vendor/bundle'
           bundle install
 
       - name: Build with Jekyll
@@ -48,10 +50,10 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Upload GitHub Pages Artifact  # ✅ Use the correct artifact uploader
+      - name: Upload GitHub Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _site  # ✅ No need for an artifact name, it's handled automatically
+          path: _site
 
   deploy:
     runs-on: ubuntu-22.04
@@ -59,7 +61,7 @@ jobs:
     environment:
       name: github-pages
     steps:
-      - name: Deploy to GitHub Pages  # ✅ Deploy directly, no manual download needed
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
 
