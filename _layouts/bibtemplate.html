@@ -37,6 +37,18 @@
     font-size: 16px;
 }
 
+.btn-preprint {
+  background-color: #6FA24D;
+  color: white;
+  border: none;
+}
+
+.btn-preprint:hover {
+  background-color: #6FA24D; /* darker shade for hover */
+  color: white; /* keep text readable */
+}
+
+
 .btn {
     margin-bottom: 10px; /* Adjust the margin-bottom value for spacing between buttons */
     padding-top: 0px; /* Adjust the padding-top value for button height */
@@ -61,17 +73,18 @@
             </a>
         {% endif %}
         
-        {% if entry.doi %}
-            {% if entry.type == 'unpublished' %}
-                <a href="{{ entry.doi | prepend: 'https://arxiv.org/abs/' }}" target="_blank">
-                    <button class="btn btn-primary btm-sm">ARXIV</button>
-                </a>
-            {% else %}
-                <a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank">
-                    <button class="btn btn-primary btm-sm">DOI</button>
-                </a>
-            {% endif %}
+        {% if entry.preprint %}
+            <a href="https://doi.org/{{ entry.preprint }}" target="_blank">
+                <button class="btn btn-preprint btm-sm">PREPRINT</button>
+            </a>
         {% endif %}
+
+        {% if entry.doi %}
+            <a href="https://doi.org/{{ entry.doi }}" target="_blank">
+                <button class="btn btn-primary btm-sm">DOI</button>
+            </a>
+        {% endif %}
+
 
         {% if entry.data %}
             <a href="{{ entry.data }}" target="_blank">
