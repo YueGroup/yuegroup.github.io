@@ -14,205 +14,133 @@ permalink: /news/
     font-weight: bold; /* Make the text bold */
   }
 
+  .current-year {
+    font-weight: bold;
+    font-size: 18px;
+    color: #A1CF8D;
+    text-decoration: none;
+  }
+
+  .year-links {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+
+  .year-links a {
+    margin: 0 10px;
+    color: #A1CF8D;
+    text-decoration: none;
+  }
+
+  .header-month {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ded4cc;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: -5px;
+  }
+
   .text {
-    font-size: 20px; /* Adjust the font size as needed */
-    font-weight: bold; /* Make the text bold */
+    font-size: 18px; /* Adjust the font size as needed */
+    text-align: center;
+    margin-top: 15px;
+  }
+
+  .year-links {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 20px;
+  }
+
+  .year-links a {
+    margin: 0 10px;
+    color: #A1CF8D;
+    text-decoration: none;
+    font-weight: normal;
+  }
+
+  .year-links a:hover {
+    text-decoration: underline;
+  }
+
+  .current-year {
+    margin: 0 10px;
+    color: white;
+    font-weight: bold;
+  }
+
+  .year-separator {
+    margin: 0 8px;
+    color: #ccc;
   }
 </style>
 
 
-<center>
-<h3 id="header">News</h3>
+<center><h3 id="header">News</h3></center>
 
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">December 2024:</b>
-<hr style="margin: -5px 0;">
-<br> Welcome new PhD student Chenlu!
-<hr style="margin: -5px 0;">
-<br> Shuwen gives a departmental seminar at the Cornell Department of Biological & Environmental Engineering (BEE)!
-<hr style="margin: -5px 0;">
-</h5>
-<br/>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">November 2024:</b>
-<hr style="margin: -5px 0;">
-<br> Welcome new postdoc Osman!
-<hr style="margin: -5px 0;">
-<br> Shuwen gives a departmental seminar at the Cornell Department of Material Science & Engineering (MSE)!
-<hr style="margin: -5px 0;">
-<br> Mid-semester group dinner!
-<hr style="margin: 10px 0;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/group_photo_2024Fall.jpeg" width="75%"/><br/>
-</h5>
-<br/>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">October 2024:</b>
-<hr style="margin: -5px 0;">
-<br> We received a <a href='https://rescorp.org/news/2024/10/6-teams-funded-in-1st-year-of-scialog-sustainable-minerals-metals-and-materials' style='color: #A1CF8D;'>Scialog Award</a> funded by the Sloan Foundation! 
-<hr style="margin: -5px 0;">
-<br> Shuwen attends AIChE! She gave an invited talk in the CoMSEF Spotlights in Thermodynamics and Computational Molecular Science session, co-chaired the Faculty Candidates in CoMSEF/Area 1A session, and was elected Liaison Director of AIChE CoMSEF!
-<hr style="margin: -5px 0;">
-<br> Shuwen gives an invited seminar at the University of Delaware Department of Chemical and Biomolecular Engineering!
-<hr style="margin: -5px 0;">
-</h5>
-<br/>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">September 2024:</b>
-<hr style="margin: -5px 0;">
-<br> Congrats Nhi and Anant for receiving an ELI award!
-<hr style="margin: -5px 0;">
-</h5>
-<br/>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">August 2024:</b>
-<hr style="margin: -5px 0;">
-<br> Congrats to Nupur for passing the A-Exam, Rahul for passing the M-Exam, and Aditi for completing the RPA!
-<hr style="margin: -5px 0;">
-<br> Shuwen attends the Fall National ACS meeting in Denver - gave an invited talk at the Data Analytics & AI for Manufacturing & Healthcare session, a contributed talk in the ACS COMP Machine Learning in Chemistry session, and served as a judge for the ACS COMP NVIDIA GPU Award!
-</h5>
-<br/>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">July 2024:</b>
-<hr style="margin: -5px 0;">
-<br> Congrats to Nupur for receiving a <a href='http://fomms.cache.org' style='color: #A1CF8D;'>Foundations of Molecular Modeling and Simulation (FOMMS)</a> registration waiver award and being selected for a Lightning talk!  Shuwen serves as a session chair at the same conference.
-<hr style="margin: -5px 0;">
-<br> Shuwen teaches at the i-CoMSE Workshop on Machine Learning for Molecular Science hosted at the University of Minnesota! Special thanks to Aditi and Lyndon for preparing workshop materials!
-<hr style="margin: -5px 0;">
-<br> Shuwen attends the GRC on Water and Aqueous Solutions!
-<hr style="margin: -5px 0;">
-<br> Shuwen leads a session on ML for chemical sciences at the Cornell CATALYST and CURIE outreach workshops!
-<hr style="margin: -5px 0;">
-<br> Shuwen gives an invited talk at the Telluride workshop on Multi-Scale Quantum Mechanical Analysis of Condensed Phase Systems: Methods and Applications!
-</h5>
-<br/>
-</div>
-</div>
-
-
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">May 2024:</b>
-<hr style="margin: -5px 0;">
-<br> Welcome Lyndon Hess who joins the group as an undergraduate researcher!
-<hr style="margin: -5px 0;">
-<br> The group receives an Affinito-Stewart Grant from Cornell PCCW!
-</h5>
-<br/>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">April 2024:</b>
-<hr style="margin: -5px 0;">
-<br> Congrats to Aditi for receiving the <a href='https://www.cheme.cornell.edu/news/cbe-student-wins-nsf-graduate-research-fellowship' style='color: #A1CF8D;'>NSF GRFP</a>!
-<hr style="margin: -5px 0;">
-<br> Congrats to Anant for receiving an Engineering Learning Initiatives (ELI) grant and presenting at the ELI Symposium!
-</h5>
-<br/>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">March 2024:</b>
-<hr style="margin: -5px 0;">
-<br> Shuwen is named a <a href='https://rescorp.org/scialog/sustainable-minerals-metals-materials' style='color: #A1CF8D;'>Scialog Fellow in Sustainable Minerals, Metals, and Materials (SM3)</a>!
-<hr style="margin: -5px 0;">
-<br> Shuwen is elected to the <a href='https://www.aaas.org/governance/section-m' style='color: #A1CF8D;'>AAAS Section M Engineering Steering Committee</a> as the Early Career Representative!
-</h5>
-<br/>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">January 2024:</b>
-<hr style="margin: -5px 0;">
-<br> Shuwen joins the inaugural <a href='https://pubs.acs.org/doi/10.1021/acs.jctc.3c01426' style='color: #A1CF8D;'>Early Career Advisory Board for the Journal of Chemical Theory and Computation (JCTC)</a>!
-</h5>
-<br/>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">December 2023:</b> 
-<hr style="margin: -5px 0;">
-<br>Welcome Aditi Seshadri, new Ph.D. student joining the group!
-<hr style="margin: -5px 0;">
-<br>Group dinner celebrating the end of the Fall 2023 semester!
-</h5>
-<br/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/group_photo_2023Fall.jpeg" width="75%"/><br/>
-<br/>
-<br/>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">November 2023:</b>
-<hr style="margin: -5px 0;">
-<br> The group receives a Cornell-NUS Global Strategic Collaboration Award with Iris Yu's group at NUS!
-</h5>
-<br/>
-</div>
+<div class="year-links">
+  <span class="current-year">2025</span>
+  <span class="year-separator">|</span>
+  <a href="{{ site.baseurl }}/news/2024">2024</a>
+  <span class="year-separator">|</span>
+  <a href="{{ site.baseurl }}/news/2023">2023</a>
 </div>
 
 
 <div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">September 2023:</b>
-<hr style="margin: -5px 0;">
-<br> Welcome Anthony, Anant, Zach, and Nhi - undergraduate students joining the group!
-</h5>
-<br/>
-</div>
-</div>
-
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">July 2023:</b>
-<hr style="margin: -5px 0;">
-<br> Shuwen officially joins Cornell CBE!
-</h5>
-<br/>
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">July 2025</p>
+<p class="text"> <a href='https://doi.org/10.26434/chemrxiv-2025-95l4x' target="_blank" style='color: #A1CF8D;'>New paper</a> - check out Lyndon and Nhi's work on the impact of surface chemistry on confined electrolyte properties - an all-undergrad led project! </p>
+<p class="text"> Shuwen leads a session on ML for Molecules at the Cornell Engineering High School Outreach Program! </p>
+<img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2025_curie.jpeg" width="50%"/>
+<div style="height: 10px;"></div>
 </div>
 </div>
 
 <div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto">
-<h5><b style="color: #ded4cc;">October 2022:</b>
-<hr style="margin: -5px 0;">
-<br> Welcome Nupur, Spencer, and Rahul - the first graduate students to join the group!
-</h5>
-<br/>
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">June 2025</p>
+<p class="text"><a href='https://doi.org/10.26434/chemrxiv-2025-pfng2-v2' target="_blank" style='color: #A1CF8D;'>New paper</a> - check out Osman's work on Deep Graph Kernel Learning (DGKL) as a new uncertainty quantification method!</p>
+<p class="text"><a href='https://www.sciencedirect.com/science/article/abs/pii/S0376738825006714' target="_blank" style='color: #A1CF8D;'>New paper</a> with the Shirts group (CU Boulder) - check out Nate’s work on free energy of ion hydration and implications in membrane separations, published in Journal of Membrane Science!</p>
+<p class="text"><a href='https://pubs.acs.org/doi/10.1021/acsami.5c09320' target="_blank" style='color: #A1CF8D;'>New paper</a> on high-throughput screening of water-stable MOFs - work Shuwen contributed to during her postdoc at MIT, now published in ACS Applied Materials & Interfaces!</p>
+<p class="text">Shuwen becomes a Field Member in MSE, MAE, BEE, and Faculty Fellow at the Atkinson Center for Sustainability!</p>
+<div style="height: 10px;"></div>
 </div>
 </div>
 
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">May 2025</p>
+<p class="text">Congrats to our graduating senior undergrad researchers!</p>
+<p class="text">
+Anthony Dee &rarr; Business analyst @ Capital One<br>
+Anant Gupta &rarr; Manufacturing Engineer @ P&G<br>
+Nhi Nguyen &rarr; PhD student @ MIT ChemE<br>
+Zach Kwon </p>
+<p class="text">Nhi received the <i>AIChE/ConocoPhillips Undergraduate Scholarship Award</i> and Anthony received the <i>CBE Outstanding Research by an Undergraduate Award</i> at the CBE Senior Awards Banquet!</p>
+<img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2025_group_photo.jpeg" width="50%" style="margin-top: 10px;" />
+<div style="height: 10px;"></div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">April 2025</p>
+<p class="text">Nhi and Anant present their work at the Cornell Engineering Learning Initiatives (ELI) Symposium!</p>
+<img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2025_ELI.jpeg" width="50%" style="margin: 10px 0;" />
+<p class="text">Shuwen teaches at the i-CoMSE ML for Molecules workshop! Materials and lectures are publicly available <a href='https://github.com/icomse/9th_workshop_ml_for_molecules' target="_blank" style='color: #A1CF8D;'>here</a>.</p>
+<p class="text">Our 2025-2026 NSF ACCESS allocation has been awarded! This provides GPU and CPU resources from the San Diego Supercomputing Center (SDSC) to support our research projects!</p>
+<div style="height: 10px;"></div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">March 2025</p>
+<p class="text">Shuwen attends the NSF Future of AI in the Mathematical and Physical Sciences (AI+MPS) workshop at MIT. Stay tuned for our white paper!</p>
+<div style="height: 10px;"></div>
+</div>
+</div>
 

@@ -1,5 +1,40 @@
-- name: Example Alumni Name
-  photo: rock.jpg
-  duration: In the lab 2015-18
-  info: Now at Univeristy of X
-  email: exampleemail@gmail.com
+- name: Anthony Dee
+  role: Undergraduate researcher
+  years: 2023-2025
+  current_position: Capital One
+  accomplishments:
+    - CBE Outstanding Research by an Undergraduate Award
+
+- name: Anant Gupta
+  role: Undergraduate researcher
+  years: 2023-2025
+  current_position: Proctor & Gamble
+  accomplishments:
+    - Cornell ELI undergraduate research grant
+
+- name: Zachary Kwon
+  role: Undergraduate researcher
+  years: 2023-2025
+
+- name: Nhi Nguyen
+  role: Undergraduate researcher
+  years: 2023-2025
+  current_position: PhD @ MIT ChemE
+  accomplishments:
+    - AIChE/ConocoPhillips Undergraduate Scholarship Award
+    - Cornell ELI undergraduate research grant
+
+- name: Rahul Sheshanarayana
+  role: MS graduate
+  years: 2023–2024
+  current_position: PhD @ Cornell SYS
+
+- name: Nupur Mehra
+  role: PhD student
+  years: 2023–2024
+  current_position: PhD @ Cornell CBE
+
+- name: Spencer Sabatino
+  role: PhD student
+  years: 2023–2024
+  current_position: PhD @ Cornell CBE

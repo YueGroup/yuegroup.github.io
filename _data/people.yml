@@ -1,5 +1,5 @@
 - name: Osman Mamun
-  photo: MamunOsman.jpg
+  photo: headshots/MamunOsman.jpg
   info1: Postdoctoral Associate
   email: om235@cornell.edu
   location: Olin Hall 222
@@ -9,8 +9,18 @@
   education1: "PhD in Chemical Engineering, University of South Carolina"
   education2: "Postdoc, Stanford University, PNNL"
 
+- name: Masuduzzaman
+  photo: headshots/Masuduzzaman.jpg
+  info1: Postdoctoral Associate
+  email: mm3566@cornell.edu
+  location: Olin Hall 222
+  scholar: https://scholar.google.com/citations?user=24VWKvkAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/md-masuduzzaman/
+  website: https://sites.google.com/view/md-masuduzzaman/home
+  education1: "PhD in Mechanical Engineering, University of Ulsan"
+
 - name: Aditi Seshadri
-  photo: AditiSeshadri.png
+  photo: headshots/AditiSeshadri.png
   info1: PhD Student, CBE
   info2: NSF Graduate Research Fellow
   email: as3639@cornell.edu
@@ -19,7 +29,7 @@
   education1: "BS in Chemical Engineering, University of Rochester"
 
 - name: Chenlu Yang
-  photo: ChenluYang.jpg
+  photo: headshots/ChenluYang.jpg
   info1: PhD Student, CCB
   email: cy533@cornell.edu
   location: Olin Hall 222
@@ -28,34 +38,10 @@
   education1: "BS in Chemistry, Wuhan University"
   education2: "MS in Chemistry, University of Florida"
 
-- name: Anthony Dee
-  photo: DeeAnthony.jpg
-  info1: Undergraduate Student, CBE \'25
-  email: ahd68@cornell.edu
-  linkedin: https://www.linkedin.com/in/anthony-dee
-
-- name: Anant Gupta
-  photo: GuptaAnant.jpg
-  info1: Undergraduate Student, CBE \'25
-  email: akg73@cornell.edu
-  linkedin: https://www.linkedin.com/in/anant-gupta-78200719/
-
 - name: Lyndon Hess
-  photo: bulbasaur.png
+  photo: headshots/bulbasaur.png
   info1: Undergraduate Student, Chemistry + Math \'27
   email: lth2673@cornell.edu
   linkedin: http://www.linkedin.com/in/lyndon-hess-267299326
 
-- name: Zachary Kwon
-  photo: KwonZach.JPG
-  info1: Undergraduate Student, CBE \'25
-  email: zk49@cornell.edu
-  linkedin: https://www.linkedin.com/in/zachary-kwon/
-  cv: /cv/ZacharyKwon_CV.pdf
-
-- name: Nhi Nguyen
-  photo: NguyenNhi.jpg
-  info1: Undergraduate Student, CBE + CS Minor \'25
-  email: npn25@cornell.edu
-  linkedin: https://www.linkedin.com/in/nhi-nguyen-709728229/
 

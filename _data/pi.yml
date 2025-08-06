@@ -1,6 +1,6 @@
 - name: Shuwen Yue
-  photo: YueShuwen.jpg
-  info: Assistant Professor
+  photo: headshots/YueShuwen.jpg
+  info: Assistant Professor, Robert F. Smith School of Chemical and Biomolecular Engineering
   location: Olin Hall 348A
   email: shuwen.yue@cornell.edu
   github: https://github.com/shuwenyue
@@ -13,3 +13,8 @@
   education3: "Postdoctoral Associate, Chemical Engineering, MIT"
   education2: "PhD in  Chemical and Biological Engineering, Princeton University"
   education1: "BS in Chemical Engineering and Chemistry, The University of Alabama"
+  affiliations:
+  - Field Faculty in Materials Science and Engineering, Mechanical Engineering, and Biological and Environmental Engineering
+  - Faculty Fellow, Cornell Atkinson Center for Sustainability
+  - Affiliate Faculty, Cornell AI for Science Institute
+

@@ -298,6 +298,33 @@
   abstract={Metal–organic frameworks (MOFs) have been widely studied for their ability to capture and store greenhouse gases. However, most computational discovery efforts study hypothetical MOFs without consideration of their stability, limiting the practical application of novel materials. We overcome this limitation by screening hypothetical ultrastable MOFs that have predicted high thermal and activation stability, as judged by machine learning (ML) models trained on experimental measures of stability. We enhance this set by computing the bulk modulus as a measure of mechanical stability and filter 1102 mechanically robust hypothetical MOFs from a database of ultrastable MOFs (USMOF DB). Grand Canonical Monte Carlo simulations are then employed to predict the gas adsorption properties of these hypothetical MOFs, alongside a database of experimental MOFs. We identify privileged building blocks that lead MOFs in USMOF DB to show exceptional working capacities compared to the experimental MOFs. We interpret these differences by training ML models on CO2 and CH4 adsorption in these databases, showing how poor model transferability between data sets indicates that novel design rules can be derived from USMOF DB that would not have been gathered through assessment of structurally characterized MOFs. We identify geometric features and node chemistry that will enable the rational design of MOFs with enhanced gas adsorption properties in synthetically realizable MOFs.}
 }
 
+@article{2025-schwindt-membrane,
+  title={Molecular Details of Ion De--Coordination at Elevated Salinity and Pressure and Consequences for Membrane Separation},
+  author={Schwindt, Nathanael S and Epsztein, Razi and Straub, Anthony P and Yue, Shuwen and Shirts, Michael R},
+  doi={https://doi.org/10.1016/j.memsci.2025.124358},
+  journal={Journal of Membrane Science},
+  volume={734},
+  pages={124358},
+  year={2025},
+  date={2025-07-03},
+  publisher={Elsevier},
+  abstract={Ion dehydration has been hypothesized to strongly influence separation performance in membrane systems and ion transport in nanoscale channels. However, the molecular details of ion dehydration in membranes are not well understood, in particular under the high pressures and concentrations required for brine treatment. In this study, we define \textit{de-coordination} as the process by which an ion decreases its total coordination number, including both water molecules and counterions. We estimate the de-coordination free energies in bulk solution for a range of different ions at high pressure and salinity relevant to brine treatment using molecular simulation. We also propose alternatives to the coordination number as the size constraint for traversing nanoscale constrictions, such as the maximum cross-sectional area of the complexed ion. We show that high operating pressures do not significantly change cation hydration shell stability nor the shell size, while high ionic concentrations lower the free energy barrier to reduce the cation coordination number. We find that anion de-coordination free energies are largely unaffected by elevated salinity and pressure conditions. Finally, we discuss the implications on ion-ion selectivity in separations membranes (e.g. extracting lithium from salt-lake brines) due to the effects of elevated pressure and salinity on ion de-coordination.}
+}
+
+@article{2025-ball-mof-water,
+  title={Data-Driven Discovery of Water-Stable Metal-Organic Frameworks With High Water Uptake Capacity},
+  author={Ball, Akash K and Terrones, Gianmarco G and Yue, Shuwen and Kulik, Heather J},
+  doi={https://doi.org/10.1021/acsami.5c09320},
+  journal={ACS Applied Materials \& Interfaces},
+  volume={17},
+  number={24},
+  pages={35971–35985},
+  year={2025},
+  date={2025-06-05},
+  publisher={ACS Publications},
+  abstract={Metal-organic frameworks (MOFs) are promising candidate materials for applications that would benefit from precise chemical patterning, such as desalination and atmospheric water harvesting, but many MOFs suffer from poor stability in water. In addition to water stability, high water uptake capacity in ambient conditions is expected to be necessary for water-related practical applications of MOFs, motivating large-scale search that can only be achieved computationally. Here, we take a combined machine learning and high-throughput screening approach to identifying water-stable MOFs with high water uptake capacities. Starting from a subset of previously curated MOFs with experimentally known exceptionally high stability in water, we explore the effect of linker functionalization with twelve diverse hydrophilic functional groups expected to further tune water uptake. For these 736 MOFs, we use grand canonical Monte Carlo (GCMC) simulations to compute their water uptake capacity. We observe strong positive correlations between MOF pore features (e.g., the largest cavity diameter and volumetric pore volume) and water uptake capacity, although we notice breakdowns of such correlations in MOFs with extremely hydrophobic linkers that repel water molecules despite having large pores. Finally, we develop machine learning models to screen new MOFs simultaneously for water stability and water uptake capacity. From a pool of hypothetical and experimental MOFs, we identify 74 promising materials within the domain of applicability of the machine learning models that are predicted to be both water-stable and have high water uptake.}
+}
+
 @article{2025-mamun-dgkl,
   title={Deep Graph Kernel Learning for Material & Atomic Level Uncertainty Quantification in Adsorption Energy Prediction},
   author={Mamun, Osman and Yang, Chenlu and Yue, Shuwen},
@@ -309,36 +336,22 @@
   year={2025},
   date={2025-03-21},
   publisher={},
+  data={https://github.com/YueGroup/DGKL},
   abstract = {Graph Neural Networks (GNNs) provide an efficient surrogate for computationally intensive density functional theory calculations in catalytic material discovery, yet they often struggle with out-of-domain generalization. This limitation necessitates reliable prediction uncertainty quantification for informed catalyst discovery. While Gaussian Processes (GPs) offer principled Bayesian uncertainty quantification, their cubic time complexity, high memory requirements, and inability to learn from graph structures limit their application in high-throughput discovery. We introduce Deep Graph Kernel Learning (DGKL), a scalable framework that combines a GNN backbone with a sparse variational Gaussian Process (SVGP) for uncertainty quantification in adsorption energy prediction. We benchmark DGKL against state-of-the-art methods, including ensemble/query-by-committee, evidential, and Monte-Carlo dropout approaches. DGKL consistently outperforms existing methods across ranking-based metrics (negative log-likelihood, expected normalized calibration error, miscalibration area) and error-based metrics (RMSE vs. RMV and error vs. standard deviation plots) while maintaining computational efficiency. Specifically, DGKL achieves the lowest expected normalized calibration error (0.06-0.10), lowest miscalibration area (0.04-0.07), and highest Spearman correlation coefficient (0.34-0.51) across diverse datasets and GNN backbone combinations. Qualitatively, DGKL’s RMSE vs. RMV plots demonstrate superior calibration compared to competing methods. Additionally, we propose a DGKL variation capable of predicting atomic-level uncertainty - a feature absent in existing methods — offering finegrained insights into out-of-domain data. DGKL can be incorporated into active learning frameworks to efficiently explore catalytic material space, accelerating the discovery of novel catalysts.}
 }
 
-@article{2025-schwindt-membrane,
-  title={Molecular Details and Free Energy Barriers of Ion De--Coordination at Elevated Salinity and Pressure and Their Consequences for Membrane Separation},
-  author={Schwindt, Nathanael S and Epsztein, Razi and Straub, Anthony P and Yue, Shuwen and Shirts, Michael R},
-  preprint={10.48550/arXiv.2501.19344},
+@article{2025-hess-surface,
+  title={How Surface Functionalization Controls Confined Electrolyte Structure and Dynamics at Graphene Interfaces},
+  author={Hess, Lyndon and Nguyen, Nhi and Dee, Anthony and Gupta, Anant and Kwon, Zachary and Yue, Shuwen},
+  preprint={10.26434/chemrxiv-2025-95l4x},
   journal={},
   volume={},
   number={},
   pages={},
   year={2025},
-  date={2025-03-05},
+  date={2025-07-17},
   publisher={},
-  abstract={Ion dehydration has been hypothesized to strongly influence separation performance in membrane systems and ion transport in nanoscale channels. However, the molecular details of ion dehydration in membranes are not well understood, in particular under the high pressures and concentrations required for brine treatment. In this study, we define \textit{de-coordination} as the process by which an ion decreases its total coordination number, including both water molecules and counterions. We estimate the de-coordination free energies in bulk solution for a range of different ions at high pressure and salinity relevant to brine treatment using molecular simulation. We also propose alternatives to the coordination number as the size constraint for traversing nanoscale constrictions, such as the maximum cross-sectional area of the complexed ion. We show that high operating pressures do not significantly change cation hydration shell stability nor the shell size, while high ionic concentrations lower the free energy barrier to reduce the cation coordination number. We find that anion de-coordination free energies are largely unaffected by elevated salinity and pressure conditions. Finally, we discuss the implications on ion-ion selectivity in separations membranes (e.g. extracting lithium from salt-lake brines) due to the effects of elevated pressure and salinity on ion de-coordination.}
-}
-
-
-@article{2025-ball-mof-water,
-  title={Data-Driven Discovery of Water-Stable Metal-Organic Frameworks With High Water Uptake Capacity},
-  author={Ball, Akash K and Terrones, Gianmarco G and Yue, Shuwen and Kulik, Heather J},
-  preprint={10.26434/chemrxiv-2025-mz223},
-  journal={},
-  volume={},
-  number={},
-  pages={},
   year={2025},
-  date={2025-03-19},
-  publisher={},
-  abstract={Metal-organic frameworks (MOFs) are promising candidate materials for applications that would benefit from precise chemical patterning, such as desalination and atmospheric water harvesting, but many MOFs suffer from poor stability in water. In addition to water stability, high water uptake capacity in ambient conditions is expected to be necessary for water-related practical applications of MOFs, motivating large-scale search that can only be achieved computationally. Here, we take a combined machine learning and high-throughput screening approach to identifying water-stable MOFs with high water uptake capacities. Starting from a subset of previously curated MOFs with experimentally known exceptionally high stability in water, we explore the effect of linker functionalization with twelve diverse hydrophilic functional groups expected to further tune water uptake. For these 736 MOFs, we use grand canonical Monte Carlo (GCMC) simulations to compute their water uptake capacity. We observe strong positive correlations between MOF pore features (e.g., the largest cavity diameter and volumetric pore volume) and water uptake capacity, although we notice breakdowns of such correlations in MOFs with extremely hydrophobic linkers that repel water molecules despite having large pores. Finally, we develop machine learning models to screen new MOFs simultaneously for water stability and water uptake capacity. From a pool of hypothetical and experimental MOFs, we identify 74 promising materials within the domain of applicability of the machine learning models that are predicted to be both water-stable and have high water uptake.}
+  data={https://github.com/YueGroup/carbon-electrolyte-interface},
+  abstract={Understanding how surface chemistry modulates confined electrolyte behavior is critical for advancing electrochemical, membrane, and nanofluidic technologies. Here, we present a comprehensive molecular dynamics study of aqueous NaCl solutions confined between graphene functionalized with -COOH, -OH, =O, and -CH3 groups across multiple surface coverages and electrolyte concentrations. We systematically disentangle how functional group identity and abundance independently shape interfacial layering, ion adsorption, and water dynamics. Polar, hydrogen-bonding groups (-COOH, -OH) strongly structure the interface and suppress water mobility, while nonpolar groups (=O, -CH3) lead to more diffuse, mobile profiles. Importantly, we show that functional group chemistry sets the morphology of interfacial structure, while coverage scales its intensity, a distinction that holds across electrolyte concentrations. These findings enable a quantitative framework for designing chemically heterogeneous surfaces that precisely modulate ion and solvent behavior in complex electrolyte environments.}
 }
-
-

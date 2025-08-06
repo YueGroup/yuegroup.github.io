@@ -1,0 +1,79 @@
+<div id="particles-js" class="particles-container"></div>
+
+<img src="{{ site.baseurl }}/images/front_page_graphic.png" alt="front page title" class="centered-image">
+
+<style>
+
+.particles-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50vh; /* Adjusted height to maintain aspect ratio */
+  z-index: 1;
+  pointer-events: none; /* Allow mouse events to pass through the particles container */
+}
+
+.centered-image {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2; /* Set a higher z-index for the image */
+  pointer-events: none; /* Allow mouse events to pass through the image */
+
+  /* Adjust the width and height as needed */
+  width: 100%; /* Ensures the image fills its container */
+  height: auto; /* Maintain the aspect ratio */
+  max-width: 650px; /* Set a maximum width to avoid stretching on larger screens */
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
+.particles-title {
+  margin: 0;
+  font-size: 36px; /* Adjust the default font size */
+  font-weight: bold; /* Keep the title bolded */
+}
+
+/* 3 different title sizing for different sized screen */
+@media (max-width: 767px) {
+
+  .particles-title {
+    font-size: 28px; /* Adjust the font size for smaller screens */
+    white-space: normal; /* Allow text to wrap on smaller screens */
+    word-break: break-word; /* Break words when necessary */
+  }
+
+  .centered-image {
+    top: 30%; /* Adjust the percentage for smaller screens */
+    width: 65%; /* Limit the width of the title container on smaller screens */
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* Styles for screens between 768px and 991px wide (adjust values as needed) */
+  .particles-title {
+    font-size: 28px; /* Adjust font size for middle-sized screens */
+  }
+
+  .centered-image {
+    top: 35%; /* Adjust top position for middle-sized screens */
+    width: 60%; /* Adjust width for middle-sized screens */
+  }
+}
+
+@media (min-width: 992px) {
+  /* Styles for screens 992px wide and above (adjust values as needed) */
+  .particles-title {
+    font-size: 32px; /* Adjust font size for larger screens */
+  }
+
+  .centered-image {
+    top: 40%; /* Adjust top position for larger screens */
+    width: 55%; /* Adjust width for larger screens */
+  }
+</style>
+

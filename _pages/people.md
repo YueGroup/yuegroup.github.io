@@ -35,6 +35,10 @@ permalink: /people/
   .member-group {
   margin-bottom: 20px; /* Adjust this value to control the vertical spacing */
 }
+
+  a.alumni-link:hover {
+    text-decoration: underline !important;
+  }
 </style>
 
 <h3 id="pi">Principle Investigator</h3>
@@ -44,13 +48,18 @@ permalink: /people/
 <div class="jumbotron">
 <div class="row">
 <div class="col-sm-3">
-<div class="circle-photo">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="80%" style="max-width:250px"/>
+<div class="circle-photo" style="text-align: right;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="90%" style="max-width:250px"/>
 </div>
 </div>
 <div class="col-sm-9 col-xs-12">
 <h4>{{ member.name }}</h4>
 <i>{{ member.info }}</i>
+{% if member.affiliations %}
+{% for affiliation in member.affiliations %}
+<i style="color: white; display: block; margin: 0;">{{ affiliation }}</i>
+{% endfor %}
+{% endif %}
 <p> {{ member.location }} </p>
 {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="ai ai-archive-square ai-2x"></i></a> {% endif %} {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %} {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %} {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %} {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %} {% if member.twitter %}<a href="{{ member.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> {% endif %}
 <p> {{ member.education1 }} </p>
@@ -85,7 +94,8 @@ permalink: /people/
   <p>{% if member.info1 %} <i> {{ member.info1 }} </i> {% endif %}</p>
   <p>{% if member.info2 %} <i> {{ member.info2 }} </i> {% endif %}</p>
   <p> {{ member.location }} </p>
-  {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %} {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %} {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %} {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %} {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %} {% if member.linkedin %} <a href="{{ member.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a> {% endif %} {% if member.twitter %}<a href="{{ member.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> {% endif %}
+  {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %}{% if member.scholar %}<a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %}{% if member.cv %}<a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %}{% if member.github %}<a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %}{% if member.linkedin %}<a href="{{ member.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a> {% endif %}{% if member.twitter %}<a href="{{ member.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> {% endif %}{% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-external-link-square fa-2x"></i></a> {% endif %}
+
   {% if member.education1 %} <p> {{ member.education1 }} </p> {% endif %}
   {% if member.education2 %} <p> {{ member.education2 }} </p> {% endif %}
 </div>
@@ -103,14 +113,22 @@ permalink: /people/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+<div class="text-center" style="margin-top: 30px;">
+  <a class="alumni-link" href="{{ site.baseurl }}/alumni/" style="font-size: 18px; color: #f6d635; text-decoration: none; font-weight: bold;">
+    <strong>→ Group Alumni</strong>
+  </a>
 </div>
+
+</div>
+
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
 <h5 style="font-size: 18px; margin-bottom: 10px; color: #f6d635"><b>Group Openings -- We are looking for highly motivated, creative, and independent researchers to join our team!</b> </h5>
 
 <p style="font-size: 18px;">
-<strong>Postdocs:</strong> We currently have multiple postdoc positions open for Summer/Fall 2025. Candidates skilled in <em><strong>machine learning</strong></em> and <em><strong>advanced sampling techniques</strong></em> in particular are strongly encouraged to apply. Please send Shuwen a CV, research summary, and contact info for 3 references. Candidates are also encouraged to apply for the <a href='https://science.ai.cornell.edu/schmidt-postdoc-fellows/' style='color: #A1CF8D;'>Schmidt AI in Science Postdoctoral Fellowship</a>, <a href='https://postdocs.cornell.edu/prospective-postdocs/cornell-postdoctoral-fellowship-programs/' style='color: #A1CF8D;'>Cornell internal postdoc fellowships</a>, and <a href='https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/' style='color: #A1CF8D;'>external postdoc fellowships</a>.
+<strong>Postdocs:</strong> We currently have a postdoc position open. Candidates skilled in <em><strong>machine learning</strong></em> in particular are strongly encouraged to apply. Please send Shuwen a CV, research summary, and contact info for 3 references. Candidates are also encouraged to apply for the <a href='https://science.ai.cornell.edu/schmidt-postdoc-fellows/' style='color: #A1CF8D;'>Schmidt AI in Science Postdoctoral Fellowship</a>, <a href='https://postdocs.cornell.edu/prospective-postdocs/cornell-postdoctoral-fellowship-programs/' style='color: #A1CF8D;'>Cornell internal postdoc fellowships</a>, and <a href='https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/' style='color: #A1CF8D;'>external postdoc fellowships</a>.
 </p>
 
 <p style="font-size: 18px;">
