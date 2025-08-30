@@ -88,6 +88,16 @@ permalink: /news/
   <a href="{{ site.baseurl }}/news/2023">2023</a>
 </div>
 
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">August 2025</p>
+<p class="text"> Congrats to Aditi for passing her A-Exam! </p>
+<p class="text"> Shuwen attends the ACS Fall meeting in Washington DC! She gives an invited talk in the ACS PHYS Rare Event Sampling in Material Science Problems session, and she chaired the ACS PHYS Machine Learning, Theory, & Mechanisms for Rare Events session!  </p>
+<p class="text"> Shuwen gives an invited talk at the Gordon Research Conference on Chemistry and Physics of Liquids in Holderness, NH!  </p>
+<div style="height: 10px;"></div>
+</div>
+</div>
+
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
