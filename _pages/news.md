@@ -91,6 +91,8 @@ permalink: /news/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">September 2025</p>
+<p class="text"> Welcome new postdoc Masud! </p>
+<p class="text"> <a href='https://chemrxiv.org/engage/chemrxiv/article-details/68cbe79123be8e43d6d7e254' target="_blank" style='color: #A1CF8D;'>New paper</a> - check out Aditi's work on ML for ionic liquids! </p>
 <p class="text"> <a href='http://arxiv.org/abs/2509.02661' target="_blank" style='color: #A1CF8D;'>New white paper</a> Shuwen contributed to on The Future of Artificial Intelligence and the Mathematical and Physical Sciences (AI+MPS) now on arXiv! </p>
 <div style="height: 10px;"></div>
 </div>
