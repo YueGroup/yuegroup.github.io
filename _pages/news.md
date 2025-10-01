@@ -113,7 +113,7 @@ permalink: /news/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">July 2025</p>
-<p class="text"> <a href='https://doi.org/10.26434/chemrxiv-2025-95l4x' target="_blank" style='color: #A1CF8D;'>New paper</a> - check out Lyndon and Nhi's work on the impact of surface chemistry on confined electrolyte properties - an all-undergrad led project! </p>
+<p class="text"> <a href='https://pubs.acs.org/doi/10.1021/acs.jpcb.5c04964' target="_blank" style='color: #A1CF8D;'>New paper</a> - check out Lyndon and Nhi's work on the impact of surface chemistry on confined electrolyte properties - an all-undergrad led project! </p>
 <p class="text"> Shuwen leads a session on ML for Molecules at the Cornell Engineering High School Outreach Program! </p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2025_curie.jpeg" width="50%"/>
 <div style="height: 10px;"></div>
