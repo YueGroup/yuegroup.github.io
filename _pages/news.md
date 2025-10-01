@@ -138,8 +138,8 @@ permalink: /news/
 <p class="text">
 Anthony Dee &rarr; Business analyst @ Capital One<br>
 Anant Gupta &rarr; Manufacturing Engineer @ P&G<br>
-Nhi Nguyen &rarr; PhD student @ MIT ChemE<br>
-Zach Kwon &rarr; L’Oréal</p>
+Zach Kwon &rarr; L’Oréal<br>
+Nhi Nguyen &rarr; PhD student @ MIT ChemE</p>
 <p class="text">Nhi received the <i>AIChE/ConocoPhillips Undergraduate Scholarship Award</i> and Anthony received the <i>CBE Outstanding Research by an Undergraduate Award</i> at the CBE Senior Awards Banquet!</p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2025_group_photo.jpeg" width="50%" style="margin-top: 10px;" />
 <div style="height: 10px;"></div>
