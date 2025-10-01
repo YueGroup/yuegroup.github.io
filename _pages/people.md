@@ -114,11 +114,13 @@ permalink: /people/
 </div>
 {% endif %}
 
+<!--
 <div class="text-center" style="margin-top: 30px;">
   <a class="alumni-link" href="{{ site.baseurl }}/alumni/" style="font-size: 18px; color: #f6d635; text-decoration: none; font-weight: bold;">
     <strong>→ Group Alumni</strong>
   </a>
 </div>
+-->
 
 </div>
 
