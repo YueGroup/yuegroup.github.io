@@ -1,3 +1,6 @@
+2025-denario:
+      recognition_text: "— Featured in <u><a href='https://www.simonsfoundation.org/2025/11/04/meet-denario-an-ai-assistant-for-every-step-of-the-scientific-process/' style='color: #A1CF8D;'>Simons Foundation News</a></u>"
+
 2025-hess-surface:
     recognition_text: "— JPC-B Special Issue Athanassios Z. Panagiotopoulos Festschrift"
 
@@ -12,6 +15,9 @@
 
 2023-yue-mof-linker:
     recognition_text: "— Selected as MSDE HOT Article"
+
+2023-methur-ml-potential-co2:
+    recognition_text: "— JPC-B Special Issue Pablo G. Debenedetti Festschrift"
 
 2022-mondal-dp-molten-salts:
     recognition_text: "— JCTC Machine Learning for Molecular Simulation Special Issue"

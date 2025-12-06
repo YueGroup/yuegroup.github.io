@@ -90,6 +90,33 @@ permalink: /news/
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">December 2025</p>
+<p class="text"> Shuwen attends MRS in Boston and gives an invited talk in the Accelerating Materials Research Beyond Data-Driven Approaches session!</p>
+<div style="height: 10px;"></div>
+</div>
+</div>
+
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">November 2025</p>
+<p class="text"> Welcome new PhD students Prajwal and Harsh!</p>
+<p class="text"> Shuwen and Osman attend AIChE in Boston! Osman gives talks on our UQ and electrolyte microenvironment work. Shuwen gives an invited talk in a Special Session in Honor of Thanos Pangiotopoulos, and she also chaired the CoMSEF/Area 1A Faculty Candidate Session and CoMSEF Poster Session.  </p>
+<div style="height: 10px;"></div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">October 2025</p>
+<p class="text"> <a href='https://arxiv.org/abs/2510.26887' target="_blank" style='color: #A1CF8D;'>New paper</a> - Check out our contribution to a Simons Foundation/Flatiron Institute-led collaborative effort exploring AI agents driving scientific discovery! More details in this <a href='https://www.simonsfoundation.org/2025/11/04/meet-denario-an-ai-assistant-for-every-step-of-the-scientific-process/' target="_blank" style='color: #A1CF8D;'>news article</a>.</p>
+<p class="text"> We recieved a SPROUT Award from the College of Engineering! </p>
+<div style="height: 10px;"></div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">September 2025</p>
 <p class="text"> Welcome new postdoc Masud! </p>
 <p class="text"> <a href='https://chemrxiv.org/engage/chemrxiv/article-details/68cbe79123be8e43d6d7e254' target="_blank" style='color: #A1CF8D;'>New paper</a> - check out Aditi's work on ML for ionic liquids! </p>

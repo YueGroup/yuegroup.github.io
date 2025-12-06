@@ -19,15 +19,6 @@
   website: https://sites.google.com/view/md-masuduzzaman/home
   education1: "PhD in Mechanical Engineering, University of Ulsan"
 
-- name: Aditi Seshadri
-  photo: headshots/AditiSeshadri.png
-  info1: PhD Student, CBE
-  info2: NSF Graduate Research Fellow
-  email: as3639@cornell.edu
-  location: Olin Hall 222
-  cv: /cv/AditiSeshadri_CV.pdf
-  education1: "BS in Chemical Engineering, University of Rochester"
-
 - name: Chenlu Yang
   photo: headshots/ChenluYang.jpg
   info1: PhD Student, CCB
@@ -38,10 +29,22 @@
   education1: "BS in Chemistry, Wuhan University"
   education2: "MS in Chemistry, University of Florida"
 
-- name: Lyndon Hess
-  photo: headshots/bulbasaur.png
-  info1: Undergraduate Student, Chemistry + Math \'27
-  email: lth2673@cornell.edu
-  linkedin: http://www.linkedin.com/in/lyndon-hess-267299326
+- name: Prajwal Ananthanarayana
+  photo: headshots/Prajwal.jpg
+  info1: PhD Student, CCB
+  email: pr479@cornell.edu
+  location: Olin Hall 222
+  github: https://github.com/PrajwalAnanth
+  education1: "BS in Applied Math and Chemistry, Indian Institute of Science"
+
+- name: Harshvardhan Singh Deora
+  photo: headshots/pikachu.png
+  info1: PhD Student, CCB
+  email: hd394@cornell.edu
+  location: Olin Hall 222
+  scholar: https://scholar.google.com/citations?user=Id5N44oAAAAJ&hl=en
+  github: https://github.com/dsharshvardh
+  education1: "BS and MS in Chemistry, Indian Institute of Science"
+
 
 
