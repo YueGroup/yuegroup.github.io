@@ -91,6 +91,7 @@ permalink: /news/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">December 2025</p>
+<p class="text"> Shuwen attends Pacifichem in Honolulu and gives an invited talk in the Challenges in Water: From Fundamental Chemistry to Technical Applications session!</p>
 <p class="text"> Shuwen attends MRS in Boston and gives an invited talk in the Accelerating Materials Research Beyond Data-Driven Approaches session!</p>
 <div style="height: 10px;"></div>
 </div>
@@ -100,7 +101,7 @@ permalink: /news/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">November 2025</p>
-<p class="text"> Welcome new PhD students Prajwal and Harsh!</p>
+<p class="text"> Welcome new PhD students Prajwal, Harsh, and Utkarsh!</p>
 <p class="text"> Shuwen and Osman attend AIChE in Boston! Osman gives talks on our UQ and electrolyte microenvironment work. Shuwen gives an invited talk in a Special Session in Honor of Thanos Pangiotopoulos, and she also chaired the CoMSEF/Area 1A Faculty Candidate Session and CoMSEF Poster Session.  </p>
 <div style="height: 10px;"></div>
 </div>

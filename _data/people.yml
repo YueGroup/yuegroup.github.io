@@ -38,13 +38,34 @@
   education1: "BS in Applied Math and Chemistry, Indian Institute of Science"
 
 - name: Harshvardhan Singh Deora
-  photo: headshots/pikachu.png
+  photo: headshots/Harsh.jpg
   info1: PhD Student, CCB
   email: hd394@cornell.edu
   location: Olin Hall 222
   scholar: https://scholar.google.com/citations?user=Id5N44oAAAAJ&hl=en
   github: https://github.com/dsharshvardh
-  education1: "BS and MS in Chemistry, Indian Institute of Science"
+  linkedin: https://www.linkedin.com/in/harshvardhan-singh-deora-991543234
+  education1: "BS in Chemistry, University of Rajasthan"
+  education2: "MS in Chemistry, Indian Institute of Science"
 
+- name: Utkarsh Dogra
+  photo: headshots/Utkarsh.jpg
+  info1: PhD Student, CBE
+  email: ud43@cornell.edu
+  location: Olin Hall 222
+  github: https://github.com/ud1110
+  education1: "BTech and MTech in Chemical Engineering, IIT Delhi"
 
+- name: James Chen
+  photo: headshots/James.png
+  info1: Undergraduate Researcher
+  email: jzc28@cornell.edu
+  linkedin: https://www.linkedin.com/in/jameszxchen/
+  education1: "Cornell CBE + CS '26"
 
+- name: Isabella Thomas
+  photo: headshots/bulbasaur.png
+  info1: Undergraduate Researcher
+  email: imt23@cornell.edu
+  education1: "Cornell CBE '29"
+ 
