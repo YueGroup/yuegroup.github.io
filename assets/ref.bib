@@ -303,12 +303,12 @@
   title={Deep Graph Kernel Learning for Material & Atomic Level Uncertainty Quantification in Adsorption Energy Prediction},
   author={Mamun, Osman and Yang, Chenlu and Yue, Shuwen},
   preprint={10.26434/chemrxiv-2025-pfng2-v2},
-  journal={},
+  journal={Digital Discovery},
   volume={},
   number={},
   pages={},
-  year={2025},
-  date={2025-03-21},
+  year={2026},
+  date={2026-03-21},
   publisher={},
   data={https://github.com/YueGroup/DGKL},
   abstract = {Graph Neural Networks (GNNs) provide an efficient surrogate for computationally intensive density functional theory calculations in catalytic material discovery, yet they often struggle with out-of-domain generalization. This limitation necessitates reliable prediction uncertainty quantification for informed catalyst discovery. While Gaussian Processes (GPs) offer principled Bayesian uncertainty quantification, their cubic time complexity, high memory requirements, and inability to learn from graph structures limit their application in high-throughput discovery. We introduce Deep Graph Kernel Learning (DGKL), a scalable framework that combines a GNN backbone with a sparse variational Gaussian Process (SVGP) for uncertainty quantification in adsorption energy prediction. We benchmark DGKL against state-of-the-art methods, including ensemble/query-by-committee, evidential, and Monte-Carlo dropout approaches. DGKL consistently outperforms existing methods across ranking-based metrics (negative log-likelihood, expected normalized calibration error, miscalibration area) and error-based metrics (RMSE vs. RMV and error vs. standard deviation plots) while maintaining computational efficiency. Specifically, DGKL achieves the lowest expected normalized calibration error (0.06-0.10), lowest miscalibration area (0.04-0.07), and highest Spearman correlation coefficient (0.34-0.51) across diverse datasets and GNN backbone combinations. Qualitatively, DGKL’s RMSE vs. RMV plots demonstrate superior calibration compared to competing methods. Additionally, we propose a DGKL variation capable of predicting atomic-level uncertainty - a feature absent in existing methods — offering finegrained insights into out-of-domain data. DGKL can be incorporated into active learning frameworks to efficiently explore catalytic material space, accelerating the discovery of novel catalysts.}
@@ -347,15 +347,15 @@
 @article{2025-seshadri-il,
   title={Exploring the deviation from Nernst-Einstein conductivity in ionic liquids using machine learning},
   author={Seshadri, Aditi and Hess, Lyndon and Yue, Shuwen},
-  preprint={10.26434/chemrxiv-2025-4n7r9},
-  journal={},
+  doi={https://doi.org/10.1039/D5DD00414D},
+  journal={Digital Discovery},
   volume={Accepted.},
   number={},
   pages={},
-  year={2025},
-  date={2025-09-23},
+  year={2026},
+  date={2026-03-09},
   publisher={},
-  year={2025},
+  year={2026},
   data={https://github.com/YueGroup/IL-Ionicity-Paper},
   abstract={Ionic liquids (ILs) are promising candidates for safer battery electrolytes due to their low flammability, but their low ionic conductivity constrains battery performance. Given the large chemical space of potential ILs, machine learning (ML) approaches are essential for accelerated screening. However, previous studies have shown that ML models trained on common computational descriptors to predict molar ionic conductivity have accuracies comparable to the Nernst–Einstein equation [Umaña, Cashen, Zavala and Gebbie, Digital Discovery, 2025, 4, 1423–1436]. Furthermore, experimental measurements show that the ionic conductivity of many ILs deviate substantially from that predicted by the Nernst-Einstein equation. While several mechanisms have been proposed, the structural origins of these deviations are not well understood. In this study, we develop ML models to predict the deviation of the ionic conductivity of ILs from Nernst-Einstein behavior using charge-based descriptors for individual ions. We observed that ML models trained using a smaller set of sigma profile-based descriptors had similar performance to those trained on a larger set of RDKit descriptors. Additionally, we found that models trained to predict this deviation could serve as a correction factor to the Nernst-Einstein equation and resulted in more accurate conductivity predictions compared to models that were designed to directly predict the molar ionic conductivity of ILs. We applied feature importance rankings to gain insight into model predictions and identified features relating to the cation alkyl chain length and the cation and anion polarity as being influential.}
 }
@@ -365,9 +365,9 @@
   author={Hess, Lyndon and Nguyen, Nhi and Dee, Anthony and Gupta, Anant and Kwon, Zachary and Yue, Shuwen},
   doi={https://doi.org/10.1021/acs.jpcb.5c04964},
   journal={The Journal of Physical Chemistry B},
-  volume={},
-  number={},
-  pages={},
+  volume={129},
+  number={41},
+  pages={10864–10872},
   publisher={ACS Publications},
   year={2025},
   date={2025-10-01},
@@ -402,6 +402,24 @@
   abstract={Metal-organic frameworks (MOFs) are promising candidate materials for applications that would benefit from precise chemical patterning, such as desalination and atmospheric water harvesting, but many MOFs suffer from poor stability in water. In addition to water stability, high water uptake capacity in ambient conditions is expected to be necessary for water-related practical applications of MOFs, motivating large-scale search that can only be achieved computationally. Here, we take a combined machine learning and high-throughput screening approach to identifying water-stable MOFs with high water uptake capacities. Starting from a subset of previously curated MOFs with experimentally known exceptionally high stability in water, we explore the effect of linker functionalization with twelve diverse hydrophilic functional groups expected to further tune water uptake. For these 736 MOFs, we use grand canonical Monte Carlo (GCMC) simulations to compute their water uptake capacity. We observe strong positive correlations between MOF pore features (e.g., the largest cavity diameter and volumetric pore volume) and water uptake capacity, although we notice breakdowns of such correlations in MOFs with extremely hydrophobic linkers that repel water molecules despite having large pores. Finally, we develop machine learning models to screen new MOFs simultaneously for water stability and water uptake capacity. From a pool of hypothetical and experimental MOFs, we identify 74 promising materials within the domain of applicability of the machine learning models that are predicted to be both water-stable and have high water uptake.}
 }
 
+@article{2026-chu-pyrolysis,
+  title={Comparative investigation of microwave-assisted and conventional pyrolysis: A machine learning-based approach},
+  author={Chu, Chu and Hess, Lyndon and Prasetyatama, Yudha Dwi and Seshadri, Aditi and Yue, Shuwen and Yu, Iris},
+  year={2026},
+  date={},
+  volume={Submitted.},
+  abstract={Pyrolysis can valorize biomass into renewable energy carriers and chemicals. While microwave-assisted pyrolysis (MAP) enables volumetric heating with higher energy efficiency than conventional pyrolysis (CONV) relying on conductive–convective heat transfer, the benefits of MAP with respect to product profiles have yet to be conclusively demonstrated. A coherent understanding remains lacking of how feedstock properties and operating conditions differentially shape pyrolysis outcomes under MAP versus CONV. To address this gap, we examine literature data on sludge pyrolysis with multiple machine-learning algorithms and SHapley Additive exPlanations (SHAP) analysis, systematically comparing the key input features impacting product distributions in MAP and CONV processes. Model comparison indicates that the ridge regression model offers an appropriate balance between generalizability and predictive performance, and was selected for subsequent analyses. Both feature importance and SHAP analyses consistently reveal that, in CONV, product partitioning is predominantly explained by proximate composition (e.g., fixed carbon and ash), which collectively account for 36–68\% of the total feature contribution across gas, liquid, and solid products. In contrast, in MAP, ultimate composition (elemental analysis, e.g., C, H, and N) emerges as a more powerful descriptor, contributing up to ~54\% of the explained variance in product distributions. Furthermore, the dielectric constant of microwave-absorbing additives is identified as a pivotal factor that ranks among the top three influential variables in MAP, plausibly operating independently of the bulk temperature considered in this study. Our findings offer new insights into the fundamental similarities and differences between the control regimes of the two pyrolysis methods.}
+}
+
+@article{2026-kim-battery,
+  title={Direct Electrode-to-Electrode Regeneration of End-of-Life Battery via Electrode-Electrolyte Interphase Dissolution},
+  author={Kim, Kiwon and Yang, Chenlu and Gallagher, Sabine M. and Yue, Shuwen and Kalra, Vibha},
+  year={2026},
+  date={},
+  volume={Submitted.},
+  abstract={Lithium ion battery recycling remains constrained by processes that recover metals at the expense of electrode integrity, while even direct recycling typically requires shredding to black mass followed by binder removal, separation, and full electrode refabrication. Here we introduce direct electrode to electrode regeneration (DEER), a simultaneous electrochemical regeneration of used NMC and graphite electrodes from end-of-life batteries in their intact form by dissolving the passivating electrode electrolyte interphase (EEI). DEER employs 1,3- dimethyl- 2- imidazolidinone (DMI), a high donor number solvent that creates a thermodynamic environment favorable for solubilizing redox inactive EEI components. DEER dissolves the thick EEI on both used electrodes while preserving electrode integrity, enabling up to 95\% capacity regain and improved cycling stability with residual LiF rich interphase. Operando Raman, operando IR, and post-mortem NMR directly track the electrochemically driven dissolution of carbonate derived EEI species in the used DMI-based recycling electrolyte. Technoeconomic and life cycle analyses show that DEER reduces the cost of recycled cell manufacturing by 56\% relative to pyro and hydro routes, while lowering energy use and greenhouse gas emissions. Overall, DEER establishes the first validated pathway to directly regenerate and reuse electrodes harvested from truly end of life batteries, converting the key interfacial bottleneck into a controllable dissolution process and opening a practical route toward electrode level circularity.}
+}
+
 @article{2026-roh-crosslinking,
   title={Diazirine-based crosslinking of amorphous organic iono-electronic conductors for thermochemical stability in electrochemical devices},
   author={Roh, Heejung and  Bagatelle, Simone and Yue, Shuwen and Seshadri, Aditi and Oh, Changhwan and Cunin, Camille E. and Cavallaro, Marco and Levi, Marinella and Kulik, Heather J and Gumyusenge, Aristide},
@@ -411,20 +429,4 @@
   abstract={}
 }
 
-@article{2026-chu-pyrolysis,
-  title={Comparative investigation of microwave-assisted and conventional pyrolysis: A machine learning-based approach},
-  author={Chu, Chu and Hess, Lyndon and Prasetyatama, Yudha Dwi and Seshadri, Aditi and Yue, Shuwen and Yu, Iris},
-  year={2026},
-  date={},
-  volume={Submitted.},
-  abstract={}
-}
 
-@article{2026-kim-battery,
-  title={Direct Electrode-to-Electrode Regeneration of End-of-Life Battery via Electrode-Electrolyte Interphase Dissolution},
-  author={Kim, Kiwon and Yang, Chenlu and Gallagher, Sabine M. and Yue, Shuwen and Kalra, Vibha},
-  year={2026},
-  date={},
-  volume={Submitted.},
-  abstract={}
-}

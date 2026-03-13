@@ -81,115 +81,29 @@ permalink: /news/
 <center><h3 id="header">News</h3></center>
 
 <div class="year-links">
-  <span class="current-year">2025</span>
+  <span class="current-year">2026</span>
+  <span class="year-separator">|</span>
+  <a href="{{ site.baseurl }}/news/2025">2025</a>
   <span class="year-separator">|</span>
   <a href="{{ site.baseurl }}/news/2024">2024</a>
   <span class="year-separator">|</span>
   <a href="{{ site.baseurl }}/news/2023">2023</a>
 </div>
 
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto text-center">
-<p class="header-month">December 2025</p>
-<p class="text"> Shuwen attends Pacifichem in Honolulu and gives an invited talk in the Challenges in Water: From Fundamental Chemistry to Technical Applications session!</p>
-<p class="text"> Shuwen attends MRS in Boston and gives an invited talk in the Accelerating Materials Research Beyond Data-Driven Approaches session!</p>
-<div style="height: 10px;"></div>
-</div>
-</div>
-
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
-<p class="header-month">November 2025</p>
-<p class="text"> Welcome new PhD students Prajwal, Harsh, and Utkarsh!</p>
-<p class="text"> Shuwen and Osman attend AIChE in Boston! Osman gives talks on our UQ and electrolyte microenvironment work. Shuwen gives an invited talk in a Special Session in Honor of Thanos Pangiotopoulos, and she also chaired the CoMSEF/Area 1A Faculty Candidate Session and CoMSEF Poster Session.  </p>
+<p class="header-month">March 2026</p>
+<p class="text">Shuwen is organizing a CECAM workshop on Physics-Aware ML for Molecules and Materials June 1-3, 2026 at Cornell Tech in NYC! Registration <a href='https://www.cecam.org/workshop-details/physics-aware-machine-learning-for-molecules-and-materials-1554' target="_blank" style='color: #A1CF8D;'>here</a>.</p>
+<img src="{{ site.url }}{{ site.baseurl }}/images/news_images/CECAM_flyer.png" width="90%" style="margin-top: 10px;" />
 <div style="height: 10px;"></div>
 </div>
 </div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
-<p class="header-month">October 2025</p>
-<p class="text"> <a href='https://arxiv.org/abs/2510.26887' target="_blank" style='color: #A1CF8D;'>New paper</a> - Check out our contribution to a Simons Foundation/Flatiron Institute-led collaborative effort exploring AI agents driving scientific discovery! More details in this <a href='https://www.simonsfoundation.org/2025/11/04/meet-denario-an-ai-assistant-for-every-step-of-the-scientific-process/' target="_blank" style='color: #A1CF8D;'>news article</a>.</p>
-<p class="text"> We recieved a SPROUT Award from the College of Engineering! </p>
+<p class="header-month">February 2025</p>
+<p class="text">Aditi's <a href='https://doi.org/10.1039/D5DD00414D' target="_blank" style='color: #A1CF8D;'>paper</a> on ML for ionic liquids is accepted in <em>Digital Discovery</em> in the <em>Emerging Investigator Collection</em>!</p>
 <div style="height: 10px;"></div>
 </div>
 </div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto text-center">
-<p class="header-month">September 2025</p>
-<p class="text"> Welcome new postdoc Masud! </p>
-<p class="text"> <a href='https://chemrxiv.org/engage/chemrxiv/article-details/68cbe79123be8e43d6d7e254' target="_blank" style='color: #A1CF8D;'>New paper</a> - check out Aditi's work on ML for ionic liquids! </p>
-<p class="text"> <a href='http://arxiv.org/abs/2509.02661' target="_blank" style='color: #A1CF8D;'>New white paper</a> Shuwen contributed to on The Future of Artificial Intelligence and the Mathematical and Physical Sciences (AI+MPS) now on arXiv! </p>
-<p class="text">Shuwen attends the Scialog Sustainable Minerals, Metals, and Materials (SM3) workshop in Tucson, AZ!</p>
-<div style="height: 10px;"></div>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto text-center">
-<p class="header-month">August 2025</p>
-<p class="text"> Congrats to Aditi for passing her A-Exam! </p>
-<p class="text"> Shuwen attends the ACS Fall meeting in Washington DC! She gives an invited talk in the ACS PHYS Rare Event Sampling in Material Science Problems session, and she chaired the ACS PHYS Machine Learning, Theory, & Mechanisms for Rare Events session!  </p>
-<p class="text"> Shuwen gives an invited talk at the Gordon Research Conference on Chemistry and Physics of Liquids in Holderness, NH!  </p>
-<div style="height: 10px;"></div>
-</div>
-</div>
-
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto text-center">
-<p class="header-month">July 2025</p>
-<p class="text"> <a href='https://pubs.acs.org/doi/10.1021/acs.jpcb.5c04964' target="_blank" style='color: #A1CF8D;'>New paper</a> - check out Lyndon and Nhi's work on the impact of surface chemistry on confined electrolyte properties - an all-undergrad led project! </p>
-<p class="text"> Shuwen leads a session on ML for Molecules at the Cornell Engineering High School Outreach Program! </p>
-<img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2025_curie.jpeg" width="50%"/>
-<div style="height: 10px;"></div>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto text-center">
-<p class="header-month">June 2025</p>
-<p class="text"><a href='https://doi.org/10.26434/chemrxiv-2025-pfng2-v2' target="_blank" style='color: #A1CF8D;'>New paper</a> - check out Osman's work on Deep Graph Kernel Learning (DGKL) as a new uncertainty quantification method!</p>
-<p class="text"><a href='https://www.sciencedirect.com/science/article/abs/pii/S0376738825006714' target="_blank" style='color: #A1CF8D;'>New paper</a> with the Shirts group (CU Boulder) - check out Nate’s work on free energy of ion hydration and implications in membrane separations, published in Journal of Membrane Science!</p>
-<p class="text"><a href='https://pubs.acs.org/doi/10.1021/acsami.5c09320' target="_blank" style='color: #A1CF8D;'>New paper</a> on high-throughput screening of water-stable MOFs - work Shuwen contributed to during her postdoc at MIT, now published in ACS Applied Materials & Interfaces!</p>
-<p class="text">Shuwen becomes a Field Member in MSE, MAE, BEE, and Faculty Fellow at the Atkinson Center for Sustainability!</p>
-<div style="height: 10px;"></div>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto text-center">
-<p class="header-month">May 2025</p>
-<p class="text">Congrats to our graduating senior undergrad researchers!</p>
-<p class="text">
-Anthony Dee &rarr; Business analyst @ Capital One<br>
-Anant Gupta &rarr; Manufacturing Engineer @ P&G<br>
-Zach Kwon &rarr; L’Oréal<br>
-Nhi Nguyen &rarr; PhD student @ MIT ChemE</p>
-<p class="text">Nhi received the <i>AIChE/ConocoPhillips Undergraduate Scholarship Award</i> and Anthony received the <i>CBE Outstanding Research by an Undergraduate Award</i> at the CBE Senior Awards Banquet!</p>
-<img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2025_group_photo.jpeg" width="50%" style="margin-top: 10px;" />
-<div style="height: 10px;"></div>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto text-center">
-<p class="header-month">April 2025</p>
-<p class="text">Nhi and Anant present their work at the Cornell Engineering Learning Initiatives (ELI) Symposium!</p>
-<img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2025_ELI.jpeg" width="50%" style="margin: 10px 0;" />
-<p class="text">Shuwen teaches at the i-CoMSE ML for Molecules workshop! Materials and lectures are publicly available <a href='https://github.com/icomse/9th_workshop_ml_for_molecules' target="_blank" style='color: #A1CF8D;'>here</a>.</p>
-<p class="text">Our 2025-2026 NSF ACCESS allocation has been awarded! This provides GPU and CPU resources from the San Diego Supercomputing Center (SDSC) to support our research projects!</p>
-<div style="height: 10px;"></div>
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12 mx-auto text-center">
-<p class="header-month">March 2025</p>
-<p class="text">Shuwen attends the NSF Future of AI in the Mathematical and Physical Sciences (AI+MPS) workshop at MIT. Stay tuned for our white paper!</p>
-<div style="height: 10px;"></div>
-</div>
-</div>
-
