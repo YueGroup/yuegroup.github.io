@@ -94,8 +94,13 @@ permalink: /news/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">March 2026</p>
+<p class="text"> Osman's DGKL paper is accepted in Digitial Discovery!</p>
+
+<p class="text">Chenlu presents a poster at the CBE Graduate Student Symposium, CBE Open House, and Chemistry Graduate Research Symposium! </p>
+<img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_chenlu_poster.jpeg" width="70%" style="margin-top: 10px;" />
+<div style="height: 20px;"></div>
 <p class="text">Shuwen is organizing a CECAM workshop on Physics-Aware ML for Molecules and Materials June 1-3, 2026 at Cornell Tech in NYC! Registration <a href='https://www.cecam.org/workshop-details/physics-aware-machine-learning-for-molecules-and-materials-1554' target="_blank" style='color: #A1CF8D;'>here</a>.</p>
-<img src="{{ site.url }}{{ site.baseurl }}/images/news_images/CECAM_flyer.png" width="90%" style="margin-top: 10px;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_CECAM_flyer.png" width="90%" style="margin-top: 10px;" />
 <div style="height: 10px;"></div>
 </div>
 </div>
