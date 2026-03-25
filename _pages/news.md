@@ -94,7 +94,7 @@ permalink: /news/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">March 2026</p>
-<p class="text"> Osman's DGKL paper is accepted in <em>Digital Discovery</em>!</p>
+<p class="text">Osman's <a href='https://doi.org/10.1039/D6DD00020G' target="_blank" style='color: #A1CF8D;'>DGKL paper</a> is accepted in <em>Digital Discovery</em>!</p>
 <p class="text">Chenlu presents a poster at the CBE Graduate Student Symposium, CBE Open House, and Chemistry Graduate Research Symposium! </p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_chenlu_poster.jpeg" width="70%" style="margin-top: 10px;" />
 <div style="height: 20px;"></div>
