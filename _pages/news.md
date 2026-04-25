@@ -90,6 +90,14 @@ permalink: /news/
   <a href="{{ site.baseurl }}/news/2023">2023</a>
 </div>
 
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">April 2026</p>
+<p class="text">Shuwen gives an invited seminar at City College of New York (CCNY) in NYC!</p>
+<p class="text">Shuwen gives an invited seminar at the University of Arkansas i n Fayetteville, AR!</p>
+</div>
+</div>
+
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
