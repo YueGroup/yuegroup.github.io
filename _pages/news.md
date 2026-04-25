@@ -94,7 +94,7 @@ permalink: /news/
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">April 2026</p>
 <p class="text">Shuwen gives an invited seminar at City College of New York (CCNY) in NYC!</p>
-<p class="text">Shuwen gives an invited seminar at the University of Arkansas i n Fayetteville, AR!</p>
+<p class="text">Shuwen gives an invited seminar at the University of Arkansas in Fayetteville, AR!</p>
 </div>
 </div>
 
