@@ -93,8 +93,8 @@ permalink: /news/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">April 2026</p>
-<p class="text">Shuwen gives an invited seminar at the City College of New York (CCNY) Department of Chemical Engineering in NYC!</p>
-<p class="text">Shuwen gives an invited seminar at the University of Arkansas Ralph E. Martin Department of Chemical Engineering in Fayetteville, AR!</p>
+<p class="text">Shuwen gives an invited seminar at the City College of New York (CCNY) Department of Chemical Engineering!</p>
+<p class="text">Shuwen gives an invited seminar at the University of Arkansas Ralph E. Martin Department of Chemical Engineering!</p>
 </div>
 </div>
 
