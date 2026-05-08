@@ -93,6 +93,13 @@ permalink: /news/
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">May 2026</p>
+<p class="text">Shuwen gives an invited talk at the <a href='https://cent.mit.edu' target="_blank" style='color: #A1CF8D;'>DOE Center for Enhanced Nanofluidic Transport (CENT) EFRC</a>!</p>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">April 2026</p>
 <p class="text">Farewell dinner for our postdoc Osman, who will be starting a new position at LANL! </p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_group_dinner.jpeg" width="60%" style="margin-top: 10px;" />
