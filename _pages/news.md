@@ -96,7 +96,7 @@ permalink: /news/
 <p class="text">The group goes to the <a href='https://www.cecam.org/workshop-details/physics-aware-machine-learning-for-molecules-and-materials-1554' target="_blank" style='color: #A1CF8D;'>CECAM Flagship Workshop on Physics-aware Machine Learning for Molecules and Materials</a> hosted at Cornell Tech in NYC!</p>
 <p class="text">Chenlu presented a poster on applying MLIPs to study bimetallic catalysts and Prajwal presented a poster on physics-aware active learning schemes for MLIP development! </p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_CECAM_group_photo.jpeg" width="80%" style="margin-top: 10px;" />
-<p class="text">Shuwen lead the organization of the workshop along with co-organizers Camille Bilodeau (UVA), Andrew Rosen (Princeton), Stefano Martiniani (NYU), and Juan de Pablo (NYU)! And she gave a talk on our new exciting work on uncertainty quantification and active learning algorithms for MLIPs! </p>
+<p class="text">Shuwen lead the organization of the workshop along with co-organizers Camille Bilodeau (UVA), Andrew Rosen (Princeton), Stefano Martiniani (NYU), and Juan de Pablo (NYU)! And she gave a talk on our new exciting work in uncertainty quantification and active learning algorithms for MLIPs! </p>
 <div style="display: flex; gap: 16px; justify-content: center; align-items: center; margin-top: 10px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_CECAM_organizers_photo.jpeg" width="45%" />
   <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_CECAM_view_photo.jpeg" width="45%" />
