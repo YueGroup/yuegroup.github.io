@@ -90,11 +90,28 @@ permalink: /news/
   <a href="{{ site.baseurl }}/news/2023">2023</a>
 </div>
 
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">June 2026</p>
+<p class="text">The group goes to the <a href='https://www.cecam.org/workshop-details/physics-aware-machine-learning-for-molecules-and-materials-1554' target="_blank" style='color: #A1CF8D;'>CECAM Flagship Workshop on Physics-aware Machine Learning for Molecules and Materials</a> hosted at Cornell Tech in NYC!</p>
+<p class="text">Chenlu presented a poster on applying MLIPs for C-N coupling mechanisms and Prajwal presented a poster on physics-aware active learning schemes for MLIP development! </p>
+<img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_CECAM_group_photo.jpeg" width="80%" style="margin-top: 10px;" />
+<p class="text">Shuwen lead the organization of the workshop along with co-organizers Camille Bilodeau (UVA), Andrew Rosen (Princeton), Stefano Martiniani (NYU), and Juan de Pablo (NYU)! And she gave a talk on our new exciting work on uncertainty quantification and active learning algorithms for MLIPs! </p>
+<div style="display: flex; gap: 16px; justify-content: center; align-items: center; margin-top: 10px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_CECAM_organizers_photo.jpeg" width="45%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_CECAM_view_photo.jpeg" width="45%" />
+</div>
+<p class="text">In between CECAM sessions, Shuwen also squeezed in a side quest across the river to give a talk at the <a href='https://eipm.weill.cornell.edu/news-events/symposium-artificial-intelligence-basic-research-medicine-and-life-sciences' target="_blank" style='color: #A1CF8D;'>Artificial Intelligence for Basic Research in Medicine and the Life Sciences Symposium</a> at Weill Cornell!</p>
+</div>
+</div>
+
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">May 2026</p>
 <p class="text">Shuwen gives an invited talk at the <a href='https://cent.mit.edu' target="_blank" style='color: #A1CF8D;'>DOE Center for Enhanced Nanofluidic Transport (CENT) EFRC</a>!</p>
+<p class="text">We received a SPROUT Award from Cornell Duffield Engineering to fund a collaboration with Yu Zhong (Cornell MSE) and Nick Abbott (Cornell CBE)!</p>
+<p class="text">Lyndon's <a href='https://doi.org/10.1016/j.biortech.2026.134907' target="_blank" style='color: #A1CF8D;'>co-first author paper</a> on ML for predicting experimental parameters for biomass pyrolysis in collaboration with Iris Yu's group at NUS is now out in <em>Bioresource Technology</em>!</p>
 </div>
 </div>
 
