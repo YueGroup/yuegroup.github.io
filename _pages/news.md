@@ -93,6 +93,7 @@ permalink: /news/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">June 2026</p>
+<p class="text">Chenlu's <a href='https://pubs.rsc.org/en/content/articlelanding/2026/ee/d6ee01118g' target="_blank" style='color: #A1CF8D;'>collaborative paper</a> with Vibha Kalra's group on battery recycling is now out in <em>Energy and Environmental Science</em>! Read more about it in the <a href='https://news.cornell.edu/stories/2026/06/electrochemical-bath-recycles-critical-minerals-batteries' target="_blank" style='color: #A1CF8D;'>Cornell Chronicle</a>!</p>
 <p class="text">The group goes to the <a href='https://www.cecam.org/workshop-details/physics-aware-machine-learning-for-molecules-and-materials-1554' target="_blank" style='color: #A1CF8D;'>CECAM Flagship Workshop on Physics-aware Machine Learning for Molecules and Materials</a> hosted at Cornell Tech in NYC!</p>
 <p class="text">Chenlu presented a poster on applying MLIPs to study bimetallic catalysts and Prajwal presented a poster on physics-aware active learning schemes for MLIP development! </p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_CECAM_group_photo.jpeg" width="80%" style="margin-top: 10px;" />
