@@ -94,7 +94,7 @@ permalink: /news/
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">June 2026</p>
 <p class="text">Our <a href='https://doi.org/10.1021/acsami.6c05214' target="_blank" style='color: #A1CF8D;'>collaborative paper</a> with Aristide Gumyusenge's group (MIT DMSE) on conductive polymers for electrochemical devices is now out in <em>ACS Applied Materials & Interfaces</em>!</p>
-<p class="text">Chenlu's <a href='https://pubs.rsc.org/en/content/articlelanding/2026/ee/d6ee01118g' target="_blank" style='color: #A1CF8D;'>collaborative paper</a> with Vibha Kalra's group on battery recycling is now out in <em>Energy and Environmental Science</em>! Read more about it in the <a href='https://news.cornell.edu/stories/2026/06/electrochemical-bath-recycles-critical-minerals-batteries' target="_blank" style='color: #A1CF8D;'>Cornell Chronicle</a>!</p>
+<p class="text">Chenlu's <a href='https://pubs.rsc.org/en/content/articlelanding/2026/ee/d6ee01118g' target="_blank" style='color: #A1CF8D;'>collaborative paper</a> with Vibha Kalra's group (Cornell CBE) on battery recycling is now out in <em>Energy and Environmental Science</em>! Read more about it in the <a href='https://news.cornell.edu/stories/2026/06/electrochemical-bath-recycles-critical-minerals-batteries' target="_blank" style='color: #A1CF8D;'>Cornell Chronicle</a>!</p>
 <p class="text">The group goes to the <a href='https://www.cecam.org/workshop-details/physics-aware-machine-learning-for-molecules-and-materials-1554' target="_blank" style='color: #A1CF8D;'>CECAM Flagship Workshop on Physics-aware Machine Learning for Molecules and Materials</a> hosted at Cornell Tech in NYC!</p>
 <p class="text">Chenlu presented a poster on applying MLIPs to study bimetallic catalysts and Prajwal presented a poster on physics-aware active learning schemes for MLIP development! </p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_CECAM_group_photo.jpeg" width="80%" style="margin-top: 10px;" />
@@ -113,7 +113,7 @@ permalink: /news/
 <p class="header-month">May 2026</p>
 <p class="text">Shuwen gives an invited talk at the <a href='https://cent.mit.edu' target="_blank" style='color: #A1CF8D;'>DOE Center for Enhanced Nanofluidic Transport (CENT) EFRC</a>!</p>
 <p class="text">We received a SPROUT Award from Cornell Duffield Engineering to fund a collaboration with Yu Zhong (Cornell MSE) and Nick Abbott (Cornell CBE)!</p>
-<p class="text">Lyndon's <a href='https://doi.org/10.1016/j.biortech.2026.134907' target="_blank" style='color: #A1CF8D;'>co-first author paper</a> on ML for predicting experimental parameters for biomass pyrolysis in collaboration with Iris Yu's group at NUS is now out in <em>Bioresource Technology</em>!</p>
+<p class="text">Lyndon's <a href='https://doi.org/10.1016/j.biortech.2026.134907' target="_blank" style='color: #A1CF8D;'>co-first author paper</a> on ML for predicting experimental parameters for biomass pyrolysis in collaboration with Iris Yu's group (NUS CEE) is now out in <em>Bioresource Technology</em>!</p>
 </div>
 </div>
 
