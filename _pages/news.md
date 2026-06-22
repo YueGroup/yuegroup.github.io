@@ -143,8 +143,17 @@ permalink: /news/
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
-<p class="header-month">February 2025</p>
+<p class="header-month">February 2026</p>
 <p class="text">Aditi's <a href='https://doi.org/10.1039/D5DD00414D' target="_blank" style='color: #A1CF8D;'>paper</a> on ML for ionic liquids is now out in <em>Digital Discovery</em> in the <em>Emerging Investigator Collection</em>!</p>
 <div style="height: 10px;"></div>
 </div>
 </div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">January 2026</p>
+<p class="text">Shuwen was elected to the AIChE Area 1A Programming Committee!</p>
+<div style="height: 10px;"></div>
+</div>
+</div>
+
