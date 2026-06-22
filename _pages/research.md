@@ -128,21 +128,21 @@ permalink: /research/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
 <br/>
-<h4 id="researchtext" style="color: #ded4cc;"><strong> Our computational molecular science toolkit: </strong></h4>
-<br/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/research0.svg" style="width: 90%;"/>
+<h4 id="researchtext" style="color: #ded4cc;"><strong> Our Mission </strong></h4>
+<p style="font-size: 18px;">
+We are entering a new era of scientific discovery, where machine learning is transforming how we study and design molecules and materials. Our research focuses on using these advances to understand, predict, and ultimately control chemical behavior across functional materials, catalytic interfaces, and electrochemical systems. A central theme of our work is understanding chemistry in <em>realistic, dynamic, and often messy</em> environments, where fluctuations, collective behavior, and electronic complexity determine chemical outcomes.
+</p>
 </div>
 </div>
-
 
 <!-- Research 1: -->
 <div class="jumbotron">
   <div class="col-md-12 col-sm-12 mx-auto">
     <div class="research-section reverse-order">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/research1.png" alt="Research 1" style="max-width: 450px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/research1.png" alt="Research 1" style="max-width: 350px;" />
       <div class="research-content">
-        <h4 style="color: #ded4cc;"><strong>Physics-inspired ML potentials</strong></h4>
-        <p style="font-size: 17px;">Molecular simulation is a powerful tool for predicting properties of materials and fluids, but the <em>reliability</em> of these predictions heavily depends on the models used. The challenge in developing these models is a trade-off between the degree of chemical detail (level of theory used) and their computational cost (how fast they can be evaluated on supercomputers). We leverage <em>physics-inspired</em> machine-learning frameworks to build models that avoid this trade-off to predict large-scale thermodynamic properties at first-principles levels of accuracy.</p>
+        <h4 style="color: #ded4cc;"><strong>Physics-Aware Machine Learning</strong></h4>
+        <p style="font-size: 17px;">Machine learning models are now a routine workhorse for atomistic simulation and molecular design. The real test comes when these models are applied to complex chemical environments. Chemistry in the real world is messy and electronically complicated, and getting these systems right often requires more than just bigger models and more data. Can physical knowledge bridge this gap, and how should it be incorporated? Our group develops <em>physics-aware</em> machine learning algorithms and tools to tackle these challenges, including machine learning interatomic potentials (MLIPs), active learning strategies, and generative models for molecular simulation and design.</p>
       </div>
     </div>
   </div>
@@ -153,22 +153,24 @@ permalink: /research/
   <div class="col-md-12 col-sm-12 mx-auto">
     <div class="research-section">
       <div class="research-content">
-      <h4 style="color: #ded4cc;"><strong>Fluids at interfaces and in confinement</strong></h4>
-<p style="text-align: justify; font-size: 17px;"> How molecules behave at an interface or in confinement is <em>vastly different</em> from how they behave in bulk. These types of environments are where analytical theories tend to break down, where timescale trends diverge, and where chemical reactions are more likely to happen. Our group seeks to decipher the intricate relationships between surface features, geometries, and the subsequent influence on fluid behavior. We aim to design unique surfaces and electrolyte chemistry targetting optimal separations and catalysis processes.</p>
+      <h4 style="color: #ded4cc;"><strong>Engineering Functional Materials</strong></h4>
+<p style="text-align: justify; font-size: 17px;">Designing better materials can often feel like a game of whack-a-mole. Improving activity may reduce stability, increasing selectivity may decrease conversion, and small changes in composition can lead to dramatically different behavior. Our group studies the atomic and electronic origins of these tradeoffs and looks for opportunities to break them.  We use these insights to guide the forward design of heterogeneous catalysts, 2D materials, and other functional materials for energy and sustainability applications. </p>
       </div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 2" style="max-width: 400px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 2" style="max-width: 450px;  margin-left: 30px;" />
     </div>
   </div>
 </div>
+
+
 
 <!-- Research 3: -->
 <div class="jumbotron">
   <div class="col-md-12 col-sm-12 mx-auto">
     <div class="research-section reverse-order">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/research3.png" alt="Research 3" style="max-width: 450px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/research3.png" alt="Research 3" style="max-width: 300px;" />
       <div class="research-content">
-      <h4 style="color: #ded4cc;"><strong>Generative design for ion transport</strong></h4>
-<p style="text-align: justify; font-size: 17px;">A key goal in designing energy storage solutions is to identify solvents which enhance charge transport and stability. We leverage machine-learning tools to map molecular structures to transport properties and optimize for desired properties in lower dimensional spaces. This approach allows us to greatly accelerate the exploration and discovery of <em>new</em> electrolytes chemistry that can unlock ion transport behavior surpassing conventional limitations. </p>
+      <h4 style="color: #ded4cc;"><strong>Engineering Interfaces and Solvents</strong></h4>
+<p style="text-align: justify; font-size: 17px;"> Catalysts often get all the attention, but it is only half the story. The surrounding electrolyte can be <em>just as much of a catalyst</em> as the catalyst itself! The challenge is that these environments are dynamic, collective, and often difficult to characterize from experiments alone. Our group combines statistical mechanics and first principles theory to understand how solvents, interfaces, and electric fields determine chemical behavior. We use these insights to engineer new <em>electrolyte</em>-design knobs for controlling catalysis, separations, and electrochemical processes. </p>
       </div>
     </div>
   </div>

@@ -130,11 +130,11 @@ permalink: /people/
 <h5 style="font-size: 18px; margin-bottom: 10px; color: #f6d635"><b>Group Openings -- We are looking for highly motivated, creative, and independent researchers to join our team!</b> </h5>
 
 <p style="font-size: 18px;">
-<strong>Postdocs:</strong> We currently have a postdoc position open. Candidates skilled in <em><strong>machine learning</strong></em> in particular are strongly encouraged to apply. Please send Shuwen a CV and contact info for 2 references. Candidates are also encouraged to apply for the <a href='https://science.ai.cornell.edu/schmidt-postdoc-fellows/' style='color: #A1CF8D;'>Schmidt AI in Science Postdoctoral Fellowship</a>, <a href='https://postdocs.cornell.edu/prospective-postdocs/cornell-postdoctoral-fellowship-programs/' style='color: #A1CF8D;'>Cornell internal postdoc fellowships</a>, and <a href='https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/' style='color: #A1CF8D;'>external postdoc fellowships</a>.
+<strong>Postdocs:</strong> We currently have a postdoc position open. Candidates skilled in <em><strong>machine learning method development</strong></em> in particular are strongly encouraged to apply. Please send Shuwen a CV and contact info for 2 references. Candidates are also encouraged to apply for the <a href='https://science.ai.cornell.edu/schmidt-postdoc-fellows/' style='color: #A1CF8D;'>Schmidt AI in Science Postdoctoral Fellowship</a>, <a href='https://postdocs.cornell.edu/prospective-postdocs/cornell-postdoctoral-fellowship-programs/' style='color: #A1CF8D;'>Cornell internal postdoc fellowships</a>, and <a href='https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/' style='color: #A1CF8D;'>external postdoc fellowships</a>.
 </p>
 
 <p style="font-size: 18px;">
-<strong>Grad students:</strong> We welcome interested students from chemical engineering, chemistry, materials science, mechanical engineering, computer science, and beyond! All prospective grad students must be admitted through <a href='https://gradschool.cornell.edu/admissions/' style='color: #A1CF8D;'>department level admissions</a> before being considered for a specific research group.
+<strong>Grad students:</strong> We welcome interested students from engineering, math, chemistry, physics, computer science, and beyond! All prospective grad students must be admitted through <a href='https://gradschool.cornell.edu/admissions/' style='color: #A1CF8D;'>department level admissions</a> before being considered for a specific research group.
 </p>
 </div>
 </div>
