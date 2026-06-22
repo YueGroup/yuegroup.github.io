@@ -57,7 +57,7 @@ permalink: /
 
 <br/>
 <div class="bottom-text" style="color: #ded4cc;">
-Our group works at the interface of molecular simulation, machine-learning, statistical mechanics, and quantum mechanics towards the design of novel electrolytes and materials for energy and sustainability.
+We develop physics-aware machine learning and molecular simulation methods to understand and control chemistry in complex, realistic environments. Our work spans materials, interfaces, and electrochemical systems for energy and sustainability applications.
 </div>
 <br/>
 <br/>
