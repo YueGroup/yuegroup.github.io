@@ -128,7 +128,7 @@ permalink: /research/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto">
 <br/>
-<h4 id="researchtext" style="color: #ded4cc;"><strong> Our Mission </strong></h4>
+<h4 id="researchtext" style="color: #E2C8A8;"><strong> Our Mission </strong></h4>
 <p style="font-size: 18px;">
 We are entering a new era of scientific discovery, where machine learning is transforming how we study and design molecules and materials. Our research focuses on using these advances to understand, predict, and ultimately control chemical behavior across functional materials, catalytic interfaces, and electrochemical systems. A central theme of our work is understanding chemistry in <em>realistic, dynamic, and often messy</em> environments, where fluctuations, collective behavior, and electronic complexity determine chemical outcomes.
 </p>
@@ -141,7 +141,7 @@ We are entering a new era of scientific discovery, where machine learning is tra
     <div class="research-section reverse-order">
       <img src="{{ site.url }}{{ site.baseurl }}/images/research1.png" alt="Research 1" style="max-width: 350px;" />
       <div class="research-content">
-        <h4 style="color: #ded4cc;"><strong>Physics-Aware Machine Learning</strong></h4>
+        <h4 style="color: #E2C8A8;"><strong>Physics-Aware Machine Learning</strong></h4>
         <p style="font-size: 17px;">Machine learning models are now a routine workhorse for atomistic simulation and molecular design. The real test comes when these models are applied to complex chemical environments. Chemistry in the real world is messy and electronically complicated, and getting these systems right often requires more than just bigger models and more data. Can physical knowledge bridge this gap, and how should it be incorporated? Our group develops <em>physics-aware</em> machine learning algorithms and tools to tackle these challenges, including machine learning interatomic potentials (MLIPs), active learning strategies, and generative models for molecular simulation and design.</p>
       </div>
     </div>
@@ -153,7 +153,7 @@ We are entering a new era of scientific discovery, where machine learning is tra
   <div class="col-md-12 col-sm-12 mx-auto">
     <div class="research-section">
       <div class="research-content">
-      <h4 style="color: #ded4cc;"><strong>Engineering Functional Materials</strong></h4>
+      <h4 style="color: #E2C8A8;"><strong>Engineering Functional Materials</strong></h4>
 <p style="text-align: justify; font-size: 17px;">Designing better materials can often feel like a game of whack-a-mole. Improving activity may reduce stability, increasing selectivity may decrease conversion, and small changes in composition can lead to dramatically different behavior. Our group studies the atomic and electronic origins of these tradeoffs and looks for opportunities to break them.  We use these insights to guide the forward design of heterogeneous catalysts, 2D materials, and other functional materials for energy and sustainability applications. </p>
       </div>
       <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 2" style="max-width: 450px;  margin-left: 30px;" />
@@ -169,7 +169,7 @@ We are entering a new era of scientific discovery, where machine learning is tra
     <div class="research-section reverse-order">
       <img src="{{ site.url }}{{ site.baseurl }}/images/research3.png" alt="Research 3" style="max-width: 300px;" />
       <div class="research-content">
-      <h4 style="color: #ded4cc;"><strong>Engineering Interfaces and Solvents</strong></h4>
+      <h4 style="color: #E2C8A8;"><strong>Engineering Interfaces and Solvents</strong></h4>
 <p style="text-align: justify; font-size: 17px;"> Catalysts often get all the attention, but it is only half the story. The surrounding electrolyte can be <em>just as much of a catalyst</em> as the catalyst itself! The challenge is that these environments are dynamic, collective, and often difficult to characterize from experiments alone. Our group combines statistical mechanics and first principles theory to understand how solvents, interfaces, and electric fields determine chemical behavior. We use these insights to engineer new <em>electrolyte</em>-design knobs for controlling catalysis, separations, and electrochemical processes. </p>
       </div>
     </div>

@@ -36,7 +36,7 @@ permalink: /news/
   .header-month {
     font-size: 18px;
     font-weight: bold;
-    color: #ded4cc;
+    color: #E2C8A8;
     text-align: center;
     margin-bottom: 5px;
     margin-top: -5px;

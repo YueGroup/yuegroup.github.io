@@ -21,8 +21,9 @@ permalink: /
 
 .bottom-text {
   font-size: 20px; /* Adjust the font size as needed */
-  font-weight: bold; /* Make the text bold */
+  font-weight: 500; /* Make the text bold */
   padding: 0 20px; /* Adjust the padding for left and right sides */
+  text-align: center;
 }
 
 @media (min-width: 768px) {
@@ -56,8 +57,8 @@ permalink: /
 </div>
 
 <br/>
-<div class="bottom-text" style="color: #ded4cc;">
-We develop physics-aware machine learning and molecular simulation methods to understand and control chemistry in complex, realistic environments. Our work spans materials, interfaces, and electrochemical systems for energy and sustainability applications.
+<div class="bottom-text" style="color: white;">
+We develop physics-aware machine learning and molecular simulation methods to understand and control chemistry in <em style="color:#E2C8A8;">realistic, dynamic, and messy</em> environments
 </div>
 <br/>
 <br/>

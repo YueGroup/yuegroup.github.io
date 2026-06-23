@@ -39,6 +39,39 @@ permalink: /people/
   a.alumni-link:hover {
     text-decoration: underline !important;
   }
+
+  .jumbotron h4 {
+    color: #E2C8A8;
+    font-weight: 700;
+}
+/* People page icon colors */
+.people-icon-email {
+  color: #9BC77E;
+}
+
+.people-icon-scholar {
+  color: #9BC77E;
+}
+
+.people-icon-cv {
+  color: #9BC77E;
+}
+
+.people-icon-github {
+  color: #9BC77E;
+}
+
+.people-icon-linkedin {
+  color: #9BC77E;
+}
+
+.people-icon-twitter {
+  color: #9BC77E;
+}
+
+.people-icon-website {
+  color: #9BC77E;
+}
 </style>
 
 <h3 id="pi">Principle Investigator</h3>
@@ -61,7 +94,7 @@ permalink: /people/
 {% endfor %}
 {% endif %}
 <p> {{ member.location }} </p>
-{% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="ai ai-archive-square ai-2x"></i></a> {% endif %} {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %} {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %} {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %} {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %} {% if member.twitter %}<a href="{{ member.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> {% endif %}
+{% if member.website %}<a class="people-icon-website" href="{{ member.website }}" target="_blank"><i class="ai ai-archive-square ai-2x"></i></a> {% endif %} {% if member.email %}<a class="people-icon-email" href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %} {% if member.scholar %} <a class="people-icon-scholar" href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %} {% if member.cv %} <a class="people-icon-cv" href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %} {% if member.github %} <a class="people-icon-github" href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %} {% if member.twitter %}<a class="people-icon-twitter" href="{{ member.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> {% endif %}{% if member.linkedin %}<a class="people-icon-linkedin" href="{{ member.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a> {% endif %}
 <p> {{ member.education1 }} </p>
 <p> {{ member.education2 }} </p>
 <p> {{ member.education3 }} </p>
@@ -94,7 +127,7 @@ permalink: /people/
   <p>{% if member.info1 %} <i> {{ member.info1 }} </i> {% endif %}</p>
   <p>{% if member.info2 %} <i> {{ member.info2 }} </i> {% endif %}</p>
   <p> {{ member.location }} </p>
-  {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %}{% if member.scholar %}<a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %}{% if member.cv %}<a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %}{% if member.github %}<a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %}{% if member.linkedin %}<a href="{{ member.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a> {% endif %}{% if member.twitter %}<a href="{{ member.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> {% endif %}{% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-external-link-square fa-2x"></i></a> {% endif %}
+  {% if member.email %}<a class="people-icon-email" href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %}{% if member.scholar %}<a class="people-icon-scholar" href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %}{% if member.cv %}<a class="people-icon-cv" href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %}{% if member.github %}<a class="people-icon-github" href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %}{% if member.linkedin %}<a class="people-icon-linkedin" href="{{ member.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a> {% endif %}{% if member.twitter %}<a class="people-icon-twitter" href="{{ member.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> {% endif %}{% if member.website %}<a class="people-icon-website" href="{{ member.website }}" target="_blank"><i class="fa fa-external-link-square fa-2x"></i></a> {% endif %}
 
   {% if member.education1 %} <p> {{ member.education1 }} </p> {% endif %}
   {% if member.education2 %} <p> {{ member.education2 }} </p> {% endif %}
