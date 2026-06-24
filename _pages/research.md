@@ -130,7 +130,7 @@ permalink: /research/
 <br/>
 <h4 id="researchtext" style="color: #E2C8A8;"><strong> Our Mission </strong></h4>
 <p style="font-size: 18px;">
-We are entering a new era of scientific discovery, where machine learning is transforming how we study and design molecules and materials. Our research focuses on using these advances to understand, predict, and ultimately control chemical behavior across functional materials, catalytic interfaces, and electrochemical systems. A central theme of our work is understanding chemistry in <em>realistic, dynamic, and often messy</em> environments, where fluctuations, collective behavior, and electronic complexity determine chemical outcomes.
+We are entering a new era of scientific discovery, where machine learning is transforming how we study and design molecules and materials. Our research focuses on using these advances to understand, predict, and ultimately control chemical behavior across functional materials, solvents and electrolytes, and electrochemical systems. A central theme of our work is understanding chemistry in <em>realistic, dynamic, and often messy</em> environments, where fluctuations, collective behavior, and electronic complexity determine chemical outcomes.
 </p>
 </div>
 </div>
