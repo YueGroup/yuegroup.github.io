@@ -130,7 +130,7 @@ permalink: /research/
 <br/>
 <h4 id="researchtext" style="color: #E2C8A8;"><strong> Our Mission </strong></h4>
 <p style="font-size: 18px;">
-We are entering a new era of scientific discovery, where machine learning is transforming how we study and design molecules and materials. Our research focuses on using these advances to understand, predict, and ultimately control chemical behavior across functional materials, solvents and electrolytes, and electrochemical systems. A central theme of our work is understanding chemistry in <em>realistic, dynamic, and often messy</em> environments, where fluctuations, collective behavior, and electronic complexity determine chemical outcomes.
+We are entering a new era of scientific discovery, where machine learning is transforming how we understand and engineer the physical world. We believe the greatest opportunity is to build tools that help us learn, predict, and reason about chemistry in entirely new ways. A unifying theme of our research is chemistry in <em>realistic, dynamic, and often messy environments</em>, where fluctuations, collective behavior, and electronic complexity fundamentally determine chemical outcomes.
 </p>
 </div>
 </div>
@@ -153,25 +153,41 @@ We are entering a new era of scientific discovery, where machine learning is tra
   <div class="col-md-12 col-sm-12 mx-auto">
     <div class="research-section">
       <div class="research-content">
-      <h4 style="color: #E2C8A8;"><strong>Engineering Functional Materials</strong></h4>
-<p style="text-align: justify; font-size: 17px;">Designing better materials can often feel like a game of whack-a-mole. Improving activity may reduce stability, increasing selectivity may decrease conversion, and small changes in composition can lead to dramatically different behavior. Our group studies the molecular and electronic origins of these tradeoffs and looks for opportunities to break them.  We use these insights to guide the forward design of heterogeneous catalysts, 2D materials, and other functional materials for energy and sustainability applications. </p>
+        <h4 style="color: #E2C8A8;"><strong>Learning What to Learn</strong></h4>
+        <p style="font-size: 17px;">
+        Scientific discovery is becoming a conversation between a researcher and intelligent algorithms. Every simulation (or experiment) teaches us something new, but figuring out what to learn next becomes increasingly difficult as data become more expensive to obtain and systems move beyond familiar regimes. Our group develops mathematically grounded methods that help decide what data to collect, where to explore next, and how to learn as efficiently as possible. These intelligent algorithms combine ideas from uncertainty quantification, active learning, and learning under distribution shift.
+        </p>
       </div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 2" style="max-width: 450px;  margin-left: 30px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 1" style="max-width: 350px;" />
     </div>
   </div>
 </div>
-
 
 
 <!-- Research 3: -->
 <div class="jumbotron">
   <div class="col-md-12 col-sm-12 mx-auto">
     <div class="research-section reverse-order">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/research3.png" alt="Research 3" style="max-width: 300px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/research3.png" alt="Research 2" style="max-width: 450px;  margin-left: 30px;" />
+      <div class="research-content">
+      <h4 style="color: #E2C8A8;"><strong>Engineering Functional Materials</strong></h4>
+<p style="text-align: justify; font-size: 17px;">Designing better materials can often feel like a game of whack-a-mole. Improving activity may reduce stability, increasing selectivity may decrease conversion, and small changes in composition can lead to dramatically different behavior. Our group studies the molecular and electronic origins of these tradeoffs and looks for opportunities to break them.  We use these insights to guide the forward design of heterogeneous catalysts, 2D materials, and other functional materials for energy and sustainability applications. </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Research 4: -->
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12 mx-auto">
+    <div class="research-section">
       <div class="research-content">
       <h4 style="color: #E2C8A8;"><strong>Engineering Interfaces and Solvents</strong></h4>
-<p style="text-align: justify; font-size: 17px;"> Catalysts often get all the attention, but it is only half the story. The surrounding electrolyte can be <em>just as much of a catalyst</em> as the catalyst itself! The challenge is that these environments are dynamic, collective, and often difficult to characterize from experiments alone. Our group combines statistical mechanics and first principles theory to understand how solvents, interfaces, and electric fields determine chemical behavior. We use these insights to engineer new <em>electrolyte</em>-design knobs for controlling catalysis, separations, and electrochemical processes. </p>
+<p style="text-align: justify; font-size: 17px;"> Catalysts often get all the attention, but it is only half the story. The surrounding electrolyte can be <em>just as much of a catalyst</em> as the catalyst itself! The challenge is that these environments are dynamic, collective, and often difficult to characterize from experiments alone. Our group combines statistical mechanics and first principles theory to understand how solvents, electric fields, and transport phenomena determine chemical behavior. We use these insights to engineer new <em>electrolyte</em>-design knobs for controlling catalysis, separations, and electrochemical processes. </p>
       </div>
+      <img src="{{ site.url }}{{ site.baseurl }}/images/research4.png" alt="Research 3" style="max-width: 300px;" />
     </div>
   </div>
 </div>
