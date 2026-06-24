@@ -130,7 +130,7 @@ permalink: /research/
 <br/>
 <h4 id="researchtext" style="color: #E2C8A8;"><strong> Our Mission </strong></h4>
 <p style="font-size: 18px;">
-We are entering a new era of scientific discovery, where machine learning is transforming how we understand and engineer the physical world. We believe the greatest opportunity is to build tools that help us learn, predict, and reason about chemistry in entirely new ways. A unifying theme of our research is chemistry in <em>realistic, dynamic, and often messy environments</em>, where fluctuations, collective behavior, and electronic complexity fundamentally determine chemical outcomes.
+We are entering a new era of scientific discovery, where machine learning is transforming how we understand and engineer the physical world. This creates an opportunity to learn, predict, and reason about chemistry in entirely new ways. A unifying theme of our research is chemistry in <em>realistic, dynamic, and often messy environments</em>, where fluctuations, collective behavior, and electronic complexity fundamentally determine chemical outcomes.
 </p>
 </div>
 </div>
@@ -155,7 +155,7 @@ We are entering a new era of scientific discovery, where machine learning is tra
       <div class="research-content">
         <h4 style="color: #E2C8A8;"><strong>Learning What to Learn</strong></h4>
         <p style="font-size: 17px;">
-        Scientific discovery is becoming a conversation between a researcher and intelligent algorithms. Every simulation (or experiment) teaches us something new, but figuring out what to learn next becomes increasingly difficult as data become more expensive to obtain and systems move beyond familiar regimes. Our group develops mathematically grounded methods that help decide what data to collect, where to explore next, and how to learn as efficiently as possible. These intelligent algorithms combine ideas from uncertainty quantification, active learning, and learning under distribution shift.
+        Scientific discovery is becoming a conversation between researchers and intelligent algorithms. Every simulation (or experiment) teaches us something new, but figuring out what to learn next becomes increasingly difficult as data become more expensive to obtain and systems move beyond familiar regimes. Our group develops mathematically grounded methods that help decide what data to collect, where to explore next, and how to learn as efficiently as possible. These intelligent algorithms combine ideas from uncertainty quantification, active learning, and learning under distribution shift.
         </p>
       </div>
       <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 2" style="max-width: 350px;" />
