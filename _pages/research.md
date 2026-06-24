@@ -158,7 +158,7 @@ We are entering a new era of scientific discovery, where machine learning is tra
         Scientific discovery is becoming a conversation between a researcher and intelligent algorithms. Every simulation (or experiment) teaches us something new, but figuring out what to learn next becomes increasingly difficult as data become more expensive to obtain and systems move beyond familiar regimes. Our group develops mathematically grounded methods that help decide what data to collect, where to explore next, and how to learn as efficiently as possible. These intelligent algorithms combine ideas from uncertainty quantification, active learning, and learning under distribution shift.
         </p>
       </div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 1" style="max-width: 350px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 2" style="max-width: 350px;" />
     </div>
   </div>
 </div>
@@ -168,7 +168,7 @@ We are entering a new era of scientific discovery, where machine learning is tra
 <div class="jumbotron">
   <div class="col-md-12 col-sm-12 mx-auto">
     <div class="research-section reverse-order">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/research3.png" alt="Research 2" style="max-width: 450px;  margin-left: 30px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 3" style="max-width: 350px;" />
       <div class="research-content">
       <h4 style="color: #E2C8A8;"><strong>Engineering Functional Materials</strong></h4>
 <p style="text-align: justify; font-size: 17px;">Designing better materials can often feel like a game of whack-a-mole. Improving activity may reduce stability, increasing selectivity may decrease conversion, and small changes in composition can lead to dramatically different behavior. Our group studies the molecular and electronic origins of these tradeoffs and looks for opportunities to break them.  We use these insights to guide the forward design of heterogeneous catalysts, 2D materials, and other functional materials for energy and sustainability applications. </p>
