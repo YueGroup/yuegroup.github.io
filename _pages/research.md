@@ -130,7 +130,7 @@ permalink: /research/
 <br/>
 <h4 id="researchtext" style="color: #E2C8A8;"><strong> Our Mission </strong></h4>
 <p style="font-size: 18px;">
-We are entering a new era of scientific discovery, where machine learning is transforming how we understand and engineer the physical world. This creates an opportunity to learn, predict, and reason about chemistry in entirely new ways. Our research focuses on chemistry as it really happens - in <em>dynamic, heterogeneous, and often messy environments</em>. We advance both new machine learning methods and new chemical understanding.
+We are entering a new era of scientific discovery, where machine learning is transforming how we understand and engineer the physical world. This creates an opportunity to learn, predict, and reason about chemistry in entirely new ways. Our research combines machine learning and molecular simulation to study chemistry as it really happens - in <em>dynamic, heterogeneous, and often messy environments</em>. We pursue both new algorithms/methods and new chemical understanding.
 </p>
 </div>
 </div>
