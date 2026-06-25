@@ -130,7 +130,7 @@ permalink: /research/
 <br/>
 <h4 id="researchtext" style="color: #E2C8A8;"><strong> Our Mission </strong></h4>
 <p style="font-size: 18px;">
-We are entering a new era of scientific discovery, where machine learning is transforming how we understand and engineer the physical world. This creates an opportunity to learn, predict, and reason about chemistry in entirely new ways. Our research focuses on chemistry as it really happens - in <em>realistic, dynamic, and often messy environments</em>. We advance both new machine learning methods and new chemical understanding.
+We are entering a new era of scientific discovery, where machine learning is transforming how we understand and engineer the physical world. This creates an opportunity to learn, predict, and reason about chemistry in entirely new ways. Our research focuses on chemistry as it really happens - in <em>dynamic, heterogeneous, and often messy environments</em>. We advance both new machine learning methods and new chemical understanding.
 </p>
 </div>
 </div>
@@ -185,7 +185,7 @@ We are entering a new era of scientific discovery, where machine learning is tra
     <div class="research-section">
       <div class="research-content">
       <h4 style="color: #E2C8A8;"><strong>Engineering Interfaces and Solvents</strong></h4>
-<p style="text-align: justify; font-size: 17px;"> Catalysts often get all the attention, but it is only half the story. The surrounding electrolyte can be <em>just as much of a catalyst</em> as the catalyst itself! The challenge is that these environments are dynamic, collective, and often difficult to characterize from experiments alone. Our group combines statistical mechanics and first principles theory to understand how solvents, electric fields, and transport phenomena determine chemical behavior. We use these insights to engineer new <em>electrolyte</em>-design knobs for controlling catalysis, separations, and electrochemical processes. </p>
+<p style="text-align: justify; font-size: 17px;"> Catalysts often get all the attention, but it is only half the story. The surrounding electrolyte can be <em>just as much of a catalyst</em> as the catalyst itself! The challenge is that these environments are dynamic, collective, and often difficult to characterize from experiments alone. Our group combines statistical mechanics and first principles theory to understand how solvents, electric fields, and fluctuations determine chemical behavior. We use these insights to engineer new <em>electrolyte</em>-design knobs for controlling catalysis, separations, and electrochemical processes. </p>
       </div>
       <img src="{{ site.url }}{{ site.baseurl }}/images/research4.png" alt="Research 3" style="max-width: 300px;" />
     </div>
