@@ -58,7 +58,7 @@ permalink: /
 
 <br/>
 <div class="bottom-text" style="color: white;">
-We build physics-aware machine learning algorithms to understand and control chemistry in <em style="color:#E2C8A8;">realistic, dynamic, and messy</em> environments
+We build physics-aware machine learning algorithms to understand and control chemistry in <em style="color:#E2C8A8;">dynamic, heterogeneous, and messy</em> environments
 </div>
 <br/>
 <br/>
