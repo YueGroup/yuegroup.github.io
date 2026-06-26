@@ -139,7 +139,7 @@ We are entering a new era of scientific discovery, where machine learning is tra
 <div class="jumbotron">
   <div class="col-md-12 col-sm-12 mx-auto">
     <div class="research-section reverse-order">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/research1.png" alt="Research 1" style="max-width: 350px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/research1.png" alt="Research 1" style="max-width: 300px; margin-top: 20px;" />
       <div class="research-content">
         <h4 style="color: #E2C8A8;"><strong>Physics-Aware Machine Learning</strong></h4>
         <p style="font-size: 17px;">Machine learning models are now a routine workhorse for atomistic simulation and molecular design. The real test comes when these models are applied to complex chemical environments. Chemistry in the real world is messy and electronically complicated, and getting these systems right often requires more than just bigger models and more data. Can physical knowledge bridge this gap, and how should it be incorporated? Our group develops <em>physics-aware</em> machine learning algorithms and tools to tackle these challenges, including machine learning interatomic potentials (MLIPs), active learning strategies, and generative models for molecular simulation and design.</p>
@@ -158,7 +158,7 @@ We are entering a new era of scientific discovery, where machine learning is tra
         Scientific discovery is becoming a conversation between researchers and intelligent algorithms. Every simulation (or experiment) teaches us something new, but figuring out what to learn next becomes increasingly difficult as data become more expensive to obtain and systems move beyond familiar regimes. Our group develops mathematically grounded methods that help decide what data to collect, where to explore next, and how to learn as efficiently as possible. These intelligent algorithms combine ideas from uncertainty quantification, active learning, and learning under distribution shift.
         </p>
       </div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 2" style="max-width: 350px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 2" style="max-width: 250px;" />
     </div>
   </div>
 </div>
@@ -168,7 +168,7 @@ We are entering a new era of scientific discovery, where machine learning is tra
 <div class="jumbotron">
   <div class="col-md-12 col-sm-12 mx-auto">
     <div class="research-section reverse-order">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" alt="Research 3" style="max-width: 350px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/research3.png" alt="Research 3" style="max-width: 400px; margin-top: 20px;" />
       <div class="research-content">
       <h4 style="color: #E2C8A8;"><strong>Engineering Functional Materials</strong></h4>
 <p style="text-align: justify; font-size: 17px;">Designing better materials can often feel like a game of whack-a-mole. Improving activity may reduce stability, increasing selectivity may decrease conversion, and small changes in composition can lead to dramatically different behavior. Our group studies the molecular and electronic origins of these tradeoffs and looks for opportunities to break them.  We use these insights to guide the forward design of heterogeneous catalysts, 2D materials, and other functional materials for energy and sustainability applications. </p>
@@ -187,7 +187,7 @@ We are entering a new era of scientific discovery, where machine learning is tra
       <h4 style="color: #E2C8A8;"><strong>Engineering Interfaces and Solvents</strong></h4>
 <p style="text-align: justify; font-size: 17px;"> Catalysts often get all the attention, but it is only half the story. The surrounding electrolyte can be <em>just as much of a catalyst</em> as the catalyst itself! The challenge is that these environments are dynamic, collective, and often difficult to characterize from experiments alone. Our group combines statistical mechanics and first principles theory to understand how solvents, electric fields, and fluctuations determine chemical behavior. We use these insights to engineer new <em>electrolyte</em>-design knobs for controlling catalysis, separations, and electrochemical processes. </p>
       </div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/research4.png" alt="Research 3" style="max-width: 300px;" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/research4.png" alt="Research 3" style="max-width: 250px;" />
     </div>
   </div>
 </div>
