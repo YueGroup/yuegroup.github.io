@@ -1,23 +1,14 @@
-- name: Osman Mamun
-  photo: headshots/MamunOsman.jpg
+- name: Harender Dhattarwal
+  photo: headshots/squirtle.png
   info1: Postdoctoral Associate
-  email: om235@cornell.edu
+  email:
   location: Olin Hall 222
-  github: https://github.com/mamunm
-  scholar: https://scholar.google.com/citations?user=NJdTPhkAAAAJ&hl=en
-  linkedin: https://www.linkedin.com/in/osman-mamun/
-  education1: "PhD in Chemical Engineering, University of South Carolina"
-  education2: "Postdoc, Stanford University, PNNL"
-
-- name: Masuduzzaman
-  photo: headshots/Masuduzzaman.jpg
-  info1: Postdoctoral Associate
-  email: mm3566@cornell.edu
-  location: Olin Hall 222
-  scholar: https://scholar.google.com/citations?user=24VWKvkAAAAJ&hl=en
-  linkedin: https://www.linkedin.com/in/md-masuduzzaman/
-  website: https://sites.google.com/view/md-masuduzzaman/home
-  education1: "PhD in Mechanical Engineering, University of Ulsan"
+  scholar: https://scholar.google.com/citations?hl=en&user=Y4dvObYAAAAJ
+  linkedin: https://www.linkedin.com/in/hrendrsingh
+  education1: "PhD in Chemistry, IIT Delhi"
+  education2: "Postdoc, Rutgers University"
+  photo_class: contain no-border
+  website: "https://sites.google.com/view/harenderdhattarwal"
 
 - name: Chenlu Yang
   photo: headshots/ChenluYang.jpg
@@ -68,4 +59,5 @@
   info1: Undergraduate Researcher
   email: imt23@cornell.edu
   education1: "Cornell CBE '29"
+  photo_class: contain no-border
  

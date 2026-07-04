@@ -8,10 +8,22 @@ permalink: /people/
 <style>
   /* Add custom styles here */
   .circle-photo img {
-    border-radius: 50%;
-    border: 5px solid grey;
+    max-width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 0%; /* change this for icon square 0% to circle 50%*/
+    border: 2px solid grey;
     /* #ded4cc */
 
+  }
+
+  .circle-photo.contain img {
+  object-fit: contain;    /* show whole image */
+  }
+
+  .circle-photo.no-border img {
+    border: none;
   }
 
   .circle-icon {
@@ -81,7 +93,7 @@ permalink: /people/
 <div class="jumbotron">
 <div class="row">
 <div class="col-sm-3">
-<div class="circle-photo" style="text-align: right;">
+<div class="circle-photo" style="text-align: center;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="90%" style="max-width:250px"/>
 </div>
 </div>
@@ -118,7 +130,7 @@ permalink: /people/
 {% endif %}
 
 <div class="col-sm-2 text-center">
-<div class="circle-photo">
+<div class="circle-photo {{ member.photo_class }}">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
 </div>
 </div>

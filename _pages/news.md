@@ -95,6 +95,11 @@ permalink: /news/
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">June 2026</p>
+<p class="text">Shuwen gives an invited talk at <a href='https://wp.nyu.edu/sccpc/chemai/' target="_blank" style='color: #A1CF8D;'>ChemAI NYC</a> organized by NYU and the Simons Center for Computational Physical Chemistry! Thanks <a href='https://ailab.bio' target="_blank" style='color: #A1CF8D;'>Rocio</a> for the photo!</p>
+<div style="display: flex; gap: 16px; justify-content: center; align-items: center; margin-top: 10px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_ChemAI_list.jpeg" width="45%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_ChemAI_speaking.jpeg" width="45%" />
+</div>
 <p class="text">Our <a href='https://doi.org/10.1021/acsami.6c05214' target="_blank" style='color: #A1CF8D;'>collaborative paper</a> with Aristide Gumyusenge's group (MIT DMSE) on conductive polymers for electrochemical devices is now out in <em>ACS Applied Materials & Interfaces</em>!</p>
 <p class="text">Chenlu's <a href='https://pubs.rsc.org/en/content/articlelanding/2026/ee/d6ee01118g' target="_blank" style='color: #A1CF8D;'>collaborative paper</a> with Vibha Kalra's group (Cornell CBE) on electrolytes that induce electrode regeneration for battery recycling is now out in <em>Energy and Environmental Science</em>! Read more about it in the <a href='https://news.cornell.edu/stories/2026/06/electrochemical-bath-recycles-critical-minerals-batteries' target="_blank" style='color: #A1CF8D;'>Cornell Chronicle</a>!</p>
 <p class="text">The group goes to the <a href='https://www.cecam.org/workshop-details/physics-aware-machine-learning-for-molecules-and-materials-1554' target="_blank" style='color: #A1CF8D;'>CECAM Flagship Workshop on Physics-aware Machine Learning for Molecules and Materials</a> hosted at Cornell Tech in NYC! </p>

@@ -1,3 +1,23 @@
+- name: Masuduzzaman
+  role: Postdoc
+  years: 2025-2026
+
+- name: Osman Mamun
+  role: Postdoc
+  years: 2024-2026
+  current_position: Los Alamos National Lab
+
+- name: Aditi Seshadri
+  role: PhD student
+  years: 2024-2025
+  current_position: PhD @ Cornell CBE
+  accomplishments:
+    - NSF GRFP
+
+- name: Lyndon Hess
+  role: Undergraduate researcher
+  years: 2024-2025
+
 - name: Anthony Dee
   role: Undergraduate researcher
   years: 2023-2025
