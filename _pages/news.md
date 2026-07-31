@@ -101,7 +101,7 @@ December - Notre Dame visit, Prajwal work at NeurIPS
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">July 2026</p>
-<p class="text">Shuwen attends the Gordon Research Conference (GRC) on Water and Aqueous Solutions in Holderness, NH, where she served as a Discussion Leader and as a panelist for the Gordon Research Seminar (GRS) Mentorship Panel!</p>
+<p class="text">Shuwen attends the Gordon Research Conference (GRC) on Water and Aqueous Solutions in Holderness, NH! She served as a Discussion Leader at the GRC and as a panelist for the Gordon Research Seminar (GRS) Mentorship Panel!</p>
 </div>
 </div>
 
