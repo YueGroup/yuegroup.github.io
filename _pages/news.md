@@ -90,6 +90,20 @@ permalink: /news/
   <a href="{{ site.baseurl }}/news/2023">2023</a>
 </div>
 
+<!--
+August - Utkarsh complete the RPA
+September - Shuwen attends Scialog SM3 in Tucson, Shuwen gives an invited talk at the Telluride Workshop on Machine Learning for October
+November - SERMACS and AIChE
+December - Notre Dame visit, Prajwal work at NeurIPS
+-->
+
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">July 2026</p>
+<p class="text">Shuwen attends the Gordon Research Conference (GRC) on Water and Aqueous Solutions in Holderness, NH, where she served as a Discussion Leader and as a panelist for the Gordon Research Seminar (GRS) Mentorship Panel!</p>
+</div>
+</div>
 
 
 <div class="jumbotron">
