@@ -91,11 +91,30 @@ permalink: /news/
 </div>
 
 <!--
-August - Utkarsh complete the RPA
-September - Shuwen attends Scialog SM3 in Tucson, Shuwen gives an invited talk at the Telluride Workshop on Machine Learning for October
-November - SERMACS and AIChE
+August
+<p class="text">Congrats Utkarsh for successfully completing the RPA!</p>
+<p class="text">Our collaborative work on Denario the AI agent for scientific discovery led by the Simons Foundation is now out in <a href='https://doi.org/10.1103/kk55-gc95' target="_blank" style='color: #A1CF8D;'>PRX Intelligence</a>! Congrats to Osman for his contribution!</p>
+<p class="text">New work from Prajwal on using neural tangent kernels (NTK) for adaptive active learning for training MLIPs!</p>
+<p class="text">Exciting new work from Prajwal on the Theoretical Limits of Learning Unconstrained Interatomic Potentials!</p>
+September
+<p class="text">Shuwen attends Scialog SM3 in Tucson, AZ!</p>
+<p class="text">Shuwen gives an invited talk at the Telluride Workshop on Machine Learning!</p>
+<p class="text">We are excited to launch the <a href='' target="_blank" style='color: #A1CF8D;'>MIT Nanofluidics Seminar Series</a>, where Shuwen is a co-organizer!</p>
+
+October - ?
+November - SERMACS and AIChE, Osman paper?
 December - Notre Dame visit, Prajwal work at NeurIPS
+March - ACS session
 -->
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">August 2026</p>
+<p class="text">Welcome Harendar, new postdoc joining the group!</p>
+<p class="text">Our collaborative work on Denario the AI agent for scientific discovery led by the Simons Foundation is now out in <a href='https://journals.aps.org/prxintelligence/accepted/10.1103/kk55-gc95' target="_blank" style='color: #A1CF8D;'>PRX Intelligence</a>! Congrats to Osman for his contribution!</p>
+<p class="text">We received an NSF grant with Vibha Kalra's group (Cornell CBE), Argonne National Lab, and Princeton NuEnergy!</p>
+</div>
+</div>
 
 
 <div class="jumbotron">
@@ -123,7 +142,7 @@ December - Notre Dame visit, Prajwal work at NeurIPS
   <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_CECAM_poster_photo.jpeg" width="45%" />
   <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_CECAM_view_photo.jpeg" width="45%" />
 </div>
-<p class="text">Shuwen led the organization of the workshop along with co-organizers Camille Bilodeau (UVA), Andrew Rosen (Princeton), Stefano Martiniani (NYU), and Juan de Pablo (NYU)! Many thanks to our generous sponsors!</p>
+<p class="text">Shuwen led the organization of the workshop along with co-organizers Camille Bilodeau (UVA), Andrew Rosen (Princeton), Stefano Martiniani (NYU), and Juan de Pablo (NYU)! Many thanks to our generous sponsors! Read more about it in the <a href='https://news.cornell.edu/stories/2026/07/researchers-gather-cornell-tech-explore-ai-molecular-science' target="_blank" style='color: #A1CF8D;'>Cornell Chronicle</a>!</p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/news_images/2026_CECAM_flyer.png" width="90%" style="margin-top: 5px; margin-bottom: 10px;" />
 <p class="text">In between CECAM sessions, Shuwen also squeezed in a side quest across the river to give a talk at the <a href='https://eipm.weill.cornell.edu/news-events/symposium-artificial-intelligence-basic-research-medicine-and-life-sciences' target="_blank" style='color: #A1CF8D;'>Artificial Intelligence for Basic Research in Medicine and the Life Sciences Symposium</a> at Weill Cornell!</p>
 </div>
@@ -136,6 +155,7 @@ December - Notre Dame visit, Prajwal work at NeurIPS
 <p class="text">Shuwen gives an invited talk at the <a href='https://cent.mit.edu' target="_blank" style='color: #A1CF8D;'>DOE Center for Enhanced Nanofluidic Transport (CENT) EFRC</a>!</p>
 <p class="text">We received a SPROUT Award from Cornell Duffield Engineering to fund a collaboration with Yu Zhong (Cornell MSE) and Nick Abbott (Cornell CBE)!</p>
 <p class="text">Lyndon's <a href='https://doi.org/10.1016/j.biortech.2026.134907' target="_blank" style='color: #A1CF8D;'>co-first author paper</a> on ML for predicting experimental parameters for biomass pyrolysis in collaboration with Iris Yu's group (NUS CEE) is now out in <em>Bioresource Technology</em>!</p>
+<p class="text"> Shuwen is named a <a href='https://pubs.rsc.org/dd/article/5/5/1962/1234246/First-annual-Digital-Discovery-Emerging' target="_blank" style='color: #A1CF8D;'>Digital Discovery Emerging Investigator</a>!</p>
 </div>
 </div>
 
@@ -163,8 +183,7 @@ December - Notre Dame visit, Prajwal work at NeurIPS
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">February 2026</p>
-<p class="text">Aditi's <a href='https://doi.org/10.1039/D5DD00414D' target="_blank" style='color: #A1CF8D;'>paper</a> on ML for ionic liquids is now out in <em>Digital Discovery</em> in the <em>Emerging Investigator Collection</em>!</p>
-<div style="height: 10px;"></div>
+<p class="text">Aditi's on ML for ionic liquids is now out in <a href='https://doi.org/10.1039/D5DD00414D' target="_blank" style='color: #A1CF8D;'>Digital Discovery</a>!</p>
 </div>
 </div>
 
