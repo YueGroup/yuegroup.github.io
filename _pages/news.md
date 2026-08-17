@@ -111,7 +111,7 @@ March - ACS session
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">August 2026</p>
 <p class="text">Welcome Harendar, new postdoc joining the group!</p>
-<p class="text">Our collaborative work on Denario the AI agent for scientific discovery led by the Simons Foundation is now out in <a href='https://journals.aps.org/prxintelligence/accepted/10.1103/kk55-gc95' target="_blank" style='color: #A1CF8D;'>PRX Intelligence</a>! Congrats to Osman for his contribution!</p>
+<p class="text">Our work as part of the Denario consortium—a multidisciplinary collaboration led by the Flatiron Institute and Simons Foundation—is now out in <a href='https://journals.aps.org/prxintelligence/accepted/10.1103/kk55-gc95' target="_blank" style='color: #A1CF8D;'>PRX Intelligence</a>. Congrat to Osman for his contributions!</p>
 <p class="text">We received an NSF grant with Vibha Kalra's group (Cornell CBE), Argonne National Lab, and Princeton NuEnergy!</p>
 </div>
 </div>
