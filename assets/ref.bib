@@ -298,6 +298,21 @@
   abstract={Metal–organic frameworks (MOFs) have been widely studied for their ability to capture and store greenhouse gases. However, most computational discovery efforts study hypothetical MOFs without consideration of their stability, limiting the practical application of novel materials. We overcome this limitation by screening hypothetical ultrastable MOFs that have predicted high thermal and activation stability, as judged by machine learning (ML) models trained on experimental measures of stability. We enhance this set by computing the bulk modulus as a measure of mechanical stability and filter 1102 mechanically robust hypothetical MOFs from a database of ultrastable MOFs (USMOF DB). Grand Canonical Monte Carlo simulations are then employed to predict the gas adsorption properties of these hypothetical MOFs, alongside a database of experimental MOFs. We identify privileged building blocks that lead MOFs in USMOF DB to show exceptional working capacities compared to the experimental MOFs. We interpret these differences by training ML models on CO2 and CH4 adsorption in these databases, showing how poor model transferability between data sets indicates that novel design rules can be derived from USMOF DB that would not have been gathered through assessment of structurally characterized MOFs. We identify geometric features and node chemistry that will enable the rational design of MOFs with enhanced gas adsorption properties in synthetically realizable MOFs.}
 }
 
+@article{2026-ananth-adaptntk,
+  title={Adaptive Uncertainty Quantification and Active Learning for Neural Network Potentials},
+  author={Ananth, Prajwal and Yue, Shuwen},
+  preprint={http://arxiv.org/abs/2609.00488},
+  journal={},
+  volume={},
+  number={},
+  pages={},
+  doi={},
+  year={2026},
+  date={2026-08-31},
+  publisher={},
+  abstract={Machine learning interatomic potentials bridge the gap between quantum chemical precision and classical computational speed, enabling molecular dynamics simulations with first-principles accuracy. Their reliability is often improved through active learning, which iteratively expands the training set by identifying uncertain, out-of-distribution configurations. Existing uncertainty-quantification methods often involve a trade-off between computational cost and reliability, and generally cannot account for redundancy as an acquisition batch is assembled. Here, we introduce AdaptNTK, a single-model framework that measures uncertainty as a regularized Mahalanobis distance in empirical neural tangent kernel (NTK) feature space. With the NTK features fixed during acquisition, the uncertainty depends on the acquired configurations but not their reference labels. This allows the uncertainty to be updated recursively after each selection without retraining, reducing redundancy within an acquisition batch. On held-out rMD17 data, AdaptNTK achieves the highest mean correlations with force errors (Spearman $0.68$, Pearson $0.71$) and matches a three-member ensemble in error retention. In active learning experiments, AdaptNTK achieves the lowest force errors across rMD17 and Transition-1X, with particularly strong performance on transition-state configurations in Transition-1X. AdaptNTK is $2.6\times$ faster per Transition-1X cycle than the ensemble, providing efficient single-model uncertainty estimation with sequential updates for data-efficient active learning.}
+}
+
 
 @article{2026-mamun-dgkl,
   title={Deep Graph Kernel Learning for Material & Atomic Level Uncertainty Quantification in Adsorption Energy Prediction},
