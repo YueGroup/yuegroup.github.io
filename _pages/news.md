@@ -106,7 +106,7 @@ March - ACS session
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">August 2026</p>
-<p class="text">Exciting new <a href='http://arxiv.org/abs/2609.00488' target="_blank" style='color: #A1CF8D;'>preprint</a> from Prajwal on using neural tangent kernels (NTK) for uncertainty quantification and adaptive active learning for efficient training of MLIPs!</p>
+<p class="text">New <a href='http://arxiv.org/abs/2609.00488' target="_blank" style='color: #A1CF8D;'>preprint</a> from Prajwal on using neural tangent kernels (NTK) for uncertainty quantification and adaptive active learning for efficient training of MLIPs!</p>
 <p class="text">Welcome Harendar, new postdoc joining the group!</p>
 <p class="text">Our collaborative work on the Denario Project—a multidisciplinary consortium on AI Agents for Scientific Discovery led by the Flatiron Institute/Simons Foundation—is now out in <a href='https://doi.org/10.1103/kk55-gc95' target="_blank" style='color: #A1CF8D;'>PRX Intelligence</a>. Congrat to Osman for his contribution!</p>
 <p class="text">We received an NSF grant with Vibha Kalra's group (Cornell CBE), Argonne National Lab, and Princeton NuEnergy!</p>
