@@ -95,13 +95,20 @@ September
 <p class="text">Exciting new work from Prajwal on the Theoretical Limits of Learning Unconstrained Interatomic Potentials!</p>
 <p class="text">Shuwen attends Scialog SM3 in Tucson, AZ!</p>
 <p class="text">Shuwen gives an invited talk at the Telluride Workshop on Machine Learning!</p>
-<p class="text">We are excited to launch the <a href='' target="_blank" style='color: #A1CF8D;'>MIT Nanofluidics Seminar Series</a>, where Shuwen is a co-organizer!</p>
 
 October - 
 November - SERMACS and AIChE
 December - Notre Dame visit
 March - ACS session
 -->
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">September 2026</p>
+<p class="text">Shuwen is a co-organizing the MIT Nanofluidics Seminar Series, along with Cody Ritt (CU Boulder), Pedro de Souza (UCLA), Nikita Kavokine (EPFL), Michael Strano (MIT)! The seminar series takes place on zoom and launches this month, signup for those interested at the <a href='https://sites.google.com/g.ucla.edu/mit-nanofluidics-seminar/home' target="_blank" style='color: #A1CF8D;'>seminar website</a>.</p>
+</div>
+</div>
+
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
