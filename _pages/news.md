@@ -105,7 +105,7 @@ March - ACS session
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">September 2026</p>
-<p class="text">Shuwen is a co-organizing the MIT Nanofluidics Seminar Series, along with Cody Ritt (CU Boulder), Pedro de Souza (UCLA), Nikita Kavokine (EPFL), Michael Strano (MIT)! The seminar series takes place on zoom and launches this month, signup for those interested at the <a href='https://sites.google.com/g.ucla.edu/mit-nanofluidics-seminar/home' target="_blank" style='color: #A1CF8D;'>seminar website</a>.</p>
+<p class="text">Shuwen is a co-organizing the MIT Nanofluidics Seminar Series, along with Cody Ritt (CU Boulder), Pedro de Souza (UCLA), Nikita Kavokine (EPFL), Michael Strano (MIT)! Seminars take place monthly on zoom, starting this month. Signup for those interested at the <a href='https://sites.google.com/g.ucla.edu/mit-nanofluidics-seminar/home' target="_blank" style='color: #A1CF8D;'>seminar website</a>.</p>
 </div>
 </div>
 
