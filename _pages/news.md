@@ -93,7 +93,6 @@ permalink: /news/
 <!--
 September
 <p class="text">Exciting new work from Prajwal on the Theoretical Limits of Learning Unconstrained Interatomic Potentials!</p>
-<p class="text">Shuwen attends Scialog SM3 in Tucson, AZ!</p>
 <p class="text">Shuwen gives an invited talk at the Telluride Workshop on Machine Learning!</p>
 
 October - 
@@ -105,7 +104,9 @@ March - ACS session
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">September 2026</p>
-<p class="text">Shuwen is a co-organizing the MIT Nanofluidics Seminar Series, along with Pedro de Souza (UCLA), Nikita Kavokine (EPFL), Cody Ritt (CU Boulder), and Michael Strano (MIT)! The seminar series launches this month, held on zoom monthly and open to the academic community. Sign up on the <a href='https://sites.google.com/g.ucla.edu/mit-nanofluidics-seminar/home' target="_blank" style='color: #A1CF8D;'>seminar website here</a>.</p>
+<p class="text">Congrats to Chenlu for successfully passing the A-Exam (PhD Candidacy) and Utkarsh for sucessfully passing the Research Progress Assessment (RPA)!</p>
+<p class="text">Shuwen attends the RCSA Scialog on Sustainable Minerals, Metals, and Materials (SM3) in Tucson, AZ!</p>
+<p class="text">Shuwen is co-organizing the <a href='https://sites.google.com/g.ucla.edu/mit-nanofluidics-seminar/home' target="_blank" style='color: #A1CF8D;'>MIT Nanofluidics Seminar Series</a>, along with Pedro de Souza (UCLA), Nikita Kavokine (EPFL), Cody Ritt (CU Boulder), and Michael Strano (MIT)! Seminars will be on zoom each month and open to the academic community. Sign up on our website!</p>
 </div>
 </div>
 
