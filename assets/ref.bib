@@ -311,16 +311,30 @@
   abstract={Electrochemical C--N coupling could provide a direct route from CO or CO$_2$ and nitrogen oxides (NO$_x$) to urea, formamide, and other nitrogen-containing products. At bimetallic surfaces, distinct metals can stabilize carbon- and nitrogen-containing intermediates separately, but why one metal pair outperforms another remains difficult to predict. Combining machine-learning-accelerated screening, density functional theory, and microkinetic modeling, we identify Zn-based alloys as promising catalysts and determine how the secondary metal controls interfacial C--N coupling. Calculated transition states show that adsorbed CO binds preferentially to the secondary metal M, adsorbed N remains bound to a neighboring Zn site, and the C--N bond forms directly across the Zn--M interface. This division of labor has a direct kinetic consequence: as M binds CO more strongly, surface CO coverage increases, but the subsequent C--N coupling step slows. The competition between CO coverage and the coupling barrier produces a volcano-shaped trend in the predicted rate, with Zn-Cu, Zn-Pd and Zn-Pt retaining favorable coupling activity. Electronic-structure analysis relates the variation in CO adsorption to metal-to-CO $d$--$\pi^{*}$ back-donation. The difference between the $d$-band centers of Zn and M, $\Delta\varepsilon_d$, captures the trends in CO adsorption and coupling rate across the Zn-based series. These results identify the Zn--M pair, rather than Zn alone, as the C--N bond-forming site and establish interfacial electronic asymmetry as a tunable design variable for bimetallic C--N electrocatalysts.}
 }
 
-@article{2026-ananth-adaptntk,
-  title={AdaptNTK: Adaptive Uncertainty Quantification and Active Learning for Neural Network Potentials},
+@article{2026-ananth-limits,
+  title={From Force Accuracy to Reliable Molecular Dynamics: Limits and Guarantees for Unconstrained MLIPs},
   author={Ananth, Prajwal and Yue, Shuwen},
-  preprint={https://doi.org/10.48550/arXiv.2609.00488},
-  journal={},
+  journal={NeurIPS 2026 Workshop on AI for Materials},
   volume={},
   number={},
   pages={},
   year={2026},
-  date={2026-08-31},
+  date={2026-09-28},
+  publisher={},
+  abstract={Machine-learned interatomic potentials (MLIPs) are commonly trained by energy-and-force matching and deployed in molecular dynamics (MD) simulations. While many MLIPs incorporate physical inductive biases into their architectures, recent work has shown that relaxing these constraints can improve both computational efficiency and predictive accuracy. Motivated by this trend, we investigate whether energy-and-force matching is sufficient for reliable dynamics when the hypothesis class imposes no additional structural constraints. We prove that, in general, it is not. We show that smooth, conservative surrogates with uniformly bounded Hessians can achieve arbitrarily small population energy and force errors with respect to the target distribution in the unconstrained hypothesis class. However, their induced dynamics remain far from the target distribution in total variation distance, and this discrepancy grows with dimension. We isolate two failure mechanisms: kinetic trapping, where the learned stationary distribution is accurate but cannot be reached within any sub-exponential time horizon, and equilibrium mismatch, where the learned stationary distribution differs from the target. We further establish sufficient conditions under which energy-and-force matching provides sampling guarantees and discuss their implications for future MLIP design.}
+}
+
+
+@article{2026-ananth-adaptntk,
+  title={AdaptNTK: Adaptive Uncertainty Quantification and Active Learning for Neural Network Potentials},
+  author={Ananth, Prajwal and Yue, Shuwen},
+  preprint={https://doi.org/10.48550/arXiv.2609.00488},
+  journal={NeurIPS 2026 Workshop on AI for Science},
+  volume={},
+  number={},
+  pages={},
+  year={2026},
+  date={2026-09-28},
   publisher={},
   abstract={Machine learning interatomic potentials bridge the gap between quantum chemical precision and classical computational speed, enabling molecular dynamics simulations with first-principles accuracy. Their reliability is often improved through active learning, which iteratively expands the training set by identifying uncertain, out-of-distribution configurations. Existing uncertainty-quantification methods often involve a trade-off between computational cost and reliability, and generally cannot account for redundancy as an acquisition batch is assembled. Here, we introduce AdaptNTK, a single-model framework that measures uncertainty as a regularized Mahalanobis distance in empirical neural tangent kernel (NTK) feature space. With the NTK features fixed during acquisition, the uncertainty depends on the acquired configurations but not their reference labels. This allows the uncertainty to be updated recursively after each selection without retraining, reducing redundancy within an acquisition batch. On held-out rMD17 data, AdaptNTK achieves the highest mean correlations with force errors (Spearman $0.68$, Pearson $0.71$) and matches a three-member ensemble in error retention. In active learning experiments, AdaptNTK achieves the lowest force errors across rMD17 and Transition-1X, with particularly strong performance on transition-state configurations in Transition-1X. AdaptNTK is $2.6\times$ faster per Transition-1X cycle than the ensemble, providing efficient single-model uncertainty estimation with sequential updates for data-efficient active learning.}
 }
