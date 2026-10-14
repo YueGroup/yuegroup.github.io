@@ -312,16 +312,17 @@
 }
 
 @article{2026-ananth-limits,
-  title={From Force Accuracy to Reliable Molecular Dynamics: Limits and Guarantees for Unconstrained MLIPs},
+  title={On the Theoretical Limits of Learning Unconstrained Interatomic Potentials},
+  preprint={https://arxiv.org/abs/2610.15078},
   author={Ananth, Prajwal and Yue, Shuwen},
   journal={NeurIPS 2026 Workshop on AI for Materials},
   volume={},
   number={},
   pages={},
   year={2026},
-  date={2026-09-28},
+  date={2026-10-10},
   publisher={},
-  abstract={Machine-learned interatomic potentials (MLIPs) are commonly trained by energy-and-force matching and deployed in molecular dynamics (MD) simulations. While many MLIPs incorporate physical inductive biases into their architectures, recent work has shown that relaxing these constraints can improve both computational efficiency and predictive accuracy. Motivated by this trend, we investigate whether energy-and-force matching is sufficient for reliable dynamics when the hypothesis class imposes no additional structural constraints. We prove that, in general, it is not. We show that smooth, conservative surrogates with uniformly bounded Hessians can achieve arbitrarily small population energy and force errors with respect to the target distribution in the unconstrained hypothesis class. However, their induced dynamics remain far from the target distribution in total variation distance, and this discrepancy grows with dimension. We isolate two failure mechanisms: kinetic trapping, where the learned stationary distribution is accurate but cannot be reached within any sub-exponential time horizon, and equilibrium mismatch, where the learned stationary distribution differs from the target. We further establish sufficient conditions under which energy-and-force matching provides sampling guarantees and discuss their implications for future MLIP design.}
+  abstract={Machine-learned interatomic potentials (MLIPs) accelerate molecular dynamics (MD) simulations by learning the energies and force that govern atomic motion. Recent work has shown that relaxing physical inductive biases can improve computational efficiency and predictive accuracy, raising the question of whether energy-and-force matching alone is sufficient to ensure accurate sampling. We show that, for unconstrained hypothesis classes, the relationship between prediction error and sampling accuracy is exponentially ill-conditioned in dimension. In particular, prediction errors that decay exponentially with dimension can coexist with nearly maximal total variation distance between the learned and target distributions. We identify two failure mechanisms. The first is kinetic trapping, where relaxation to an accurate learned equilibrium requires exponentially long times, even when simulations are initialized from training configurations at which energies and forces are matched exactly. The second is equilibrium mismatch, where the learned stationary distribution itself remains far from the target. Under explicit assumptions, we show that equilibrium mismatch can persist even in local, symmetry-preserving models, where small per-atom errors coexist with a distributional discrepancy that approaches its maximum as system size increases. Finally, we establish global energy-control conditions that guarantee equilibrium accuracy and identify additional conditions required for rapid relaxation.}
 }
 
 
