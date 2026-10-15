@@ -107,7 +107,7 @@ March - ACS session
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">October 2026</p>
-<p class="text">Exciting new <a href='https://arxiv.org/abs/2610.15078' target="_blank" style='color: #A1CF8D;'>preprint</a> from Prajwal on using the theoretical limits of learning unconstrained interatomic potentials!</p>
+<p class="text">Exciting new <a href='https://arxiv.org/abs/2610.15078' target="_blank" style='color: #A1CF8D;'>preprint</a> from Prajwal on the fundamental limits of machine learning unconstrained interatomic potentials! Turns out, even models with extremely small energy and force errors can produce entirely wrong molecular dynamics. Here we show that adding physics can help! </p>
 </div>
 </div>
 
