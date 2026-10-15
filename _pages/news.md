@@ -91,14 +91,13 @@ permalink: /news/
 </div>
 
 <!--
-September
-<p class="text">Exciting new work from Prajwal on the Theoretical Limits of Learning Unconstrained Interatomic Potentials!</p>
+October -  new preprint from Prajwal, new preprint from Chenlu, preprint from masud
 
-October -  new preprint from Prajwal, new preprint from Chenlu
-
-November - SERMACS and AIChE, new preprint from masud
+November - SERMACS and AIChE
 
 December - Notre Dame visit, new preprint from osman, new preprint from harsh, new preprint from Utkarsh, new preprint from harendar
+
+Jan - Chenlu preprint
 
 March - ACS session
 -->
@@ -107,7 +106,7 @@ March - ACS session
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">October 2026</p>
-<p class="text">Exciting new <a href='https://arxiv.org/abs/2610.15078' target="_blank" style='color: #A1CF8D;'>preprint</a> from Prajwal on the fundamental limits of machine learning unconstrained interatomic potentials! Turns out, even models with extremely small energy and force errors can produce entirely wrong molecular dynamics. Here we show that adding physics can help! </p>
+<p class="text">Exciting new <a href='https://arxiv.org/abs/2610.15078' target="_blank" style='color: #A1CF8D;'>preprint</a> from Prajwal on the fundamental limits of machine learning unconstrained interatomic potentials! Turns out, unconstrained models can produce entirely wrong molecular dynamics, even with arbitrarily small population-level energy and force errors.  Here, we show that additional physical constraints are fundamentally necessary, not just a way to improve data efficiency! </p>
 </div>
 </div>
 
