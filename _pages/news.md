@@ -113,7 +113,7 @@ March - ACS session
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">September 2026</p>
-<p class="text">Our group has two NeurIPS workshop papers accepted - one at AI4Science and one at AI4Mat! AdaptNTK was selected for a spotlight presentations at AI4Science (top ~1%)! Congrats Prajwal!</p>
+<p class="text">Our group has two NeurIPS workshop papers accepted - one at AI4Science and one at AI4Mat! AdaptNTK was selected for a spotlight presentation at AI4Science (top ~1%)! Congrats Prajwal!</p>
 <p class="text">Shuwen gives an invited talk at the Telluride Workshop on Machine Learning for Chemistry and Materials in Telluride, CO!</p>
 <p class="text">Congrats to Chenlu for successfully passing the A-Exam (PhD Candidacy) and Utkarsh for sucessfully passing the Research Progress Assessment (RPA)!</p>
 <p class="text">Shuwen attends the RCSA Scialog on Sustainable Minerals, Metals, and Materials (SM3) in Tucson, AZ!</p>
