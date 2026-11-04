@@ -91,11 +91,10 @@ permalink: /news/
 </div>
 
 <!--
-October -  new preprint from Prajwal, new preprint from Chenlu, preprint from masud
 
-November - SERMACS and AIChE, ACS PRF, preprint from harsh
+November - SERMACS and AIChE, ACS PRF, preprint from harsh, preprint from Masud
 
-December - Notre Dame visit, new preprint from osman, new preprint from Utkarsh, new preprint from harendar, nvidia grant?
+December - Notre Dame visit, new preprint from osman, new preprint from Utkarsh, new preprint from harendar x2, nvidia grant?
 
 Jan - Chenlu preprint
 
@@ -106,7 +105,7 @@ March - ACS session
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">October 2026</p>
-<p class="text"> Chenlu’s new <a href='https://chemrxiv.org/doi/full/10.26434/chemrxiv.15011448/v1' target="_blank" style='color: #A1CF8D;'>preprint</a> is out! This work explores how pairs of metals can be chosen to help make carbon-nitrogen bonds, a key step toward producing chemicals such as urea!</p>
+<p class="text"> Chenlu’s new <a href='https://chemrxiv.org/doi/full/10.26434/chemrxiv.15011448/v1' target="_blank" style='color: #A1CF8D;'>preprint</a> is out! We explore how pairs of metals can be strategically chosen to form bimetallic catalysts for C-N coupling, a key step toward producing chemicals such as urea!</p>
 <p class="text">Exciting new <a href='https://arxiv.org/abs/2610.15078' target="_blank" style='color: #A1CF8D;'>preprint</a> from Prajwal on the fundamental limits of machine learning unconstrained interatomic potentials! Turns out, unconstrained models can produce entirely wrong molecular dynamics, even with arbitrarily small population-level energy and force errors.  Here, we show that additional physical constraints are fundamentally necessary, not just a way to improve data efficiency! </p>
 </div>
 </div>
