@@ -92,7 +92,7 @@ permalink: /news/
 
 <!--
 
-November - SERMACS and AIChE, ACS PRF, preprint from harsh, preprint from Masud
+November - preprint from harsh, preprint from Masud
 
 December - Notre Dame visit, new preprint from osman, new preprint from Utkarsh, new preprint from harendar x2, nvidia grant?
 
@@ -100,6 +100,16 @@ Jan - Chenlu preprint
 
 March - ACS session
 -->
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12 mx-auto text-center">
+<p class="header-month">November 2026</p>
+<p class="text">Our group receives an ACS PRF grant!</p>
+<p class="text">Chenlu is accepted in the Stanford Postdoctoral Recruitment Initiative in Sciences and Medicine (PRISM) program!</p>
+<p class="text">Chenlu and Shuwen attend AIChE in Minneapolis, MN! Chenlu gives a talk in the ML for Catalysis session and a poster in the CoMSEF session! Shuwen chairs the CoMSEF/Area 1A Faculty Candidate Session and CoMSEF Poster Session, and she gives an invited talk in the Machine Learned and Classical Intermolecular Potentials session!</p>
+<p class="text">Shuwen gives an invited talk at SERMACS in Memphis, TN!</p>
+</div>
+</div>
 
 
 <div class="jumbotron">
