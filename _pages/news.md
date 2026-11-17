@@ -105,7 +105,7 @@ March - ACS session
 <div class="col-md-12 col-sm-12 mx-auto text-center">
 <p class="header-month">November 2026</p>
 <p class="text">Our group received an ACS PRF grant!</p>
-<p class="text">Chenlu is accepted in the Stanford Postdoctoral Recruitment Initiative in Sciences and Medicine (PRISM) program!</p>
+<p class="text">Chenlu is accepted in the Stanford PRISM program!</p>
 <p class="text">Chenlu and Shuwen attend AIChE in Minneapolis, MN! Chenlu gives a talk in the ML for Catalysis session and a poster in the CoMSEF session! Shuwen chairs the CoMSEF/Area 1A Faculty Candidate Session and CoMSEF Poster Session, and she gives an invited talk in the Machine Learned and Classical Intermolecular Potentials session!</p>
 <p class="text">Shuwen gives an invited talk at SERMACS in Memphis, TN!</p>
 </div>
